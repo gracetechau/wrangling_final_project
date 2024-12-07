@@ -15,7 +15,7 @@ This project combines box office revenue data from the Kaggle dataset [_'Movies 
 [X] Clean box office revenue data  
 [X] Scrape Letterboxd movie rating data  
 [X] Clean Letterboxd movie rating data  
-[X] Merge box office revenue and Letterboxd movie data
+[X] Merge box office revenue and Letterboxd movie data  
 [X] Complete EDA and analysis on final dataset
 
 ## What did I learn?

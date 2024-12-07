@@ -18,7 +18,7 @@ This folder contains original, unmodified data files after downloading and scrap
 
 ## clean_data
 
-This folder contains clean data files after all cleaning, processing and analyzing.
+This folder contains data files after all cleaning, processing and analyzing.
 
 - box_office_revenue_2017.2019_clean.csv
 - letterboxd_movie_data_2017_clean.csv

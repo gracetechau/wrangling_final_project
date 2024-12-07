@@ -2,12 +2,10 @@
 
 ## This folder contains all files related to the finished findings of this project.
 
-**File 1**  
-Description of what file 1 contains.
+**final_report.pdf**  
+This PDF file contains the final written report for this project. It includes the following sections:
 
-**File 2**  
-Description of what file 2 contains.
-
-### Analysis
-
-Decription of final analysis and findings.
+- Intoduction
+- Data
+- Analysis
+- Conclusion

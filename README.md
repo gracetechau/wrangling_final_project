@@ -9,7 +9,7 @@ Connect with me on social media and follow my work:
 
 ## Project Description
 
-This project combines box office revenue data from the Kaggle dataset _'Movies Box Office Collection Data 2000-2024'_ and movie rating data scraped from the film review website Letterboxd from the years 2017 to 2019. The goal of combining these data sources is to determine if there is a relationship between a film's box office revneue and average rating on Letterboxd.
+This project combines box office revenue data from the Kaggle dataset [_'Movies Box Office Collection Data 2000-2024'_](https://www.kaggle.com/datasets/parthdande/movies-box-office-collection-data-2000-2024) and movie rating data scraped from the film review website Letterboxd from the years 2017 to 2019. The goal of combining these data sources is to determine if there is a relationship between a film's box office revneue and average rating on Letterboxd.
 
 **To-Do List**  
 [X] Clean box office revenue data  
@@ -41,7 +41,7 @@ This project developed my overall understanding and use of the Python langauge. 
 - 11/21/2024 - created notebook for cleaning Letterboxd movie data files for 2018
 - 11/21/2024 - imported clean Letterboxd movie data file for 2018
 - 11/27/2024 - imported raw Letterboxd movie data files for year 2019
-  = 11/27/2024 - created notebook for cleaning Letterboxd movie data files for 2019
+- 11/27/2024 - created notebook for cleaning Letterboxd movie data files for 2019
 - 11/27/2024 - imported clean Letterboxd movie data files for 2019
 - 11/27/2024 - create notebook for merging the clean Letterboxd movie data of files from the years 2017, 2018, & 2019 and clean Box Office Revenue data
 - 11/27/2024 - import full complete merge data set across all years in both data sources

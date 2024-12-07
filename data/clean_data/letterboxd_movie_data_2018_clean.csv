@@ -1,0 +1,3420 @@
+title,year,number_ratings,average_rating,length,genres
+Spider-Man: Into the Spider-Verse,2018,2764289,4.4,117,"Adventure, Animation, Science Fiction"
+Avengers: Infinity War,2018,2174852,4.0,149,"Action, Science Fiction, Adventure"
+Hereditary,2018,1722359,4.0,128,"Thriller, Horror, Mystery"
+Black Panther,2018,1875107,3.7,135,"Adventure, Science Fiction, Action"
+A Quiet Place,2018,1392279,3.6,91,"Drama, Science Fiction, Horror"
+Bohemian Rhapsody,2018,1225300,3.4,135,"Drama, Music, Moving Relationship Stories"
+Deadpool 2,2018,1188409,3.5,120,"Action, Comedy, Adventure"
+Beautiful Boy,2018,706094,3.9,119,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+The Favourite,2018,718578,4.0,120,"Thriller, Drama, Comedy"
+BlacKkKlansman,2018,835688,3.9,136,"Drama, Comedy, Crime"
+Isle of Dogs,2018,712069,4.0,101,"Comedy, Animation, Adventure"
+Incredibles 2,2018,972661,3.4,118,"Animation, Adventure, Family"
+Venom,2018,895851,2.9,112,"Science Fiction, Action, Monsters"
+A Star Is Born,2018,770071,3.6,136,"Music, Romance, Drama"
+Annihilation,2018,700546,3.6,115,"Horror, Science Fiction, Monsters"
+Ant-Man and the Wasp,2018,828047,2.9,119,"Adventure, Action, Science Fiction"
+Ready Player One,2018,792246,3.3,140,"Science Fiction, Action, Adventure"
+Green Book,2018,659874,3.8,130,"Drama, History, Moving Relationship Stories"
+mid90s,2018,530452,3.8,86,"Drama, Comedy, Underdogs And Coming Of Age"
+Bird Box,2018,808229,2.9,124,"Thriller, Drama, Horror"
+Suspiria,2018,402911,3.7,152,"Mystery, Drama, Horror"
+Crazy Rich Asians,2018,609802,3.5,121,"Comedy, Romance, Relationship Comedy"
+Ocean’s Eight,2018,611927,3.3,111,"Crime, Action, Comedy"
+Sorry to Bother You,2018,418473,3.7,112,"Fantasy, Science Fiction, Comedy"
+Solo: A Star Wars Story,2018,601420,2.9,135,"Science Fiction, Adventure, Action"
+Roma,2018,385897,4.1,135,"Drama, Humanity And The World Around Us, Moving Relationship Stories"
+Aquaman,2018,612619,2.8,143,"Fantasy, Action, Adventure"
+Eighth Grade,2018,384447,3.8,94,"Comedy, Drama, Underdogs And Coming Of Age"
+To All the Boys I’ve Loved Before,2018,569322,3.0,100,"Comedy, Romance, Relationship Comedy"
+Mission: Impossible – Fallout,2018,495609,4.0,147,"Action, Adventure, High Speed And Special Ops"
+Climax,2018,335327,3.8,97,"Horror, Drama, Intense Violence And Sexual Transgression"
+Mamma Mia! Here We Go Again,2018,438511,3.4,114,"Comedy, Romance, Song And Dance"
+Game Night,2018,402781,3.5,100,"Crime, Mystery, Comedy"
+"Love, Simon",2018,425887,3.3,110,"Romance, Comedy, Drama"
+The House That Jack Built,2018,261863,3.6,151,"Drama, Crime, Thriller"
+Burning,2018,249297,4.1,148,"Thriller, Drama, Mystery"
+Jurassic World: Fallen Kingdom,2018,470827,2.6,129,"Action, Adventure, Science Fiction"
+Ralph Breaks the Internet,2018,446764,2.9,112,"Animation, Family, Adventure"
+Shoplifters,2018,224434,4.3,120,"Drama, Thriller, Crime"
+Fantastic Beasts: The Crimes of Grindelwald,2018,440755,2.6,134,"Fantasy, Adventure, Epic Heroes"
+Halloween,2018,380637,3.2,106,"Thriller, Horror, The Undead And Monster Classics"
+Mandy,2018,240080,3.6,122,"Horror, Fantasy, Action"
+Under the Silver Lake,2018,205806,3.5,139,"Drama, Mystery, Crime"
+First Man,2018,257673,3.7,141,"History, Drama, Politics And Human Rights"
+The Ballad of Buster Scruggs,2018,308626,3.7,132,"Comedy, Western, Drama"
+A Simple Favor,2018,292249,3.2,117,"Thriller, Comedy, Crime"
+The Nun,2018,355752,2.2,96,"Horror, The Undead And Monster Classics, Terrifying"
+Set It Up,2018,264883,3.3,105,"Comedy, Romance, Relationship Comedy"
+The Haunting of Hill House,2018,290480,4.3,575,"Drama, Horror, Mystery"
+The Meg,2018,320984,2.4,113,"Action, Science Fiction, Horror"
+Maze Runner: The Death Cure,2018,296399,3.1,143,"Science Fiction, Adventure, Thriller"
+Vice,2018,237964,3.4,132,"Drama, Comedy, Politics And Human Rights"
+Black Mirror: Bandersnatch,2018,310792,3.2,90,"Science Fiction, Thriller, Drama"
+Creed II,2018,277872,3.5,130,"Drama, Action, Moving Relationship Stories"
+Searching,2018,243357,3.7,102,"Thriller, Mystery, Drama"
+Bad Times at the El Royale,2018,221258,3.5,141,"Crime, Thriller, Mystery"
+The Kissing Booth,2018,313388,1.6,105,"Romance, Comedy, Underdogs And Coming Of Age"
+Upgrade,2018,220633,3.7,100,"Science Fiction, Action, Thriller"
+Bumblebee,2018,250611,3.2,113,"Action, Science Fiction, Adventure"
+At Eternity’s Gate,2018,122794,3.7,111,"Drama, Humanity And The World Around Us, Moving Relationship Stories"
+High Life,2018,134683,3.2,113,"Science Fiction, Drama, Mystery"
+Cold War,2018,142747,4.0,88,"Romance, Music, Drama"
+If Beale Street Could Talk,2018,130682,3.9,120,"Romance, Drama, Moving Relationship Stories"
+Tag,2018,207618,3.0,100,"Comedy, Action, Crude Humor And Satire"
+Sharp Objects,2018,123166,4.3,422,"Drama, Crime, Mystery"
+Free Solo,2018,163399,4.0,100,"Adventure, Documentary, Moving Relationship Stories"
+Christopher Robin,2018,163227,3.5,104,"Family, Adventure, Comedy"
+The Grinch,2018,186096,2.9,85,"Animation, Fantasy, Comedy"
+Widows,2018,130581,3.6,129,"Crime, Thriller, Drugs And Gangsters"
+Mary Poppins Returns,2018,160688,3.0,131,"Fantasy, Family, Comedy"
+Instant Family,2018,162856,3.4,118,"Drama, Comedy, Crude Humor And Satire"
+Tomb Raider,2018,169215,2.7,118,"Action, Fantasy, Adventure"
+The Miseducation of Cameron Post,2018,98285,3.5,92,"Drama, Faith And Religion, Moving Relationship Stories"
+Red Sparrow,2018,134864,2.9,140,"Mystery, Thriller, Intense Violence And Sexual Transgression"
+Capernaum,2018,85138,4.2,126,"Drama, Moving Relationship Stories, Humanity And The World Around Us"
+Cam,2018,124176,2.9,95,"Horror, Mystery, The Undead And Monster Classics"
+Blockers,2018,125792,3.0,102,"Comedy, Crude Humor And Satire, Underdogs And Coming Of Age"
+Wildlife,2018,66517,3.6,105,"Drama, Moving Relationship Stories, Humanity And The World Around Us"
+The Predator,2018,132262,2.1,107,"Adventure, Science Fiction, Action"
+Overlord,2018,119522,3.2,110,"Horror, War, Science Fiction"
+The Equalizer 2,2018,139161,3.0,121,"Action, Crime, Thriller"
+The Hate U Give,2018,102028,3.7,133,"Drama, Crime, Underdogs And Coming Of Age"
+Truth or Dare,2018,143054,1.9,101,"Horror, Thriller, The Undead And Monster Classics"
+The Mule,2018,121675,3.3,116,"Drama, Crime, Moving Relationship Stories"
+Hotel Transylvania 3: Summer Vacation,2018,144914,2.6,97,"Comedy, Animation, Fantasy"
+The Cloverfield Paradox,2018,129347,2.3,102,"Horror, Thriller, Science Fiction"
+The Perfection,2018,112518,2.9,90,"Horror, Drama, Thriller"
+Rampage,2018,144833,2.4,107,"Action, Adventure, Science Fiction"
+The Wolf House,2018,42941,4.1,75,"Animation, Drama, Horror"
+Happy as Lazzaro,2018,62158,4.0,128,"Drama, Fantasy, Faith And Religion"
+An Elephant Sitting Still,2018,29100,4.3,234,"Drama, Humanity And The World Around Us, Tragic Sadness And Captivating Beauty"
+American Animals,2018,81453,3.7,117,"Drama, Documentary, Crime"
+Blindspotting,2018,71309,4.1,95,"Drama, Comedy, Crime"
+The First Purge,2018,121146,2.4,97,"Action, Thriller, Horror"
+Leave No Trace,2018,77352,3.7,109,"Drama, Moving Relationship Stories, Heartbreaking And Moving Family Drama"
+Sicario: Day of the Soldado,2018,114751,3.2,122,"Thriller, Crime, Action"
+Boy Erased,2018,86766,3.3,115,"Drama, Moving Relationship Stories, Faith And Religion"
+Tully,2018,82734,3.6,96,"Comedy, Drama, Moving Relationship Stories"
+Can You Ever Forgive Me?,2018,79217,3.6,106,"Drama, Crime, Comedy"
+Assassination Nation,2018,77795,3.0,108,"Thriller, Comedy, Horror"
+Three Identical Strangers,2018,92124,3.7,97,"Documentary, Intense Violence And Sexual Transgression, Fascinating"
+I Want to Eat Your Pancreas,2018,93916,3.9,108,"Drama, Romance, Animation"
+Pacific Rim: Uprising,2018,123110,2.2,111,"Action, Science Fiction, Adventure"
+The Nightingale,2018,63293,3.7,136,"Western, Thriller, Drama"
+Apostle,2018,94410,3.1,130,"Drama, Horror, Mystery"
+Gonjiam: Haunted Asylum,2018,79484,3.3,95,"Horror, Mystery, The Undead And Monster Classics"
+Won’t You Be My Neighbor?,2018,78018,4.2,95,"Documentary, Humanity And The World Around Us, Faith And Religion"
+Mary Queen of Scots,2018,78275,3.1,124,"History, Drama, Epic History And Literature"
+Sierra Burgess Is a Loser,2018,134242,1.5,105,"Drama, Romance, Comedy"
+The Sisters Brothers,2018,76322,3.6,121,"Comedy, Western, Drama"
+Maniac,2018,81931,3.9,383,"Drama, Comedy, Humanity And The World Around Us"
+Taylor Swift: Reputation Stadium Tour,2018,95601,4.5,125,Music
+Ghostland,2018,86113,3.1,91,"Horror, Mystery, Thriller"
+Unsane,2018,74458,3.3,98,"Horror, Thriller, Intense Violence And Sexual Transgression"
+Possum,2018,53075,3.2,85,"Horror, Thriller, Drama"
+Insidious: The Last Key,2018,106385,2.5,103,"Thriller, Horror, The Undead And Monster Classics"
+The Strangers: Prey at Night,2018,89350,2.7,86,"Horror, Thriller, The Undead And Monster Classics"
+Vox Lux,2018,50728,3.2,114,"Music, Drama, Song And Dance"
+Border,2018,56148,3.6,110,"Drama, Crime, Fantasy"
+Skyscraper,2018,111852,2.3,102,"Action, Thriller, Adventure"
+Summer of 84,2018,68627,3.2,105,"Mystery, Horror, Drama"
+Fifty Shades Freed,2018,97190,1.9,105,"Romance, Drama, Moving Relationship Stories"
+Minding the Gap,2018,42590,4.3,93,"Documentary, Moving Relationship Stories, Teen Friendship And Coming-Of-Age"
+Dumplin’,2018,83623,3.1,110,"Drama, Comedy, Moving Relationship Stories"
+The Guilty,2018,64968,3.9,86,"Drama, Thriller, Crime"
+Slender Man,2018,89416,1.2,93,"Horror, Thriller, Mystery"
+Greta,2018,69356,2.8,98,"Thriller, Horror, Mystery"
+Mortal Engines,2018,85305,2.5,128,"Adventure, Science Fiction, Epic Heroes"
+Unfriended: Dark Web,2018,79543,2.7,92,"Horror, Mystery, Thriller"
+Long Day’s Journey into Night,2018,32225,3.9,138,"Drama, Mystery, Humanity And The World Around Us"
+Dragged Across Concrete,2018,54223,3.7,158,"Action, Thriller, Crime"
+The Christmas Chronicles,2018,84007,2.9,104,"Adventure, Comedy, Family"
+Lords of Chaos,2018,58665,3.0,118,"Drama, Music, Horror"
+Skate Kitchen,2018,38502,3.7,106,"Drama, Comedy, Underdogs And Coming Of Age"
+The Spy Who Dumped Me,2018,76776,2.8,116,"Comedy, Adventure, Action"
+Thunder Road,2018,45820,3.9,90,"Drama, Comedy, Moving Relationship Stories"
+The Commuter,2018,77602,2.8,104,"Mystery, Action, Thriller"
+House of Hummingbird,2018,24313,4.1,135,"Drama, Moving Relationship Stories, Humanity And The World Around Us"
+In Fabric,2018,40356,3.2,118,"Comedy, Horror, Fantasy"
+Us and Them,2018,32315,4.1,120,"Drama, Romance, Moving Relationship Stories"
+They Shall Not Grow Old,2018,50782,4.1,99,"Documentary, History, War"
+The Old Man & the Gun,2018,48295,3.5,94,"Crime, Drama, Comedy"
+Shirkers,2018,37031,4.0,96,"Documentary, Underdogs And Coming Of Age, Fascinating"
+Peter Rabbit,2018,81043,2.7,93,"Animation, Family, Adventure"
+Devilman Crybaby,2018,66340,4.1,250,"Animation, Intense Violence And Sexual Transgression, Horror"
+A Wrinkle in Time,2018,67281,2.1,109,"Family, Fantasy, Adventure"
+Mirai,2018,45076,3.6,98,"Fantasy, Drama, Animation"
+The Clovehitch Killer,2018,60372,3.2,109,"Drama, Crime, Mystery"
+Teen Titans Go! To the Movies,2018,65768,3.2,84,"Action, Animation, Science Fiction"
+The Guernsey Literary & Potato Peel Pie Society,2018,58777,3.4,124,"History, Drama, Romance"
+Her Smell,2018,27940,3.5,136,"Music, Drama, Intense Violence And Sexual Transgression"
+Den of Thieves,2018,62485,3.2,140,"Action, Crime, Thriller"
+Colette,2018,41616,3.4,112,"History, Drama, Moving Relationship Stories"
+Outlaw King,2018,59554,3.3,122,"War, History, Action"
+The Tale,2018,33079,3.9,115,"Drama, Mystery, Moving Relationship Stories"
+The Princess Switch,2018,68308,2.4,101,"Comedy, Romance, Holiday Joy And Heartwarming Christmas"
+"Don’t Worry, He Won’t Get Far on Foot",2018,44186,3.5,115,"Comedy, Drama, Moving Relationship Stories"
+The VelociPastor,2018,40864,3.1,75,"Action, Comedy, Horror"
+John Mulaney: Kid Gorgeous at Radio City,2018,57276,4.2,65,"Comedy, TV Movie, Documentary"
+Asako I & II,2018,27563,3.8,119,"Romance, Drama, Moving Relationship Stories"
+Dragon Ball Super: Broly,2018,68077,3.8,99,"Science Fiction, Animation, Action"
+Private Life,2018,37692,3.8,123,"Comedy, Drama, Moving Relationship Stories"
+Hotel Mumbai,2018,54065,3.7,123,"Thriller, History, Action"
+The Night Comes for Us,2018,44833,3.6,121,"Action, Thriller, Crime"
+Knife+Heart,2018,27874,3.5,102,"Horror, Mystery, Romance"
+On the Basis of Sex,2018,46729,3.4,120,"Drama, History, Politics And Human Rights"
+Prospect,2018,38958,3.3,98,"Science Fiction, Monsters, Aliens"
+I Feel Pretty,2018,61671,2.4,110,"Romance, Comedy, Crude Humor And Satire"
+Johnny English Strikes Again,2018,69417,2.8,89,"Comedy, Adventure, Action"
+When We First Met,2018,60927,2.6,97,"Fantasy, Romance, Comedy"
+Midnight Sun,2018,58673,2.5,91,"Romance, Drama, Moving Relationship Stories"
+The House with a Clock in Its Walls,2018,50329,2.7,105,"Fantasy, Comedy, Family"
+Banana Fish,2018,42811,4.3,536,"Crime, Drama, Mystery"
+The Darkest Minds,2018,49941,2.6,105,"Drama, Adventure, Action"
+The Kindergarten Teacher,2018,36703,3.5,96,"Drama, Moving Relationship Stories, Student Coming-Of-Age Challenges"
+The Nutcracker and the Four Realms,2018,47984,2.4,99,"Adventure, Fantasy, Family"
+Transit,2018,30289,3.9,102,"Drama, Moving Relationship Stories, Nazis And World War II"
+Adrift,2018,49288,3.1,96,"Thriller, Adventure, Romance"
+White Boy Rick,2018,45297,3.1,111,"Crime, Drama, Drugs And Gangsters"
+Alex Strangelove,2018,54917,2.5,99,"Drama, Comedy, Relationship Comedy"
+Little Forest,2018,22356,4.0,103,Drama
+Support the Girls,2018,31013,3.6,91,"Drama, Comedy, Relationship Comedy"
+El Angel,2018,35423,3.6,115,"Crime, Drama, Intense Violence And Sexual Transgression"
+Hotel Artemis,2018,45370,2.8,94,"Science Fiction, Thriller, Action"
+The Wild Pear Tree,2018,31449,4.0,188,"Drama, Faith And Religion, Emotional And Touching Family Dramas"
+The Man Who Killed Don Quixote,2018,31963,3.2,133,"Adventure, Comedy, Humanity And The World Around Us"
+Mowgli: Legend of the Jungle,2018,54256,2.7,105,"Adventure, Drama, Intense Violence And Sexual Transgression"
+Little Italy,2018,38641,2.3,102,"Comedy, Romance, Relationship Comedy"
+Arctic,2018,37146,3.5,98,"Drama, Adventure, Humanity And The World Around Us"
+Ash Is Purest White,2018,24621,3.8,136,"Drama, Romance, Crime"
+Hearts Beat Loud,2018,27714,3.5,97,"Family, Drama, Comedy"
+Hold the Dark,2018,38399,2.9,125,"Thriller, Crime, Mystery"
+Never Goin’ Back,2018,22862,3.2,87,"Comedy, Crude Humor And Satire, Relationship Comedy"
+Hell Fest,2018,40525,2.5,89,"Horror, Thriller, The Undead And Monster Classics"
+Never Look Away,2018,26190,3.9,189,"Drama, History, Romance"
+Rafiki,2018,20219,3.6,82,"Drama, Romance, Moving Relationship Stories"
+Batman Ninja,2018,44874,2.8,85,"Animation, Action, Science Fiction"
+The Other Side of the Wind,2018,19985,3.7,122,"Drama, Humanity And The World Around Us, Surreal And Thought-Provoking Visions Of Life And Death"
+The Witch: Part 1. The Subversion,2018,37402,3.6,125,"Action, Mystery, Science Fiction"
+Dogman,2018,36402,3.7,103,"Drama, Crime, Thriller"
+The Death & Life of John F. Donovan,2018,19309,3.1,123,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+Ophelia,2018,30737,3.2,114,"Drama, Romance, History"
+Shadow,2018,26633,3.6,116,"Action, War, Epic Heroes"
+Madeline’s Madeline,2018,18005,3.5,94,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+Robin Hood,2018,44166,2.2,116,"Action, Adventure, Fantasy"
+Mirage,2018,42081,3.4,129,"Drama, Mystery, Thriller"
+Every Day,2018,38503,2.8,97,"Fantasy, Romance, Underdogs And Coming Of Age"
+Aniara,2018,20550,3.6,106,"Science Fiction, Drama, Monsters"
+Dear Ex,2018,25914,3.8,99,"Comedy, Drama, Moving Relationship Stories"
+Z-O-M-B-I-E-S,2018,39989,2.4,94,"Romance, Comedy, Fantasy"
+Welcome to Marwen,2018,30586,2.8,116,"Comedy, Drama, Humanity And The World Around Us"
+Girl,2018,30709,3.3,105,"Drama, Moving Relationship Stories, Emotional Teen Coming-Of-Age Stories"
+The Package,2018,44494,2.2,94,"Comedy, Crude Humor And Satire, Funny Jokes And Crude Humor"
+Tumbbad,2018,26714,3.7,113,"Fantasy, Horror, The Undead And Monster Classics"
+Everybody Knows,2018,31426,3.4,132,"Crime, Mystery, Thriller"
+Freaks,2018,31613,3.1,105,"Science Fiction, High Speed And Special Ops, Twisted Dark Psychological Thriller"
+Destroyer,2018,28917,3.1,121,"Crime, Thriller, Drama"
+Violet Evergarden,2018,38524,4.2,325,"Drama, Animation, Moving Relationship Stories"
+Level 16,2018,34393,2.9,102,"Thriller, Science Fiction, Horror"
+12 Strong,2018,42487,2.9,130,"History, Drama, War"
+The Open House,2018,46873,1.4,94,"Thriller, Horror, The Undead And Monster Classics"
+Mute,2018,34273,2.3,126,"Mystery, Thriller, Science Fiction"
+Malevolent,2018,36191,2.2,89,"Horror, The Undead And Monster Classics, Intense Violence And Sexual Transgression"
+Destination Wedding,2018,31415,2.6,90,"Drama, Romance, Comedy"
+Hannah Gadsby: Nanette,2018,34873,4.2,69,Comedy
+Birds of Passage,2018,19624,3.9,125,"Drama, Crime, Drugs And Gangsters"
+Holmes & Watson,2018,39879,1.6,90,"Crime, Mystery, Comedy"
+Life Itself,2018,26212,2.9,118,"Romance, Drama, Moving Relationship Stories"
+Smallfoot,2018,39815,2.8,96,"Adventure, Animation, Family"
+The Night Eats the World,2018,28352,3.2,94,"Drama, Horror, Thriller"
+Believe Me: The Abduction of Lisa McVey,2018,34396,3.4,98,"TV Movie, Drama, Crime"
+Andhadhun,2018,32767,3.9,139,"Crime, Comedy, Mystery"
+Liz and the Blue Bird,2018,15075,4.0,91,"Animation, Drama, Music"
+Operation Finale,2018,33290,3.2,124,"History, Drama, Thriller"
+Vita & Virginia,2018,18528,3.2,110,"Drama, Romance, Moving Relationship Stories"
+Winchester,2018,36169,2.2,100,"Thriller, Horror, The Undead And Monster Classics"
+The Lie,2018,33442,2.3,95,"Thriller, Horror, Mystery"
+Night School,2018,41160,2.3,111,"Comedy, Crude Humor And Satire, Gags"
+"Juliet, Naked",2018,28319,3.3,97,"Drama, Comedy, Romance"
+22 July,2018,35179,3.2,143,"Crime, History, Drama"
+Book Club,2018,29106,2.8,104,"Comedy, Romance, Drama"
+Flavors of Youth,2018,29844,3.3,74,"Romance, Drama, Animation"
+Death Wish,2018,35178,2.6,107,"Thriller, Crime, Action"
+The Possession of Hannah Grace,2018,35576,2.1,86,"Drama, Horror, The Undead And Monster Classics"
+A Futile and Stupid Gesture,2018,30387,3.2,101,"Comedy, Crude Humor And Satire, Gags"
+My Hero Academia: Two Heroes,2018,38274,3.3,96,"Adventure, Action, Fantasy"
+The Girl in the Spider’s Web,2018,29612,2.6,115,"Thriller, Crime, Action"
+Life of the Party,2018,33697,2.6,105,"Comedy, Crude Humor And Satire, Relationship Comedy"
+Wild Rose,2018,23440,3.6,101,"Comedy, Drama, Music"
+Calibre,2018,30713,3.3,101,"Drama, Thriller, Intense Violence And Sexual Transgression"
+Tell It to the Bees,2018,19345,3.1,106,"Romance, Drama, Moving Relationship Stories"
+Goosebumps 2: Haunted Halloween,2018,36590,2.3,90,"Horror, Comedy, Fantasy"
+Ben Is Back,2018,25730,3.3,103,"Drama, Intense Violence And Sexual Transgression, Emotional And Touching Family Dramas"
+The Little Drummer Girl,2018,10652,3.9,342,"Drama, High Speed And Special Ops, Exciting Spy Thrillers With Tense Intrigue"
+RBG,2018,25595,3.8,98,"Documentary, Politics And Human Rights, Politics"
+"Game Over, Man!",2018,36698,2.4,100,"Comedy, Action, Crude Humor And Satire"
+Early Man,2018,30680,2.9,89,"Comedy, Family, Animation"
+Stan & Ollie,2018,29016,3.5,98,"Comedy, Drama, Crude Humor And Satire"
+The Happytime Murders,2018,32537,2.2,91,"Comedy, Action, Crime"
+Gloria Bell,2018,20216,3.3,102,"Romance, Drama, Moving Relationship Stories"
+Mile 22,2018,34569,2.4,94,"Action, Thriller, High Speed And Special Ops"
+The Death of Superman,2018,30145,3.5,81,"Drama, Animation, Science Fiction"
+Teen Spirit,2018,18376,3.0,92,"Drama, Music, Song And Dance"
+Fahrenheit 451,2018,26836,2.3,100,"Drama, Thriller, Science Fiction"
+We Have Always Lived in the Castle,2018,22795,2.8,96,"Horror, Thriller, Mystery"
+Wild Wild Country,2018,23647,4.0,400,"Documentary, Crime, Faith And Religion"
+One Crazy Summer: A Look Back at Gravity Falls,2018,33673,4.5,105,Documentary
+Duck Butter,2018,20542,2.6,94,"Drama, Comedy, Romance"
+Peppermint,2018,29135,2.6,102,"Thriller, Action, Crime"
+Batman: Gotham by Gaslight,2018,25901,3.2,78,"Science Fiction, Action, Thriller"
+Maquia: When the Promised Flower Blooms,2018,20025,3.8,115,"Fantasy, Drama, Adventure"
+Hell House LLC II: The Abaddon Hotel,2018,25378,2.4,89,"Horror, Mystery, The Undead And Monster Classics"
+Lizzie,2018,15742,2.8,106,"Drama, Crime, Thriller"
+Piercing,2018,16803,3.1,82,"Horror, Thriller, Intense Violence And Sexual Transgression"
+The 15:17 to Paris,2018,25014,2.2,94,"Drama, Thriller, War And Historical Adventure"
+A Faithful Man,2018,17145,3.0,75,"Drama, Comedy, Romance"
+Look Away,2018,22878,2.4,103,"Fantasy, Horror, Thriller"
+Alpha,2018,26518,3.0,97,"Adventure, Drama, Moving Relationship Stories"
+The Wind,2018,16104,3.0,86,"Western, Horror, Mystery"
+How It Ends,2018,29126,2.0,113,"Adventure, Science Fiction, Thriller"
+Fahrenheit 11/9,2018,22364,3.6,128,"Documentary, Politics And Human Rights, Politics"
+Terminal,2018,20187,2.4,95,"Thriller, Drama, Crime"
+Sherlock Gnomes,2018,28043,2.2,86,"Comedy, Mystery, Adventure"
+The Professor,2018,22789,3.2,90,"Drama, Comedy, Moving Relationship Stories"
+Tau,2018,25546,2.6,97,"Science Fiction, Thriller, Horror"
+Luz,2018,11273,3.2,70,"Horror, Mystery, The Undead And Monster Classics"
+My Mister,2018,11524,4.4,1264,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+Nothing to Hide,2018,26991,3.1,93,"Comedy, Drama"
+Once Upon a Deadpool,2018,19735,3.1,118,"Adventure, Comedy, Action"
+Extinction,2018,26508,2.5,96,"Science Fiction, Action, Drama"
+What Keeps You Alive,2018,16507,2.9,99,"Thriller, Horror, The Undead And Monster Classics"
+Museo,2018,14296,3.7,127,"Drama, Crime"
+Patrick Melrose,2018,14704,4.1,300,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+The Week Of,2018,26264,2.4,116,"Comedy, Crude Humor And Satire, Relationship Comedy"
+Antrum,2018,15335,2.6,95,"Horror, The Undead And Monster Classics, Terrifying"
+Swing Kids,2018,11493,4.0,133,"Drama, War"
+We the Animals,2018,11374,3.8,94,"Drama, Moving Relationship Stories, Emotional Teen Coming-Of-Age Stories"
+Replicas,2018,22543,2.0,107,"Drama, Science Fiction, Thriller"
+Liverleaf,2018,11400,3.2,114,"Drama, Thriller, Horror"
+La Flor,2018,3773,4.0,803,"Fantasy, Thriller, Drama"
+I Am Not an Easy Man,2018,23315,3.1,98,"Fantasy, Comedy, Crude Humor And Satire"
+Suicide Squad: Hell to Pay,2018,21930,3.2,86,"Animation, Action, Science Fiction"
+Skin,2018,15417,3.2,110,"History, Crime, Drama"
+Second Act,2018,22957,2.5,103,"Comedy, Romance, Relationship Comedy"
+303,2018,12641,3.9,145,"Comedy, Romance, Drama"
+The Man Who Killed Hitler and Then the Bigfoot,2018,16407,2.8,96,"Adventure, Drama, Fantasy"
+Dirty Computer,2018,9301,4.0,49,"Drama, Music, Romance"
+Mortal World,2018,27584,3.7,102,"Comedy, Action, Crime"
+Hunter Killer,2018,22356,2.8,121,"Action, Thriller, Adventure"
+The Image Book,2018,9732,3.4,88,"Drama, Documentary"
+Leto,2018,14157,3.8,126,"Music, Drama"
+Keep an Eye Out,2018,18453,3.6,73,Comedy
+Butterfly Kisses,2018,13245,3.2,91,"Horror, Drama, Mystery"
+Little Woods,2018,8644,3.4,103,"Thriller, Drama"
+An Evening with Beverly Luff Linn,2018,13355,3.1,108,"Crime, Comedy, Crude Humor And Satire"
+Woman at War,2018,13695,3.8,101,"Thriller, Comedy, Drama"
+Ibiza,2018,21923,2.3,94,"Romance, Comedy, Relationship Comedy"
+Gotti,2018,16777,1.8,110,"Drama, History, Crime"
+Anon,2018,20474,2.6,100,"Science Fiction, Thrillers And Murder Mysteries, Suspenseful Crime Thrillers"
+By the Grace of God,2018,13661,3.6,137,"Drama, Faith And Religion, Religious Faith"
+Forever My Girl,2018,17682,2.7,104,"Music, Drama, Romance"
+Utøya: July 22,2018,14476,3.6,92,"History, Drama, Intense Violence And Sexual Transgression"
+Slaughterhouse Rulez,2018,16899,2.6,104,"Action, Fantasy, Comedy"
+Fast Color,2018,10408,3.3,102,"Thriller, Science Fiction, Monsters"
+The Farm,2018,17402,1.7,80,"Horror, The Undead And Monster Classics, Intense Violence And Sexual Transgression"
+Overboard,2018,21504,2.5,112,"Comedy, Romance, Relationship Comedy"
+Slice,2018,11649,2.2,82,"Horror, Comedy, Crude Humor And Satire"
+Robin Williams: Come Inside My Mind,2018,12827,3.9,116,"Documentary, Crude Humor And Satire, Emotional Life Of Renowned Artists"
+McQueen,2018,13554,3.8,111,Documentary
+Sink or Swim,2018,20253,3.6,122,"Drama, Comedy"
+A Private War,2018,12814,3.5,106,"War, Drama, Politics And Human Rights"
+Giant Little Ones,2018,13642,3.2,93,"Drama, Underdogs And Coming Of Age, Moving Relationship Stories"
+Diamantino,2018,9840,3.4,96,"Comedy, Science Fiction, Fantasy"
+Profile,2018,13080,3.1,106,"Mystery, Thriller, Drama"
+Ricky Gervais: Humanity,2018,21654,3.7,79,Comedy
+Swiped,2018,21351,1.1,93,"Romance, Comedy, Drama"
+I Think We’re Alone Now,2018,13079,2.9,100,"Science Fiction, Drama, Mystery"
+Evil Genius,2018,18566,3.6,192,"Documentary, Crime, Thrillers And Murder Mysteries"
+Braid,2018,9939,3.0,85,"Mystery, Horror, Thriller"
+Billionaire Boys Club,2018,13416,2.4,108,"Drama, Underdogs And Coming Of Age, Gripping"
+Amazing Grace,2018,10136,3.9,87,"Documentary, Music, Faith And Religion"
+Ode to Nothing,2018,5882,3.8,92,Drama
+Dead Pigs,2018,8583,3.6,122,"Drama, Comedy"
+A Christmas Prince: The Royal Wedding,2018,18601,2.2,92,"Comedy, Romance, TV Movie"
+They’ll Love Me When I’m Dead,2018,12820,3.7,98,Documentary
+Behind the Curve,2018,17619,3.3,96,"Documentary, Faith And Religion, Humanity'S Odyssey: Earth And Beyond"
+Bad Samaritan,2018,15269,2.9,111,"Crime, Horror, Thriller"
+Twisted Pair,2018,10171,2.7,88,"Science Fiction, Drama, Thriller"
+Benjamin,2018,8631,3.5,86,"Comedy, Drama, Romance"
+Uncle Drew,2018,19176,2.7,103,"Comedy, Crude Humor And Satire, Inspiring Sports Underdog Stories"
+Minha Vida em Marte,2018,18628,3.4,95,"Romance, Comedy"
+Dominion,2018,5988,4.2,120,"Documentary, Intense Violence And Sexual Transgression, Humanity'S Odyssey: Earth And Beyond"
+Mary Magdalene,2018,10086,3.0,120,"Drama, History, Faith And Religion"
+Damsel,2018,9748,3.0,114,"Western, Comedy, Drama"
+Bodyguard,2018,19316,3.9,360,"Crime, Drama, High Speed And Special Ops"
+Dude,2018,16157,2.3,90,"Comedy, Underdogs And Coming Of Age, Teen School Antics And Laughter"
+Await Further Instructions,2018,15233,2.4,91,"Horror, The Undead And Monster Classics, Sci-Fi Horror"
+Penguin Highway,2018,10387,3.6,118,"Comedy, Adventure, Animation"
+Constantine: City of Demons - The Movie,2018,14674,3.4,90,"Fantasy, Animation, Action"
+Night Hunter,2018,15517,2.6,95,"Thriller, Drama, Thrillers And Murder Mysteries"
+Charlie Says,2018,10025,3.0,104,"Drama, Crime, Intense Violence And Sexual Transgression"
+Shrek Retold,2018,9673,3.9,90,No genres available
+James Acaster: Repertoire,2018,14141,4.4,205,Comedy
+Next Gen,2018,18454,3.0,105,"Animation, Science Fiction, Comedy"
+Like Father,2018,16664,2.8,103,"Drama, Relationship Comedy, Moving Relationship Stories"
+Padmaavat,2018,15313,3.3,163,"History, Romance, Drama"
+The Outsider,2018,17020,2.7,120,"Drama, Crime, Mystery"
+Holiday,2018,8271,3.2,93,"Drama, Crime, Intense Violence And Sexual Transgression"
+Hotel by the River,2018,7365,3.7,96,Drama
+The Front Runner,2018,11457,3.0,113,"Drama, History, Politics And Human Rights"
+Hellraiser: Judgment,2018,12052,1.9,81,"Thriller, Horror, Thrillers And Murder Mysteries"
+Grass,2018,7744,3.6,66,Drama
+Super Troopers 2,2018,16284,2.7,100,"Crime, Comedy, Mystery"
+Non-Fiction,2018,9624,3.3,107,"Romance, Drama, Comedy"
+Then Came You,2018,13547,2.9,97,"Comedy, Drama, Relationship Comedy"
+Escape at Dannemora,2018,8545,4.0,441,"Crime, Drama, Drugs And Gangsters"
+The World Is Yours,2018,9913,3.5,94,"Crime, Comedy"
+What’s Wrong with Secretary Kim,2018,16047,3.5,1088,"Comedy, Relationship Comedy, Laugh-Out-Loud Relationship Entanglements"
+Irreplaceable You,2018,14076,3.0,96,"Drama, Comedy, Romance"
+October,2018,11982,3.6,109,"Romance, Drama, Moving Relationship Stories"
+Vada Chennai,2018,12469,4.1,166,"Crime, Drama, Action"
+Loro,2018,12203,3.4,157,Drama
+Starfish,2018,6292,3.1,101,"Science Fiction, Drama, Horror"
+Sorry Angel,2018,8323,3.6,132,"Drama, Romance, Comedy"
+"Hale County This Morning, This Evening",2018,7071,3.6,76,Documentary
+The Holiday Calendar,2018,14852,2.4,94,"Romance, Comedy, Family"
+Banana Split,2018,10089,3.1,88,Comedy
+Persona,2018,12691,4.3,792,"Mystery, Drama, Crime"
+Escape Plan 2: Hades,2018,16484,1.8,93,"Thriller, Action, High Speed And Special Ops"
+The Realm,2018,10611,3.8,132,"Thriller, Drama, Mystery"
+Stree,2018,15239,3.3,128,"Horror, Comedy, The Undead And Monster Classics"
+Carmen & Lola,2018,10086,3.5,103,"Drama, Romance"
+The Biggest Little Farm,2018,10640,3.7,91,"Documentary, Humanity'S Odyssey: Earth And Beyond, Surreal And Thought-Provoking Visions Of Life And Death"
+The Breaker Upperers,2018,11525,3.0,82,Comedy
+Where Hands Touch,2018,9919,2.6,122,"Romance, Drama, War"
+Gringo,2018,13603,2.7,111,"Action, Crime, Comedy"
+I Am Jonas,2018,12200,3.3,82,"TV Movie, Drama, Romance"
+Butterflies,2018,13868,3.7,117,"Drama, Comedy"
+Beirut,2018,12030,3.1,109,"Action, Drama, Thriller"
+Lake Michigan Monster,2018,5981,3.5,78,"Fantasy, Mystery, Horror"
+The Little Stranger,2018,9088,2.8,111,"Mystery, Horror, The Undead And Monster Classics"
+K.G.F: Chapter 1,2018,14750,3.3,156,"Adventure, Thriller, Crime"
+Kursk,2018,10097,3.2,118,"Action, Drama, History"
+Cunk on…,2018,10551,4.2,150,"Documentary, Comedy"
+On Your Wedding Day,2018,12210,3.4,110,"Drama, Romance"
+1985,2018,5484,3.8,85,Drama
+The Hurricane Heist,2018,12754,2.2,103,"Crime, Action, Adventure"
+Candy Jar,2018,12438,2.8,92,"Drama, Comedy, Romance"
+Modest Heroes,2018,9939,3.4,54,"Fantasy, Animation, Drama"
+96,2018,12044,3.9,159,"Romance, Moving Relationship Stories, Bollywood Emotional Dramas"
+The Guy Who Didn’t Like Musicals,2018,9795,4.1,113,"Horror, Comedy, Music"
+Blaze,2018,6178,3.5,129,"History, Drama, Music"
+Peterloo,2018,6907,3.4,154,"History, Drama, Epic History And Literature"
+Andre the Giant,2018,12174,3.7,85,"Documentary, Humanity And The World Around Us, Underdog Fighting And Boxing Stories"
+Action Point,2018,12436,2.3,85,"Comedy, Crude Humor And Satire, Funny Jokes And Crude Humor"
+Rascal Does Not Dream of Bunny Girl Senpai,2018,14499,3.6,312,"Mystery, Drama, Comedy"
+Monster,2018,9896,3.2,98,"Crime, Drama"
+Shakedown,2018,3918,3.9,72,Documentary
+3 Faces,2018,7906,3.6,100,Drama
+The Land of Steady Habits,2018,10253,3.0,98,"Drama, Comedy, Underdogs And Coming Of Age"
+On My Skin,2018,12811,3.7,100,Drama
+Champions,2018,15567,3.3,124,"Family, Comedy, Drama"
+The Photographer of Mauthausen,2018,14180,3.4,111,"Thriller, History, Drama"
+A Twelve-Year Night,2018,9029,3.8,122,"Drama, Crime, History"
+In the Aisles,2018,9633,3.6,125,Drama
+Waco,2018,10037,3.7,292,"Drama, Crime, Faith And Religion"
+Be with You,2018,8765,3.8,132,"Romance, Drama, Fantasy"
+You Might Be the Killer,2018,9354,3.0,92,"Horror, Comedy, Mystery"
+Billie & Emma,2018,3923,3.6,107,"Romance, Drama"
+Adam Sandler: 100% Fresh,2018,10738,3.8,73,"Documentary, Music, Comedy"
+Galveston,2018,9043,3.1,91,"Thriller, Crime, Drugs And Gangsters"
+"Ruben Brandt, Collector",2018,8680,3.8,94,"Animation, Thriller, Action"
+May the Devil Take You,2018,9462,3.0,110,"Thriller, Horror, Mystery"
+Along with the Gods: The Last 49 Days,2018,11537,3.4,141,"Action, Thriller, Fantasy"
+Heavy Trip,2018,9761,3.5,92,"Music, Comedy, Crude Humor And Satire"
+Breaking In,2018,12689,2.4,88,"Thriller, Action, Crime"
+Arif V 216,2018,17809,2.9,125,"Comedy, Adventure, Science Fiction"
+Asterix: The Secret of the Magic Potion,2018,14492,3.2,85,"Family, Adventure, Animation"
+Nappily Ever After,2018,12339,3.1,100,"Comedy, Romance"
+Killing,2018,4796,3.6,80,"Drama, Action"
+Attack on Titan: The Roar of Awakening,2018,14982,4.3,120,"Fantasy, Action, Animation"
+Amanda,2018,7859,3.7,107,Drama
+Our Time,2018,4945,3.8,177,Drama
+After Everything,2018,7131,3.2,95,"Comedy, Drama, Romance"
+Nancy,2018,6211,3.3,87,"Mystery, Drama"
+King Lear,2018,5625,3.2,115,"Drama, TV Movie, Epic History And Literature"
+I Do Not Care If We Go Down in History as Barbarians,2018,3949,3.9,140,"Comedy, Drama, History"
+Bungo Stray Dogs: Dead Apple,2018,11766,3.7,90,"Comedy, Animation, Action"
+Sauvage,2018,7918,3.5,97,Drama
+A Million Little Pieces,2018,5696,3.0,113,"Drama, Crime, Drugs And Gangsters"
+Scooby-Doo! & Batman: The Brave and the Bold,2018,9334,3.2,76,"Action, Family, Science Fiction"
+A Very English Scandal,2018,7780,3.8,169,"Drama, Moving Relationship Stories, Passion And Romance"
+Through the Fire,2018,12961,3.6,116,Drama
+Loveling,2018,7812,3.7,95,Drama
+The Standoff at Sparrow Creek,2018,7987,3.4,88,"Thriller, Crime, Drama"
+Status Update,2018,9749,2.2,106,"Comedy, Fantasy, Science Fiction"
+Sunset,2018,5521,3.4,137,"Drama, History, Humanity And The World Around Us"
+The Head Hunter,2018,7988,3.0,72,"Fantasy, Horror, The Undead And Monster Classics"
+Leprechaun Returns,2018,9197,2.6,93,"Fantasy, Horror, Comedy"
+The Titan,2018,12527,2.1,97,"Science Fiction, Thriller, Monsters"
+Why Don’t You Just Die!,2018,7534,3.5,100,"Drama, Comedy, Thriller"
+Quincy,2018,8982,3.8,124,"Documentary, Music"
+Psychokinesis,2018,8612,2.9,101,"Action, Fantasy, Epic Heroes"
+The Vanishing,2018,10722,2.9,108,"Mystery, Thriller, Intense Violence And Sexual Transgression"
+Kin,2018,9546,2.7,102,"Science Fiction, Action, Adventure"
+The Nightshifter,2018,7370,3.1,110,"Thriller, Mystery, Horror"
+Raazi,2018,11338,3.7,138,"History, Drama, Thriller"
+Only You,2018,6886,3.3,119,"Drama, Romance"
+Rust Creek,2018,10893,2.8,108,"Thriller, Crime, Action"
+Blood Fest,2018,9831,2.6,93,"Horror, Comedy, Crude Humor And Satire"
+Mr. Sunshine,2018,6503,4.2,1800,"Drama, Epic History And Literature, Moving Relationship Stories"
+The Game Changers,2018,10661,3.6,88,"Documentary, Monsters, Aliens"
+Pity,2018,6758,3.5,97,Drama
+The Delinquent Season,2018,6354,2.6,103,"Romance, Drama"
+The Mountain,2018,4439,3.2,106,Drama
+Matangi / Maya / M.I.A.,2018,6372,3.9,95,"Music, Documentary"
+The New Romantic,2018,5722,3.0,82,"Drama, Comedy"
+The Third Wife,2018,4554,3.6,96,Drama
+Daniel Sloss: Live Shows,2018,9876,4.2,118,Comedy
+Whitney,2018,8897,3.6,120,"Music, Documentary, Song And Dance"
+Godzilla: City on the Edge of Battle,2018,9610,2.6,101,"Science Fiction, Animation, Monsters"
+Sanju,2018,13213,3.3,161,"Drama, Comedy, Moving Relationship Stories"
+The White Crow,2018,6257,3.2,127,"Drama, War And Historical Adventure, Powerful Poetic And Passionate Drama"
+Quién te cantará,2018,7432,3.6,125,"Music, Drama, Mystery"
+Sense8: Amor Vincit Omnia,2018,10373,4.2,152,"Science Fiction, Drama, Fantasy"
+Braven,2018,10927,2.7,94,"Action, Thriller, Drama"
+Godzilla: The Planet Eater,2018,8971,2.5,91,"Action, Science Fiction, Adventure"
+Ana e Vitória,2018,11213,3.0,115,"Comedy, Romance, Music"
+This Changes Everything,2018,4269,3.7,97,"Documentary, Politics And Human Rights, Racism And The Powerful Fight For Justice"
+Nightmare Cinema,2018,6996,2.6,119,"Horror, The Undead And Monster Classics, Terrifying"
+Kase-san and Morning Glories,2018,6809,3.8,58,"Romance, Animation"
+Balloon,2018,9950,3.6,125,"Drama, History, Thriller"
+Father of the Year,2018,11668,2.2,94,"Comedy, Crude Humor And Satire, Funny Jokes And Crude Humor"
+The Hummingbird Project,2018,8194,3.0,111,"Thriller, Drama, Humanity And The World Around Us"
+Puppet Master: The Littlest Reich,2018,7556,2.8,90,"Fantasy, Horror, Comedy"
+Head Count,2018,8139,2.8,90,"Horror, Thriller, Mystery"
+Studio 54,2018,6638,3.4,98,Documentary
+City of Lies,2018,9005,3.0,112,"Thriller, Drama, Crime"
+Ideal Home,2018,7737,3.2,91,"Drama, Comedy, Relationship Comedy"
+Howard,2018,7063,3.7,93,"Music, Documentary"
+The Chambermaid,2018,5560,3.6,102,Drama
+Stockholm,2018,8296,3.0,92,"Comedy, Crime, Relationship Comedy"
+My Masterpiece,2018,10830,3.4,100,Comedy
+I Can Only Imagine,2018,9424,3.2,110,"Music, Drama, Faith And Religion"
+Down a Dark Hall,2018,8179,2.4,96,"Horror, Fantasy, Thriller"
+Pooka!,2018,7424,2.6,83,"Thriller, Horror, TV Movie"
+The Pool,2018,8076,2.4,91,"Thriller, Horror, The Undead And Monster Classics"
+Sir,2018,7296,3.7,99,"Romance, Drama, Moving Relationship Stories"
+Jane Fonda in Five Acts,2018,4802,4.0,133,Documentary
+Bleach,2018,9955,2.8,108,"Adventure, Fantasy, Action"
+A Vigilante,2018,7317,3.1,92,"Drama, Thriller, Intense Violence And Sexual Transgression"
+Arizona,2018,7593,2.9,85,"Comedy, Thriller, Crude Humor And Satire"
+The Ranger,2018,5570,2.7,80,"Horror, The Undead And Monster Classics, Gory"
+Black Mother,2018,2568,3.8,77,Documentary
+King of Thieves,2018,9053,2.6,108,"Drama, Crime, Drugs And Gangsters"
+Door Lock,2018,7009,3.3,102,"Thriller, Crime, Mystery"
+The Last Sharknado: It’s About Time,2018,8220,2.0,86,"Comedy, Action, Science Fiction"
+Black ’47,2018,6730,3.4,100,"Drama, Western, Epic History And Literature"
+The Devil’s Doorway,2018,5896,2.8,76,"Drama, Horror, The Undead And Monster Classics"
+Wild Nights with Emily,2018,3889,3.4,84,"History, Comedy"
+Stranger in My Pocket,2018,12044,2.9,95,"Comedy, Drama, Thriller"
+The Good Girls,2018,6993,3.5,92,Drama
+The Silence of Others,2018,4973,4.0,95,Documentary
+The Spy Gone North,2018,6665,3.7,138,"Drama, Thriller, History"
+Proud Mary,2018,7370,2.3,88,"Crime, Thriller, Action"
+Who Is America?,2018,7471,4.0,191,Comedy
+The Beachnickers,2018,10290,3.1,103,Comedy
+He’s Out There,2018,8894,2.4,89,"Horror, Thriller, The Undead And Monster Classics"
+Pad Man,2018,9463,3.5,140,"Comedy, Drama, Moving Relationship Stories"
+Ratsasan,2018,9452,3.7,170,"Adventure, Thriller, Action"
+Rojo,2018,6256,3.4,106,"Thriller, Mystery, Drama"
+6 Balloons,2018,7658,2.9,75,Drama
+Something in the Rain,2018,6924,3.7,1200,"Drama, Moving Relationship Stories, Touching And Sentimental Family Stories"
+Summer ’03,2018,6850,2.4,102,"Comedy, Romance"
+The Quake,2018,8783,2.9,106,"Drama, Action, Thriller"
+The Party’s Just Beginning,2018,3719,3.3,91,"Comedy, Drama"
+Zoe,2018,6316,2.8,104,"Romance, Science Fiction, Thriller"
+Accident Man,2018,6832,3.0,101,"Thriller, Crime, Action"
+Family,2018,5268,3.4,84,Comedy
+Chris Rock: Tamborine,2018,8759,3.4,64,Comedy
+Wotakoi: Love Is Hard for Otaku,2018,8546,3.8,253,"Animation, Comedy"
+Pariyerum Perumal,2018,7086,4.1,155,"Drama, Romance, Moving Relationship Stories"
+The Great Buster: A Celebration,2018,5029,3.7,102,"Comedy, Documentary"
+My ID is Gangnam Beauty,2018,9922,2.7,1040,"Comedy, Drama, Moving Relationship Stories"
+The Freshmen,2018,9317,3.4,92,"Drama, Comedy"
+The Seagull,2018,4587,2.9,98,"Romance, Comedy, Drama"
+Happy Anniversary,2018,7401,2.8,78,"Romance, Comedy"
+The Witch in the Window,2018,6061,3.1,76,"Drama, Horror, The Undead And Monster Classics"
+The Director and the Jedi,2018,5308,3.8,95,Documentary
+Ali Wong: Hard Knock Wife,2018,8560,3.6,64,Comedy
+Relaxer,2018,4138,3.3,91,"Fantasy, Comedy"
+Chained for Life,2018,2608,3.5,91,"Drama, Comedy"
+Feminists: What Were They Thinking?,2018,6112,3.7,86,Documentary
+The Wedding Guest,2018,6401,2.8,96,"Thriller, Moving Relationship Stories, Intense Political And Terrorist Thrillers"
+Buñuel in the Labyrinth of the Turtles,2018,4595,3.5,82,"Drama, History, Animation"
+Too Late to Die Young,2018,4237,3.4,110,Drama
+The Dead Center,2018,4684,3.0,93,"Thriller, Horror, Mystery"
+Laila Majnu,2018,6781,3.6,139,"Romance, Drama, Moving Relationship Stories"
+Shéhérazade,2018,8070,3.6,106,"Romance, Thriller, Drama"
+DARLING in the FRANXX,2018,9879,2.9,576,"Animation, Comedy, Drama"
+MILF,2018,9264,2.1,96,"Romance, Comedy"
+Generation Wealth,2018,6850,3.3,110,"Documentary, Politics And Human Rights, Fascinating"
+Step Sisters,2018,6521,2.4,104,Comedy
+Bloodline,2018,6408,3.0,95,"Horror, Thriller, Crime"
+Gusto Kita with All My Hypothalamus,2018,3540,3.6,105,Romance
+Puzzle,2018,5906,3.3,103,"Drama, Moving Relationship Stories, Enduring Stories Of Family And Marital Drama"
+Open 24 Hours,2018,6545,2.7,102,"Horror, Thriller, The Undead And Monster Classics"
+How About Adolf?,2018,9324,3.4,91,Comedy
+In Safe Hands,2018,8055,3.7,112,Drama
+The Heiresses,2018,4404,3.5,95,Drama
+Elizabeth Harvest,2018,5841,2.9,105,"Horror, Thriller, Mystery"
+7 Days in Entebbe,2018,7225,2.9,107,"Thriller, Drama, Crime"
+Time Share,2018,6138,3.1,96,"Mystery, Drama, Horror"
+Bixa Travesty,2018,3804,3.9,75,Documentary
+The Forgotten Colours of Dreams,2018,628,3.7,129,"Drama, Fantasy"
+The Long Dumb Road,2018,6021,3.1,90,Comedy
+"New Year, New You",2018,5927,2.6,85,"Thriller, TV Movie, Horror"
+Master Z: Ip Man Legacy,2018,6592,3.2,107,"Action, Drama, Crime"
+Wildling,2018,6510,2.5,92,"Horror, Drama, Fantasy"
+Trial by Fire,2018,5995,3.4,127,"Crime, Drama, Moving Relationship Stories"
+Watership Down,2018,5585,3.3,204,"Drama, Animation, Adorable Animals And Heartwarming Families"
+This Magnificent Cake!,2018,3860,3.7,45,"History, Comedy, Mystery"
+The Hows of Us,2018,7317,3.3,117,"Romance, Drama"
+Red Joan,2018,7244,2.9,101,"Thriller, History, War And Historical Adventure"
+The Field Guide to Evil,2018,3573,2.7,117,"Horror, The Undead And Monster Classics, Terrifying"
+"Cyrano, My Love",2018,7560,3.7,113,"History, Comedy"
+Time Freak,2018,7101,2.5,104,"Comedy, Science Fiction, Romance"
+Mara,2018,7361,2.3,100,"Crime, Thriller, Horror"
+The Oath,2018,6065,2.9,93,"Thriller, Comedy, Crude Humor And Satire"
+Karwaan,2018,7668,3.5,125,"Comedy, Adventure, Crude Humor And Satire"
+Believer,2018,6285,3.3,123,"Action, Thriller, Crime"
+Ladies in Black,2018,6245,3.2,109,"Drama, Comedy, Moving Relationship Stories"
+Wobble Palace,2018,3954,3.1,85,"Romance, Drama, Comedy"
+Monsters and Men,2018,3589,3.3,96,"Crime, Thriller, Drama"
+Pokémon the Movie: The Power of Us,2018,7302,3.1,98,"Adventure, Animation, Fantasy"
+The Drug King,2018,6096,3.1,139,"Drama, Crime, Action"
+Final Score,2018,7060,2.7,105,"Thriller, Action, High Speed And Special Ops"
+SKY Castle,2018,6925,4.1,1380,"Drama, Comedy, Moving Relationship Stories"
+Take Your Pills,2018,6611,3.1,87,"Documentary, Underdogs And Coming Of Age, Fascinating"
+Mob Psycho 100: Reigen - The Miraculous Unknown Psychic,2018,6241,4.1,60,Animation
+Illang: The Wolf Brigade,2018,5448,2.8,138,"Science Fiction, Thriller, Action"
+Tremors: A Cold Day in Hell,2018,6086,2.2,98,"Adventure, Science Fiction, Action"
+Mario,2018,4900,3.4,123,"Romance, Drama, Moving Relationship Stories"
+The Zen Diaries of Garry Shandling,2018,4200,4.0,259,Documentary
+In a Relationship,2018,5565,2.8,92,"Comedy, Drama, Romance"
+Violence Voyager,2018,2467,3.6,84,"Comedy, Horror, Animation"
+T-34,2018,6376,3.2,139,"Action, Drama, History"
+The Burial of Kojo,2018,2350,3.5,80,"Drama, Fantasy, Thriller"
+Meeting Gorbachev,2018,4480,3.5,95,Documentary
+My Best Friend,2018,6432,2.8,91,Drama
+Badhaai Ho,2018,8482,3.5,125,"Romance, Comedy, Drama"
+The Trouble with You,2018,7203,3.1,108,"Crime, Drama, Romance"
+Donbass,2018,4085,3.5,122,"War, Drama"
+Little Tickles,2018,5660,3.7,103,"Comedy, Drama"
+Muslum,2018,9853,3.1,136,"Drama, Music"
+Deep Blue Sea 2,2018,6331,1.7,94,"Science Fiction, Action, Horror"
+10x10,2018,7183,2.4,86,"Drama, Mystery, Thriller"
+Everything For A Pop Star,2018,8649,2.6,105,"Romance, Comedy"
+Just Friends,2018,4279,3.1,84,"Drama, Romance, Comedy"
+2.0,2018,8744,2.4,149,"Action, Science Fiction, Fantasy"
+Long Way Home,2018,4539,3.7,112,Drama
+Between Worlds,2018,4922,2.1,90,"Thriller, Mystery, Fantasy"
+Age Out,2018,1504,3.3,95,"Drama, Crime"
+Unstoppable,2018,6276,3.2,115,"Crime, Action, Thriller"
+The Silent Revolution,2018,5845,3.6,112,"Drama, History"
+The Catcher Was a Spy,2018,5529,2.8,94,"Drama, War, Thriller"
+Animal World,2018,4872,3.2,125,"Action, Adventure, Thriller"
+"Love, Gilda",2018,4252,3.7,84,Documentary
+Bad Seeds,2018,7261,3.5,100,Comedy
+The Grand Bizarre,2018,2969,3.7,61,"Animation, Documentary"
+Be Natural: The Untold Story of Alice Guy-Blaché,2018,3468,3.8,103,"History, Documentary"
+All About Nina,2018,3844,3.3,97,"Comedy, Drama"
+"Happy New Year, Colin Burstead",2018,4051,3.4,95,"Drama, TV Movie, Comedy"
+Echo in the Canyon,2018,5607,3.1,82,"Music, Documentary, Song And Dance"
+"My Teacher, My Obsession",2018,5857,1.7,86,"Thriller, Drama, TV Movie"
+The Cleaning Lady,2018,5899,2.6,90,"Horror, Thriller, Intense Violence And Sexual Transgression"
+School’s Out,2018,5472,3.4,100,"Mystery, Thriller, Drama"
+The Orange Years: The Nickelodeon Story,2018,5498,3.5,102,Documentary
+Paterno,2018,5913,3.1,105,"TV Movie, Drama, Underdogs And Coming Of Age"
+Ee.Ma.Yau.,2018,4482,4.0,120,"Drama, Comedy"
+American Woman,2018,4392,3.6,111,"Drama, Moving Relationship Stories, Emotional And Touching Family Dramas"
+A Self-Induced Hallucination,2018,1445,3.5,72,Documentary
+Genesis,2018,2732,3.5,129,"Drama, Romance"
+The Domestics,2018,5417,2.9,95,"Thriller, Horror, The Undead And Monster Classics"
+The Festival,2018,7329,2.7,98,"Comedy, Music, Crude Humor And Satire"
+The Purity of Vengeance,2018,7219,3.6,118,"Drama, Mystery, Thriller"
+Diane,2018,3244,3.5,96,Drama
+Eerie,2018,6561,2.5,101,"Horror, Crime, Thriller"
+Bloom Into You,2018,4299,3.9,299,"Animation, Drama"
+Freaks and Geeks: The Documentary,2018,2228,4.1,64,Documentary
+Lady J,2018,5556,3.3,110,"Romance, Drama"
+The Happy Prince,2018,3881,3.1,101,"Drama, Moving Relationship Stories, Emotional LGBTQ Relationships"
+Daphne & Velma,2018,4797,1.9,75,"Crime, Comedy, Action"
+Hippopotamus,2018,4326,2.8,77,"Horror, Thriller, Drama"
+Farming,2018,3517,3.1,107,Drama
+The Dark,2018,4248,3.1,95,"Drama, Horror, Fantasy"
+See Know Evil,2018,2005,4.1,96,Documentary
+Struggle: The Life and Lost Art of Szukalski,2018,5579,3.8,104,Documentary
+Dead Souls,2018,1140,4.1,497,Documentary
+Sócrates,2018,4201,3.4,71,Drama
+Our House,2018,6025,2.5,90,"Horror, The Undead And Monster Classics, Terrifying"
+Siberia,2018,5911,2.0,105,"Thriller, Romance, Crime"
+Lust Stories,2018,6685,3.1,120,"Romance, Drama, Moving Relationship Stories"
+The Great Satan,2018,1742,3.7,72,"Horror, Comedy, Fantasy"
+25 km/h,2018,7034,3.5,116,"Drama, Family, Comedy"
+All Is True,2018,4405,3.1,101,"Drama, History, Moving Relationship Stories"
+Crystal Swan,2018,3653,3.6,94,Drama
+The Bisexual,2018,1588,3.8,180,"Comedy, Drama"
+An Impossible Love,2018,4442,3.5,135,"History, Drama, Romance"
+Freaky Friday,2018,6160,1.8,90,"Fantasy, Family, TV Movie"
+The Debt Collector,2018,5409,3.1,96,"Comedy, Action, Crime"
+Dead in a Week (Or Your Money Back),2018,5330,3.2,90,"Comedy, Drama, Action"
+Girls with Balls,2018,6084,2.1,77,"Horror, Comedy"
+Office Uprising,2018,5264,2.7,88,"Action, Horror, Comedy"
+J.T. LeRoy,2018,3829,2.9,105,"History, Drama"
+Acrimony,2018,4857,2.5,120,"Thriller, Drama, Moving Relationship Stories"
+Friedkin Uncut,2018,3648,3.5,107,Documentary
+Junji Ito Collection,2018,5383,3.4,300,"Drama, Mystery, Animation"
+In Darkness,2018,5439,2.7,100,"Mystery, Thriller, Thrillers And Murder Mysteries"
+Click & Collect,2018,6488,3.1,53,"Comedy, TV Movie"
+Taxi 5,2018,8143,2.0,102,"Action, Comedy"
+Demon House,2018,4981,2.4,111,"Documentary, Horror, Mystery"
+A Land Imagined,2018,3449,3.4,95,"Mystery, Drama, Thriller"
+Perfectos desconocidos,2018,7021,2.9,101,"Drama, Comedy"
+27 Steps of May,2018,3563,3.7,112,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+Burn the Stage: The Movie,2018,5851,4.1,85,"Documentary, Music, Moving Relationship Stories"
+Ramen Shop,2018,4014,3.4,90,Drama
+The Bad Seed,2018,4518,2.7,84,"Drama, Horror, TV Movie"
+Snapshots,2018,3314,3.4,95,Drama
+The Little Mermaid,2018,6119,1.9,98,"Fantasy, Adventure, Drama"
+Delirium,2018,4989,2.7,96,"Horror, Thriller, The Undead And Monster Classics"
+Hamlet,2018,1926,4.2,191,Drama
+Okko’s Inn,2018,3828,3.5,94,"Fantasy, Adventure, Drama"
+Santa Jaws,2018,3926,2.2,88,"Horror, Action, Fantasy"
+Seth Rogen’s Hilarity for Charity,2018,5952,2.7,70,"Comedy, Documentary, TV Movie"
+No Escape Room,2018,5872,1.9,86,"Horror, TV Movie, Mystery"
+The Man Who Feels No Pain,2018,5020,3.5,136,"Action, Comedy, Epic Heroes"
+And Your Bird Can Sing,2018,2326,3.7,106,Drama
+Another Day of Life,2018,3221,3.7,86,"History, Animation, Documentary"
+River’s Edge,2018,3311,3.3,118,"Drama, Crime"
+Rangasthalam,2018,5446,3.7,179,"Drama, Action, Epic Heroes"
+The Seven Deadly Sins: Prisoners of the Sky,2018,7520,2.9,99,"Animation, Adventure, Fantasy"
+Aruna & Her Palate,2018,4818,3.5,106,"Romance, Drama"
+"Westwood: Punk, Icon, Activist",2018,3224,3.3,78,Documentary
+Bad Reputation,2018,2802,3.6,95,"Documentary, Music"
+Trevor Noah: Son of Patricia,2018,5623,3.7,63,"Comedy, TV Movie"
+What They Had,2018,3232,3.4,101,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+BuyBust,2018,4762,3.1,127,"Thriller, Action, Drama"
+It Comes,2018,2331,3.3,135,"Horror, Mystery, Drama"
+Mapplethorpe,2018,2862,2.9,102,"History, Drama"
+Bhavesh Joshi Superhero,2018,5167,3.5,155,"Action, Drama, Epic Heroes"
+The Body,2018,4862,2.7,83,"Horror, Thriller, TV Movie"
+Battle,2018,6397,2.7,95,"Romance, Drama, Music"
+Patient Zero,2018,4764,2.1,87,"Action, Thriller, Drama"
+Dog Days,2018,4620,2.8,112,"Romance, Comedy"
+Girls’ Encounter,2018,1463,3.6,101,Drama
+Anthropocene: The Human Epoch,2018,3170,3.6,87,Documentary
+Touch Me Not,2018,3116,3.1,125,Drama
+Monster Party,2018,4581,2.7,89,"Horror, Thriller, The Undead And Monster Classics"
+Ellen DeGeneres: Relatable,2018,5797,3.1,68,Comedy
+Postcards from London,2018,2509,2.8,90,Drama
+"Monrovia, Indiana",2018,2061,3.7,143,Documentary
+Scooby-Doo! and the Gourmet Ghost,2018,4306,3.0,77,"Family, Comedy, Adventure"
+Kaala,2018,5655,3.3,166,"Crime, Drama, Action"
+Brian Banks,2018,5329,3.3,99,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+"Murder Me, Monster",2018,2959,3.0,109,"Thriller, Drama, Horror"
+Kusama: Infinity,2018,3153,3.6,80,Documentary
+Just a Breath Away,2018,5676,2.8,90,"Drama, Thriller, Science Fiction"
+Nothing Like a Dame,2018,3676,3.7,80,"Documentary, Crude Humor And Satire, Charming Romances And Delightful Chemistry"
+Maiden,2018,3199,3.9,93,Documentary
+Ray & Liz,2018,2985,3.5,107,Drama
+Nobody’s Fool,2018,5120,2.3,110,"Comedy, Romance, Relationship Comedy"
+Buy Me a Gun,2018,3533,3.4,80,Drama
+Looking Glass,2018,4307,2.3,103,"Thriller, Mystery, Intense Violence And Sexual Transgression"
+Zero,2018,6502,2.1,164,"Comedy, Romance, Drama"
+London Fields,2018,3568,1.9,118,"Thriller, Crime, Thrillers And Murder Mysteries"
+Coldplay: A Head Full of Dreams,2018,4752,3.9,104,"Music, Documentary"
+And Breathe Normally,2018,3802,3.5,95,Drama
+Benji,2018,5774,2.9,87,"Drama, Comedy, Family"
+Picnic at Hanging Rock,2018,1994,3.3,305,"Mystery, Drama, Underdogs And Coming Of Age"
+One Love,2018,6437,3.6,129,"Drama, Romance"
+A-X-L,2018,5387,2.2,98,"Family, Adventure, Action"
+Tom Segura: Disgraceful,2018,5633,3.7,74,Comedy
+Rampant,2018,4288,3.0,122,"Fantasy, Drama, Action"
+Hard Paint,2018,2928,3.4,118,Drama
+The Magic Tuche,2018,8065,2.4,92,Comedy
+I Still See You,2018,4877,2.6,98,"Fantasy, Thriller, Horror"
+Ladyworld,2018,1455,2.7,93,"Thriller, Horror"
+Amateur,2018,6426,2.8,96,Drama
+City Hunter,2018,7071,3.1,91,"Comedy, Adventure, Action"
+Safe,2018,5709,3.3,360,"Crime, Drama, Thrillers And Murder Mysteries"
+Sunday’s Illness,2018,3615,3.6,113,Drama
+All About Me,2018,5845,3.6,100,"Comedy, Drama"
+The Grizzlies,2018,3659,3.6,106,Drama
+Monstrum,2018,3828,3.0,106,"Horror, Drama, Fantasy"
+Driven,2018,4125,3.0,113,"History, Thriller, Relationship Comedy"
+211,2018,4417,1.8,86,"Thriller, Action, Crime"
+Hichki,2018,5842,3.5,116,"Drama, Comedy, Underdogs And Coming Of Age"
+Fighting in the Age of Loneliness,2018,3369,4.1,120,Documentary
+Maggie,2018,2856,3.4,88,"Comedy, Drama"
+Ricordi?,2018,3581,3.7,106,"Drama, Romance"
+Fatal Pulse,2018,883,3.6,115,"Comedy, Drama, Thriller"
+Fugue,2018,1966,3.3,102,Thriller
+The Swerve,2018,2877,3.4,96,"Drama, Horror, Thriller"
+My Own Private Hell,2018,2999,3.6,82,"Comedy, Drama, Romance"
+The Miracle Season,2018,4602,2.9,100,"Drama, Underdogs And Coming Of Age, Moving Relationship Stories"
+Liway,2018,3290,3.7,104,Drama
+Mahanati,2018,5097,3.8,176,"Drama, Moving Relationship Stories, Emotional Life Of Renowned Artists"
+Meteor Garden,2018,5408,3.3,2205,"Family, Drama, Moving Relationship Stories"
+Peranbu,2018,3836,3.9,147,"Drama, Family, Moving Relationship Stories"
+The Legacy of a Whitetail Deer Hunter,2018,4042,2.8,83,Comedy
+All the Creatures Were Stirring,2018,3605,2.4,80,"Horror, The Undead And Monster Classics, Gory"
+C/o Kancharapalem,2018,3390,4.0,152,"Romance, Drama, Moving Relationship Stories"
+14 Cameras,2018,5014,2.1,90,"Horror, Thriller"
+Never Not Love You,2018,3467,3.4,105,"Drama, Romance"
+SuperFly,2018,3807,2.6,107,"Crime, Action, Drugs And Gangsters"
+Seven Stages to Achieve Eternal Bliss,2018,2845,3.0,93,"Thriller, Horror, Comedy"
+Jessica Forever,2018,2281,3.2,97,"Drama, Science Fiction, Fantasy"
+Mosaic,2018,1865,3.5,301,"Drama, Mystery, Crime"
+Gwen,2018,3043,2.9,84,"History, Mystery, Horror"
+Welcome Home,2018,4775,2.2,98,"Thriller, Horror, Intense Violence And Sexual Transgression"
+Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,2018,4352,3.4,74,"TV Movie, Comedy, Documentary"
+What She Said: The Art of Pauline Kael,2018,2879,3.3,98,Documentary
+The After Party,2018,5046,2.7,89,"Comedy, Music"
+Hurricane Bianca: From Russia with Hate,2018,4446,2.4,85,Comedy
+Tales from the Hood 2,2018,3524,2.3,110,"Horror, The Undead And Monster Classics, Racism And The Powerful Fight For Justice"
+Tyrel,2018,2783,3.2,86,"Drama, Comedy"
+The Negotiation,2018,4286,3.2,114,"Crime, Thriller, Action"
+Goyo: The Boy General,2018,4633,3.4,155,"History, Politics And Human Rights, Historical Battles And Epic Heroism"
+Collateral,2018,3719,3.3,227,"Crime, Mystery, Drama"
+Flesh & Blood,2018,3799,2.8,93,"Horror, TV Movie, Thriller"
+Ayka,2018,2452,3.6,100,Drama
+Manta Ray,2018,2360,3.6,105,Drama
+Steins;Gate 0,2018,4822,4.0,529,"Animation, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+100 Things,2018,5389,2.9,111,"Drama, Comedy"
+Loro 1,2018,4150,3.4,104,Drama
+Budapest,2018,6298,2.5,102,Comedy
+Our Happy Holiday,2018,6189,2.7,102,Comedy
+Trust,2018,1849,3.8,600,"Drama, Crime, Drugs And Gangsters"
+Season of the Devil,2018,1208,3.7,232,Drama
+Radium Girls,2018,3232,2.7,102,"History, Drama, Moving Relationship Stories"
+The Keeper,2018,4031,3.4,114,"History, War, Drama"
+Funan,2018,2011,3.7,84,"History, Animation, Drama"
+Cut Off,2018,4946,3.1,132,"Crime, Thriller, Horror"
+Bob Lazar: Area 51 and Flying Saucers,2018,4485,2.6,97,"Documentary, Monsters, Aliens"
+Sibel,2018,3577,3.5,95,Drama
+Euphoria,2018,4180,3.7,109,Drama
+The American Meme,2018,4542,2.7,95,"Documentary, Moving Relationship Stories, Fascinating"
+The Trial,2018,3401,3.7,137,Documentary
+Return of the Hero,2018,4936,3.2,90,"Comedy, History"
+Girls of the Sun,2018,2146,3.3,111,"Drama, War"
+Show Dogs,2018,4099,1.7,92,"Family, Crime, Comedy"
+A Bread Factory: Part One: For the Sake of Gold,2018,1382,3.8,122,"Comedy, Drama"
+Christmas with a View,2018,4202,2.0,90,"TV Movie, Family, Romance"
+Memories of My Body,2018,2612,3.6,106,Drama
+The Rachel Divide,2018,3981,3.1,104,"Documentary, Politics And Human Rights, Fascinating"
+Dilan 1990,2018,5803,3.0,109,"Drama, Romance"
+Hal,2018,2037,3.6,90,Documentary
+The Plagues of Breslau,2018,4991,2.8,93,"Action, Crime, Thriller"
+Mia and the White Lion,2018,5257,2.9,98,"Family, Drama, Adventure"
+Backstabbing for Beginners,2018,1837,2.6,108,"Drama, History, Thriller"
+Cold Feet,2018,2888,3.0,94,Comedy
+Paradise Lost,2018,3560,3.4,110,"Romance, Music, Drama"
+Jonathan,2018,3577,2.9,101,"Drama, Science Fiction, Humanity And The World Around Us"
+The Asphalt Kiss,2018,1745,3.8,98,Drama
+Iliza Shlesinger: Elder Millennial,2018,4586,3.4,72,Comedy
+Pledge,2018,3573,2.7,77,"Horror, Thriller, Intense Violence And Sexual Transgression"
+Checkered Ninja,2018,4689,3.2,81,"Comedy, Animation, Fantasy"
+Bisbee ’17,2018,1826,3.7,124,"Documentary, History"
+Becoming Astrid,2018,3733,3.5,123,"Drama, History"
+Manto,2018,3004,3.6,112,"Drama, History, Humanity And The World Around Us"
+A Kid Like Jake,2018,3207,2.9,92,Drama
+The Cannibal Club,2018,2693,3.0,80,"Comedy, Horror"
+Manmarziyaan,2018,3947,3.4,155,"Drama, Romance, Moving Relationship Stories"
+Traffik,2018,4077,2.5,96,"Thriller, Horror, Intense Violence And Sexual Transgression"
+Your Son,2018,4473,3.0,103,"Drama, Thriller"
+Nekrotronic,2018,3166,2.7,99,"Horror, Science Fiction, Comedy"
+Reversing Roe,2018,3074,3.7,99,Documentary
+Yonlu,2018,3227,3.1,90,"Drama, Romance"
+The Public,2018,2917,3.1,122,"Drama, Politics And Human Rights, Powerful Stories Of Heartbreak And Suffering"
+Intimate Strangers,2018,3473,3.5,115,"Comedy, Drama"
+Sometimes Always Never,2018,2787,3.3,91,"Comedy, Drama"
+The Elephant Queen,2018,1676,3.6,97,"Documentary, Family"
+The Truth About the Harry Quebert Affair,2018,2076,3.6,500,"Drama, Crime, Thrillers And Murder Mysteries"
+Chekka Chivantha Vaanam,2018,4781,3.2,143,"Thriller, Action, Crime"
+Florianópolis Dream,2018,2494,3.4,106,"Drama, Comedy"
+Armed to the Teeth,2018,2664,3.8,108,Documentary
+Ee Nagaraniki Emaindi?,2018,3891,3.8,140,"Comedy, Drama"
+Parallel,2018,3337,2.8,104,"Horror, Science Fiction, Fantasy"
+Elvis Presley: The Searcher,2018,2791,3.8,205,Documentary
+Springsteen On Broadway,2018,3342,4.1,153,"Music, Documentary"
+Tig Notaro: Happy to Be Here,2018,3382,3.6,58,Comedy
+The Dead and the Others,2018,2257,3.6,114,Drama
+A Boy and Sungreen,2018,978,3.6,99,"Comedy, Drama"
+Cities of Last Things,2018,3233,3.1,107,"Science Fiction, Drama, Crime"
+Lez Bomb,2018,2708,2.4,91,Comedy
+Consequences,2018,2606,3.3,93,Drama
+Styx,2018,2738,3.5,94,Drama
+The Witness,2018,3622,3.2,111,"Thriller, Crime"
+Sayounara,2018,737,3.5,86,Drama
+My Dinner with Hervé,2018,3114,3.3,106,"TV Movie, Drama"
+Dilili in Paris,2018,3233,3.3,95,"Adventure, Animation"
+Roll Red Roll,2018,3117,3.5,80,Documentary
+Women Make Film: A New Road Movie Through Cinema,2018,882,3.8,840,Documentary
+Trespassers,2018,3329,2.3,88,"Thriller, Crime, Horror"
+Treasure Island,2018,2680,3.7,97,Documentary
+Hymn of Death,2018,3215,3.8,180,Drama
+Infinite Football,2018,2126,3.4,70,Documentary
+Flight of the Conchords: Live in London,2018,3019,4.1,88,"Music, Comedy"
+Followed,2018,3046,2.3,96,"Mystery, Thriller, Horror"
+The Insomnia Club,2018,2912,3.2,84,"Drama, Comedy"
+Aquarela,2018,2229,3.3,90,Documentary
+First Match,2018,2430,3.3,94,Drama
+My Dead Ones,2018,2957,3.1,112,"Crime, Drama, Horror"
+Dying to Survive,2018,3291,3.7,117,"Comedy, Drama, Humanity And The World Around Us"
+A Colony,2018,2480,3.6,103,Drama
+How to Get Over a Breakup,2018,3912,3.1,104,Comedy
+Simmba,2018,5028,2.5,159,"Action, Drama, Comedy"
+Sudani from Nigeria,2018,3667,3.8,123,"Comedy, Drama, Family"
+Cry Me a Sad River,2018,2876,3.4,104,Drama
+John & Yoko: Above Us Only Sky,2018,3373,3.7,90,"Documentary, Music"
+"Take the Ball, Pass the Ball",2018,3523,3.8,107,Documentary
+Les Misérables,2018,2649,3.7,372,"Drama, Epic History And Literature, Powerful Stories Of Heartbreak And Suffering"
+Stella’s Last Weekend,2018,2171,3.2,102,Comedy
+The Warning,2018,4316,2.8,93,"Drama, Fantasy, Thriller"
+Cemara’s Family,2018,4115,3.5,110,"Drama, Family"
+Demetri Martin: The Overthinker,2018,3401,3.6,56,Comedy
+Slut in a Good Way,2018,1494,3.5,89,"Comedy, Drama"
+The Daughters of Fire,2018,1821,2.7,115,Drama
+Uma Quase Dupla,2018,4129,2.8,90,Comedy
+Bathtubs Over Broadway,2018,2603,3.7,87,"Music, Comedy, Documentary"
+God’s Not Dead: A Light in Darkness,2018,3416,2.0,105,"Drama, Faith And Religion, Religious Faith"
+The Conductor,2018,3021,3.3,137,"History, Drama"
+Bergman: A Year in a Life,2018,1959,3.7,117,Documentary
+The Boat,2018,3180,2.8,89,"Horror, Thriller, Mystery"
+A Dark Place,2018,2913,3.0,89,"Mystery, Thriller, Thrillers And Murder Mysteries"
+What We Left Behind: Looking Back at Star Trek: Deep Space Nine,2018,3092,3.8,116,"Documentary, Monsters, Aliens"
+Superlopez,2018,4475,2.5,108,Comedy
+The Accused,2018,3568,2.9,113,"Thriller, Drama"
+Jesus Christ Superstar Live in Concert,2018,3070,3.5,101,"Drama, TV Movie, Music"
+At War,2018,2839,3.6,105,Drama
+Boys Cry,2018,2945,3.5,95,"Crime, Drama"
+John McEnroe: In the Realm of Perfection,2018,2261,3.6,95,Documentary
+Njan Prakashan,2018,4185,3.5,131,Comedy
+Taylor Swift: The Road to Reputation,2018,2937,4.2,43,"Documentary, Music, TV Movie"
+The Great Battle,2018,3130,3.3,135,"History, War, Action"
+Sonu Ke Titu Ki Sweety,2018,4668,2.8,144,"Comedy, Romance, Relationship Comedy"
+Journey to a Mother’s Room,2018,2298,3.6,90,Drama
+Varathan,2018,4019,3.4,131,"Thriller, High Speed And Special Ops, Terrifying"
+Ave Maryam,2018,3232,3.3,74,"Drama, Romance"
+The Portuguese Woman,2018,1502,3.7,136,"Drama, History"
+Edge of the Knife,2018,1262,3.5,100,"Horror, Drama"
+Family Is Family,2018,5129,2.6,107,Comedy
+They Remain,2018,1948,2.7,102,"Horror, Thriller, Mystery"
+Memories of the Alhambra,2018,3753,3.2,1120,"Drama, Mystery, Moving Relationship Stories"
+Aladdin 2,2018,5483,2.1,98,"Comedy, Fantasy, Adventure"
+In My Room,2018,1917,3.4,120,Drama
+Animal,2018,3254,3.2,112,"Drama, Thriller"
+Doctor Who: The Woman Who Fell to Earth,2018,3840,3.1,64,"Science Fiction, Drama, Adventure"
+Sabrina,2018,3862,1.8,98,"Thriller, Horror"
+Pass Over,2018,1697,3.5,75,Drama
+The Resistance Banker,2018,3536,3.3,124,"Drama, War, War And Historical Adventure"
+The ABC Murders,2018,2948,3.2,180,"Mystery, Crime, Drama"
+Supa Modo,2018,1260,3.8,74,Drama
+Mega Time Squad,2018,2346,3.1,86,"Science Fiction, Action, Adventure"
+The Price of Everything,2018,2190,3.6,98,Documentary
+The Golem,2018,3030,2.7,95,"Horror, Drama, The Undead And Monster Classics"
+The Most Beautiful Girl in the World,2018,3516,3.4,102,"Music, Romance, Comedy"
+Christmas Made to Order,2018,3445,2.1,83,"Romance, TV Movie"
+Vanity Fair,2018,1488,3.5,336,"Drama, Comedy, Epic History And Literature"
+We,2018,2743,2.8,100,Drama
+A Fortunate Man,2018,3158,3.3,162,"Drama, Moving Relationship Stories, Powerful Stories Of Heartbreak And Suffering"
+Sid & Aya: Not a Love Story,2018,3167,3.3,94,"Romance, Drama"
+The Cleaners,2018,2277,3.5,85,Documentary
+Spinning Man,2018,3510,2.7,100,"Crime, Thriller, Mystery"
+St. Agatha,2018,2935,2.3,103,"Thriller, Horror, The Undead And Monster Classics"
+Tempted,2018,3471,2.9,1120,Drama
+Ordeal by Innocence,2018,2642,3.4,180,"Mystery, Crime, Drama"
+Blackmail,2018,3640,3.4,138,"Thriller, Comedy, Crude Humor And Satire"
+Love for Sale,2018,3440,3.5,104,"Drama, Romance"
+A Place Further Than the Universe,2018,2540,4.1,312,"Comedy, Animation, Drama"
+Yardie,2018,2521,3.0,101,"Crime, Drugs And Gangsters, Gritty Crime And Ruthless Gangsters"
+The Tree of Blood,2018,3018,3.0,130,Drama
+I’ll Take Your Dead,2018,2961,2.7,83,"Drama, Horror, Crime"
+Operation Odessa,2018,3004,3.6,92,Documentary
+Best F(r)iends: Volume 2,2018,2065,2.8,93,"Thriller, Mystery"
+Song Lang,2018,1418,3.9,101,"Music, Drama"
+My First Film,2018,640,3.7,105,No genres available
+"Paul, Apostle of Christ",2018,2972,3.2,108,"Drama, Faith And Religion, Religious Faith"
+Perdida,2018,3937,2.4,103,"Drama, Crime, Mystery"
+The Unicorn,2018,2240,2.9,88,Comedy
+LEGO DC Comics Super Heroes: The Flash,2018,3026,3.0,78,"Comedy, Animation, Science Fiction"
+Lover,2018,1518,2.8,80,"Romance, Thriller"
+Ashes in the Snow,2018,2793,3.0,99,"Romance, Drama, War And Historical Adventure"
+The Blood of Wolves,2018,1558,3.6,126,"Crime, Horror, Drama"
+Ghost Killers vs. Bloody Mary,2018,3314,2.8,103,"Comedy, Horror"
+The Eyes of Orson Welles,2018,2046,3.4,111,Documentary
+Every Day a Good Day,2018,1962,3.7,100,Drama
+The Extraordinary Journey of the Fakir,2018,3440,3.1,96,"Adventure, Drama, Comedy"
+Charming,2018,2978,2.2,90,"Fantasy, Comedy, Animation"
+Donnybrook,2018,2025,2.8,101,"Crime, Drama, Drugs And Gangsters"
+An Unexpected Love,2018,3307,3.2,136,"Comedy, Romance"
+Tel Aviv on Fire,2018,2589,3.4,100,Comedy
+Jellyfish,2018,1738,3.5,98,Drama
+Dumped,2018,3717,3.0,95,Comedy
+Swimming with Men,2018,2961,3.1,94,"Drama, Comedy, Crude Humor And Satire"
+White Fang,2018,2901,3.3,87,"Animation, Family"
+6-Headed Shark Attack,2018,2361,1.9,89,"Action, Horror, TV Movie"
+El Pepe: A Supreme Life,2018,2843,3.4,74,Documentary
+The Bleeding Edge,2018,2713,3.7,99,Documentary
+Out of Blue,2018,1962,2.6,110,"Drama, Crime, Mystery"
+Operation Red Sea,2018,2578,3.1,138,"War, Action, Thriller"
+Love per Square Foot,2018,3279,3.1,133,"Comedy, Romance"
+Pig,2018,2885,2.9,104,"Comedy, Drama, Horror"
+Daughter of Mine,2018,1326,3.3,100,Drama
+The Awakening of Motti Wolkenbruch,2018,3509,2.9,94,Comedy
+Death Race: Beyond Anarchy,2018,2709,2.4,111,"Science Fiction, Action, Thriller"
+Family Blood,2018,2873,1.9,92,"Horror, Thriller, The Undead And Monster Classics"
+Maya,2018,1484,3.2,107,Drama
+Greg Davies: You Magnificent Beast,2018,3128,3.6,66,Comedy
+The Jurassic Games,2018,2884,2.0,86,"Action, Horror, Science Fiction"
+Detective Dee: The Four Heavenly Kings,2018,2433,3.3,132,"Fantasy, Action, Adventure"
+100 Days My Prince,2018,3222,3.6,1200,"Mystery, Comedy, Drama"
+The Looming Tower,2018,2369,3.8,492,"Drama, Politics And Human Rights, Politics"
+Maine,2018,806,3.1,86,Drama
+The Load,2018,2080,3.5,96,Drama
+Always at The Carlyle,2018,1143,3.2,92,Documentary
+Mouthpiece,2018,1497,3.6,91,Drama
+Sarkar,2018,4712,2.5,164,"Drama, Action, Epic Heroes"
+The Final Wish,2018,2910,1.9,95,"Horror, The Undead And Monster Classics, Terrifying"
+The Sweet Taste of Salted Bread and Undies,2018,2252,3.6,100,"Drama, Comedy"
+The Bouncer,2018,2578,2.9,84,"Drama, Action, Thriller"
+The Emperor of Paris,2018,3100,3.0,121,"Crime, Drama, Thriller"
+Burden,2018,1908,3.2,129,Drama
+The Bill Murray Stories: Life Lessons Learned from a Mythical Man,2018,2763,3.3,70,Documentary
+The Angel,2018,3136,3.1,114,"Action, War, Drama"
+Primal Rage,2018,1999,2.6,106,"Horror, The Undead And Monster Classics, Gory"
+The Unthinkable,2018,2915,3.1,129,"Thriller, Drama, Science Fiction"
+Color Me True,2018,1729,3.6,108,"Drama, Romance, Fantasy"
+Secrets in the Hot Spring,2018,2711,3.2,108,"Horror, Comedy"
+Mug,2018,2374,3.3,91,"Comedy, Drama"
+After the Rain,2018,1842,3.3,111,"Drama, Romance"
+Fred Armisen: Standup for Drummers,2018,2849,3.1,65,"Music, Comedy"
+Yomeddine,2018,1814,3.6,97,"Adventure, Comedy, Drama"
+The Smile Has Left Your Eyes,2018,2146,3.7,1024,"Crime, Mystery, Drama"
+Haunted Hospital: Heilstatten,2018,3246,1.9,89,Horror
+Rosie,2018,1972,3.6,86,Drama
+Future World,2018,2258,1.7,88,"Science Fiction, Monsters, Aliens"
+There’s No Place Like Home,2018,3739,2.9,103,"Drama, Comedy"
+Being Frank: The Chris Sievey Story,2018,1665,3.9,100,"Documentary, Music, Comedy"
+Birthmarked,2018,2896,2.9,90,Comedy
+The Fear Footage,2018,1553,2.7,71,"Horror, The Undead And Monster Classics, Terrifying"
+Seven Seconds,2018,1975,3.7,550,"Drama, Crime, Moving Relationship Stories"
+Lifechanger,2018,2090,2.9,84,"Thriller, Horror, The Undead And Monster Classics"
+Perfect,2018,1140,2.6,85,"Thriller, Science Fiction"
+"Santiago, Italia",2018,2179,3.7,80,Documentary
+American Dharma,2018,2010,3.4,95,Documentary
+Permanent Green Light,2018,846,3.5,92,Drama
+Been So Long,2018,1942,2.7,100,"Romance, Drama, Music"
+Asobi Asobase - workshop of fun -,2018,2576,4.1,288,"Animation, Comedy"
+Geetha Govindam,2018,4022,3.2,148,"Romance, Relationship Comedy, Bollywood Emotional Dramas"
+Back Roads,2018,1710,3.2,101,"Thriller, Crime, Drama"
+Megalodon,2018,3178,2.0,90,"Science Fiction, Horror, TV Movie"
+Empty Metal,2018,665,3.5,83,Thriller
+Re:Zero - Starting Life in Another World Memory Snow,2018,3334,3.4,60,"Adventure, Fantasy, Animation"
+Christmas Wonderland,2018,2796,2.3,90,"Romance, TV Movie"
+Loro 2,2018,2787,3.5,100,Drama
+Book of Monsters,2018,1990,2.6,84,"Horror, Action, Comedy"
+Heaven’s Waiting,2018,2600,3.5,90,"Comedy, Drama"
+Joy,2018,1858,3.5,99,Drama
+Pick of the Litter,2018,2333,3.6,81,Documentary
+After the Screaming Stops,2018,2645,3.6,98,"Music, Documentary, Moving Relationship Stories"
+Dovlatov,2018,1993,3.3,126,Drama
+All Good,2018,1670,3.5,93,Drama
+Dark Figure of Crime,2018,2504,3.4,111,"Crime, Drama"
+Acts of Violence,2018,2846,2.2,86,"Crime, Action, Thriller"
+The Fall of the American Empire,2018,2538,3.3,127,"Drama, Comedy, Crime"
+The Fireflies Are Gone,2018,891,3.4,96,"Drama, Comedy"
+"One Nation, One King",2018,2463,2.8,121,"Drama, History"
+Black Tide,2018,2440,3.0,109,"Thriller, Mystery"
+My True Brilliant Friend,2018,1622,4.2,75,Documentary
+Children of the Corn: Runaway,2018,1679,2.1,82,Horror
+A Bread Factory: Part Two: Walk With Me A While,2018,1060,3.7,120,"Comedy, Drama"
+Bert Kreischer: Secret Time,2018,3096,3.6,57,Comedy
+Project Gutenberg,2018,2412,3.3,130,"Action, Crime, Mystery"
+The Ghost of Peter Sellers,2018,1596,3.3,93,Documentary
+Jim Jefferies: This Is Me Now,2018,3233,3.6,70,Comedy
+Joe Rogan: Strange Times,2018,3169,3.3,63,Comedy
+Revenger,2018,2734,2.7,102,"Action, Epic Heroes, Intense Combat And Martial Arts"
+Pari,2018,2450,3.0,135,"Fantasy, Mystery, Horror"
+Super Crazy,2018,3291,3.0,90,Comedy
+Still Human,2018,1695,3.7,112,Drama
+John Leguizamo’s Latin History for Morons,2018,2497,3.4,89,Comedy
+Softness of Bodies,2018,1223,3.2,74,Drama
+Night Comes On,2018,1378,3.5,87,Drama
+The Silences,2018,1695,3.7,90,Drama
+The Wrong Daughter,2018,2131,2.0,89,"Thriller, Drama, Crime"
+Awe!,2018,3028,3.4,115,"Drama, Romance, Action"
+Raid,2018,3487,3.2,128,"Action, Drama, Crime"
+Clara,2018,1932,3.2,106,"Drama, Romance, Science Fiction"
+Thugs of Hindostan,2018,3446,2.2,164,"Action, Adventure, Epic Heroes"
+Tito and the Birds,2018,1497,3.4,73,"Adventure, Animation, Drama"
+Miss Baek,2018,1947,3.5,98,"Drama, Crime, Thriller"
+Rolling to You,2018,3503,2.8,107,"Comedy, Romance"
+Yuli,2018,2276,3.5,115,Drama
+Kaybedenler Kulübü Yolda,2018,3243,2.8,96,"Drama, Comedy"
+Josie,2018,1837,2.3,87,"Thriller, Drama"
+Duck Duck Goose,2018,2586,2.4,91,"Comedy, Adventure, Family"
+Diamond Dust,2018,2916,3.6,150,"Thriller, Drama, Mystery"
+Bel Canto,2018,1892,2.8,100,"Drama, Thriller, Romance"
+Come Sunday,2018,1789,3.1,106,"Drama, Faith And Religion, Faith And Spiritual Journeys"
+Boarding School,2018,2002,2.9,111,"Horror, Mystery, Intense Violence And Sexual Transgression"
+Still 17,2018,2704,3.6,960,"Drama, Mystery, Comedy"
+The Crossing,2018,1657,3.5,99,Drama
+Soni,2018,1781,3.6,97,"Crime, Drama"
+The Invisibles,2018,2481,3.5,102,"Drama, Comedy"
+Angels of Death,2018,2906,3.4,288,Animation
+When the Angels Sleep,2018,2910,2.4,94,"Thriller, Crime, Thrillers And Murder Mysteries"
+Clergy,2018,2773,3.5,133,Drama
+Neo Yokio: Pink Christmas,2018,1773,3.5,65,"Animation, Comedy"
+Sui Dhaaga - Made in India,2018,3144,3.1,150,"Comedy, Family, Drama"
+Inuyashiki,2018,1920,3.2,127,"Fantasy, Adventure, Action"
+November 13: Attack on Paris,2018,2492,4.0,165,Documentary
+Last Letter,2018,1213,3.2,113,"Romance, Drama"
+(Girl)Friend,2018,3360,2.8,82,"Comedy, Romance"
+¡Las Sandinistas!,2018,669,3.8,94,"History, Documentary"
+Patrick,2018,2554,2.6,94,"Comedy, Family"
+The Last Hangover,2018,3178,3.1,44,Comedy
+The Thinning: New World Order,2018,2299,2.0,89,"Horror, Thriller, Drama"
+Our Body,2018,1000,3.3,93,Drama
+The Lost Footage of Leah Sullivan,2018,1657,2.8,84,"Mystery, Crime, Horror"
+Solo,2018,2781,2.3,100,"Adventure, Drama, Thriller"
+Catwalk: Tales from the Catshow Circuit,2018,2201,3.3,77,Documentary
+Rosy,2018,1411,2.9,93,"Comedy, Thriller, Romance"
+Aravinda Sametha… Veera Raghava,2018,2931,3.3,162,"Drama, Action, Epic Heroes"
+Jobe’z World,2018,1359,3.2,67,Comedy
+Bharat Ane Nenu,2018,3553,3.1,173,"Drama, Action, Epic Heroes"
+Kedarnath,2018,2928,3.1,120,"Romance, Song And Dance, Bollywood Emotional Dramas"
+Boundaries,2018,1727,3.0,105,"Comedy, Drama"
+What You Gonna Do When the World’s on Fire?,2018,1325,3.5,123,Documentary
+Selfie from Hell,2018,2004,1.4,75,"Mystery, Horror"
+Agatha and the Truth of Murder,2018,2325,2.9,93,"Mystery, Drama, Thrillers And Murder Mysteries"
+Lionheart,2018,1532,2.9,95,"Drama, Comedy"
+Citrus,2018,2836,2.3,288,"Animation, Drama, Comedy"
+Case Closed: Zero the Enforcer,2018,2766,3.1,110,"Mystery, Animation, Action"
+Half the Picture,2018,705,3.6,94,Documentary
+Ronnie Coleman: The King,2018,2864,3.3,93,Documentary
+What Is Love?,2018,982,3.4,123,"Romance, Drama"
+Cutterhead,2018,1946,3.3,84,Thriller
+After the Rain,2018,1722,3.7,276,"Animation, Comedy, Drama"
+Lake Placid: Legacy,2018,1981,1.7,93,"Action, Science Fiction, TV Movie"
+My Little Pony: Equestria Girls - Forgotten Friendship,2018,2522,3.3,44,"Fantasy, Animation, Family"
+Imaikkaa Nodigal,2018,3552,3.3,170,"Drama, Crime, Action"
+Ang Pangarap Kong Holdap,2018,2541,3.2,107,"Comedy, Crime"
+Old Boys,2018,1809,3.1,96,Comedy
+1991,2018,2737,3.4,102,"Comedy, Drama"
+The Beauty Inside,2018,2459,3.5,960,"Drama, Comedy, Relationship Comedy"
+Bori,2018,719,3.6,110,Drama
+Race 3,2018,3262,1.5,160,"Adventure, Crime, Action"
+ReMastered: Tricky Dick & The Man in Black,2018,2290,3.4,58,"Documentary, Music"
+The Fare,2018,1769,3.2,82,"Mystery, Thriller, Science Fiction"
+Marvel Rising: Secret Warriors,2018,1866,2.9,80,"TV Movie, Science Fiction, Adventure"
+Dachra,2018,1501,3.0,113,Horror
+The Girl Allergic to Wi-Fi,2018,2482,2.8,104,"Comedy, Romance"
+Koode,2018,2514,3.5,155,"Romance, Drama"
+Kickboxer: Retaliation,2018,2198,2.4,110,"Action, Drama, Epic Heroes"
+The Legend of Cocaine Island,2018,2394,3.1,83,Documentary
+Jinn,2018,686,3.2,92,Drama
+No Sleep ’Til Christmas,2018,2123,2.6,85,"TV Movie, Comedy, Romance"
+Kolamavu Kokila,2018,2935,3.4,140,"Thriller, Comedy"
+The Amityville Murders,2018,1927,2.1,97,Horror
+School Babysitters,2018,2461,3.9,288,"Comedy, Animation"
+Brother of the Year,2018,2851,3.2,125,"Romance, Comedy, Drama"
+Café Funiculi Funicula,2018,1459,3.3,116,"Drama, Fantasy"
+How to Be Really Bad,2018,2647,2.7,100,Comedy
+Mothers’ Instinct,2018,1811,3.2,97,"Mystery, Thriller, Drama"
+"Love, Chunibyo & Other Delusions! Take On Me",2018,2709,3.6,94,"Comedy, Fantasy, Animation"
+Exterior/Night,2018,1955,3.4,95,"Drama, Adventure"
+Some Time Later,2018,1925,3.3,96,"Science Fiction, Comedy"
+UFO,2018,2263,2.8,88,"Science Fiction, Thriller, Action"
+Nostalgia,2018,871,3.0,115,Drama
+Combat Obscura,2018,1229,3.7,70,"Documentary, History, War"
+Insect,2018,823,3.4,98,"Drama, Animation, Comedy"
+Extremity,2018,1870,2.3,103,Horror
+An Interview with God,2018,2017,2.7,97,"Drama, Mystery, Faith And Religion"
+RuPaul’s Drag Race Holi-Slay Spectacular,2018,2553,2.5,41,Music
+Don’t Leave Home,2018,1688,2.7,86,"Thriller, Mystery"
+The Guest,2018,1676,3.9,1040,"Mystery, Drama, Crime"
+Blue Iguana,2018,1895,2.6,100,"Thriller, Comedy, Romance"
+Ode to the Goose,2018,847,3.6,122,Drama
+Gundermann,2018,2211,3.5,128,Drama
+Jim Button and Luke the Engine Driver,2018,2810,3.1,109,"Fantasy, Family, Adventure"
+Reprisal,2018,2206,1.8,89,"Thriller, Adventure, Action"
+Island of the Hungry Ghosts,2018,992,3.6,98,Documentary
+The Father’s Shadow,2018,1303,3.3,92,"Drama, Horror, Fantasy"
+A Family Tour,2018,1032,3.5,107,Drama
+Science Fair,2018,1366,3.7,90,Documentary
+Stalked by My Doctor: Patient’s Revenge,2018,1507,3.2,88,"Thriller, Horror, TV Movie"
+Make Us Dream,2018,2434,3.7,104,Documentary
+A Paris Education,2018,1279,3.5,136,Drama
+Rottentail,2018,2043,1.9,104,"Horror, Comedy"
+"Party Hard, Die Young",2018,1841,2.5,90,"Horror, Thriller"
+Pope Francis: A Man of His Word,2018,1600,3.2,96,"Documentary, Faith And Religion, Religious Faith"
+Rams,2018,1467,3.8,74,Documentary
+The World Is Full of Secrets,2018,697,3.4,98,"Horror, Drama"
+Flower Boy: A Conversation,2018,1290,4.1,58,Documentary
+Werewolf,2018,1511,3.1,88,"Horror, War"
+A Family Submerged,2018,1250,3.3,91,Drama
+Distorted,2018,1883,2.0,90,"Thriller, Action, Mystery"
+"To Each, Her Own",2018,2172,2.3,95,"Romance, Comedy"
+Papi Chulo,2018,1487,3.2,98,"Comedy, Drama"
+CoinCoin and the Extra-Humans,2018,1345,3.8,208,"Drama, Comedy"
+Grand Blue Dreaming,2018,2391,3.8,288,"Animation, Comedy"
+Seven in Heaven,2018,2033,2.3,94,"Horror, Underdogs And Coming Of Age, Twisted Dark Psychological Thriller"
+Goodachari,2018,2861,3.5,147,"Action, Thriller, High Speed And Special Ops"
+"Summer Days, Summer Nights",2018,1481,2.9,124,"Romance, Drama"
+"Dykes, Camera, Action!",2018,469,3.6,58,Documentary
+Love At Least,2018,768,3.5,109,"Drama, Romance"
+Sobibor,2018,2023,3.1,110,"Drama, War, War And Historical Adventure"
+Worlds of Ursula K. Le Guin,2018,1124,3.7,67,"Documentary, Animation"
+The Tribe,2018,2814,2.7,90,Comedy
+Clean with Passion for Now,2018,2487,2.9,1040,"Drama, Comedy, Relationship Comedy"
+Unremember,2018,1412,3.5,96,Drama
+To the Ends of the World,2018,1659,3.3,99,"War, Adventure, Drama"
+The Isle,2018,1770,2.3,96,"Horror, Fantasy, Adventure"
+The Raft,2018,1329,3.4,97,Documentary
+Angel Face,2018,1462,3.2,120,Drama
+The Tower,2018,1035,3.7,74,"Drama, Animation"
+ReMastered: Who Shot the Sheriff,2018,2214,3.4,57,Documentary
+DeadTectives,2018,1968,2.8,92,"Comedy, Horror"
+Zoku Owarimonogatari,2018,2207,4.1,148,"Fantasy, Mystery, Comedy"
+Your Face,2018,1123,3.6,76,Documentary
+Chuck Steel: Night of the Trampires,2018,1100,3.4,89,"Comedy, Animation, Action"
+Abrakadabra,2018,1303,2.9,69,"Thriller, Drama"
+Screwball,2018,2000,3.4,105,"History, Documentary"
+Sylvia Plath: Inside The Bell Jar,2018,609,3.5,59,"History, Documentary, TV Movie"
+Firecrackers,2018,1036,3.4,93,Drama
+Flora’s Life is No Picnic,2018,1483,3.6,64,Documentary
+Big Brother,2018,2077,2.9,111,"Action, Drama, Comedy"
+Milly & Mamet,2018,2755,3.3,100,"Romance, Comedy, Drama"
+Theatre of War,2018,1434,3.6,73,Documentary
+The Vanished,2018,1468,3.3,101,"Thriller, Crime, Mystery"
+The Legend of the Black Charro,2018,2478,3.3,85,"Family, Horror, Action"
+O.G.,2018,1638,3.3,113,Drama
+Maari 2,2018,3257,2.6,150,"Comedy, Action"
+The Shadow Play,2018,1548,3.5,129,"Thriller, Mystery, Crime"
+All or Nothing: Manchester City,2018,2457,3.8,384,Documentary
+Bad Poems,2018,1735,3.8,97,"Comedy, Drama"
+Little Women,2018,1371,2.3,112,"Drama, Moving Relationship Stories, Touching And Sentimental Family Stories"
+Acid,2018,1881,2.9,98,Drama
+3 Days in Quiberon,2018,1452,3.4,115,Drama
+Gags the Clown,2018,1420,2.4,89,"Comedy, Thriller, Horror"
+Dark Tourist,2018,1844,3.8,328,"Documentary, Intense Violence And Sexual Transgression, Twisted Dark Psychological Thriller"
+Making Fun: The Story of Funko,2018,2205,3.0,99,"Adventure, Documentary"
+I’m Back,2018,2762,3.0,92,Comedy
+Wanderlust,2018,1167,3.6,342,"Drama, Moving Relationship Stories, Relationship Comedy"
+Cassandro the Exotico !,2018,1519,3.3,73,Documentary
+Life-Size 2,2018,1451,2.1,81,"Family, Fantasy"
+Gun City,2018,2045,3.0,127,"Thriller, Crime, Drama"
+The Laws of Thermodynamics,2018,2156,2.7,100,"Comedy, Romance"
+More Than Blue,2018,1874,3.0,106,"Drama, Romance"
+Wolfman’s Got Nards,2018,1379,3.5,91,Documentary
+Comedy Central Roast of Bruce Willis,2018,2225,3.1,85,"TV Movie, Comedy"
+Sol Alegria,2018,1080,3.3,91,"Fantasy, Comedy"
+Waiting for Sunset,2018,1418,3.6,90,Drama
+August at Akiko’s,2018,952,3.5,75,Drama
+The Innocent Man,2018,1719,3.5,0,"Documentary, Crime"
+30 Miles from Nowhere,2018,1821,2.2,83,"Comedy, Horror, The Undead And Monster Classics"
+L’Animale,2018,1238,3.3,93,Drama
+FLCL Progressive,2018,1788,2.9,132,"Comedy, Action, Animation"
+Jonaki,2018,720,3.5,96,"Drama, Fantasy"
+I Feel Good,2018,2444,3.2,103,"Drama, Comedy"
+Sgt. Stubby: An American Hero,2018,1637,3.2,85,"Adventure, War, Animation"
+Notes on an Appearance,2018,898,3.2,60,"Mystery, Drama, Thriller"
+Christmas Catch,2018,1759,2.0,80,"Romance, TV Movie"
+Petra,2018,1393,3.5,107,Drama
+Classical Period,2018,987,3.4,62,Drama
+Black Water,2018,1839,2.3,105,"Action, Thriller, High Speed And Special Ops"
+Acute Misfortune,2018,812,3.6,90,Drama
+High Strung Free Dance,2018,1714,2.7,103,"Drama, Music, Romance"
+Pachamama,2018,1732,3.3,72,"Animation, Fantasy, Family"
+Switched,2018,2211,3.4,240,Drama
+Joseph,2018,2392,3.5,138,"Drama, Thriller"
+Jinpa,2018,1326,3.5,86,Drama
+Backtrace,2018,1961,1.7,87,"Action, Thriller, Crime"
+Gangsta,2018,2098,3.2,125,"Crime, Thriller, Action"
+One Piece: Episode of Skypiea,2018,2173,3.2,104,"Action, Adventure, Comedy"
+Suburban Birds,2018,912,3.4,118,Drama
+Ariana Grande: Dangerous Woman Diaries,2018,2058,4.2,132,Documentary
+2036 Origin Unknown,2018,1988,2.1,94,"Mystery, Thriller, Science Fiction"
+Momentum Generation,2018,1476,4.0,104,Documentary
+My Little Pony: Equestria Girls - Rollercoaster of Friendship,2018,1931,3.2,44,"Animation, Family, Music"
+Deliha 2,2018,2594,2.7,106,Comedy
+Dynasties,2018,1322,4.3,250,"Family, Documentary"
+United Skates,2018,1089,3.7,89,Documentary
+Default,2018,1614,3.2,114,"Drama, History"
+The Accountant of Auschwitz,2018,1895,3.6,78,"History, Crime, Documentary"
+Romina,2018,1937,1.3,74,"Thriller, Horror, The Undead And Monster Classics"
+Leona,2018,1181,3.4,95,"Drama, Romance"
+Betty White: First Lady of Television,2018,1508,3.6,57,Documentary
+The Con Is On,2018,1611,1.8,95,"Crime, Comedy, Crude Humor And Satire"
+Vision,2018,1149,2.9,110,Drama
+Malicious,2018,1943,2.0,90,"Horror, Thriller, The Undead And Monster Classics"
+Gold,2018,2458,3.1,170,"History, Drama, Epic History And Literature"
+Livescream,2018,1128,2.9,67,Horror
+My Little Monster,2018,1671,3.1,105,"Comedy, Drama, Romance"
+Keys to the Heart,2018,1719,3.4,120,"Drama, Comedy"
+Baaghi 2,2018,2678,2.2,145,"Mystery, Adventure, Action"
+Everybody’s Talking About Jamie,2018,1433,3.7,143,"Music, Family, Comedy"
+Christmas with a Prince,2018,1742,1.8,90,"Romance, TV Movie, Drama"
+All Creatures Here Below,2018,804,3.2,91,Drama
+Run with the Wind,2018,1633,4.1,529,"Drama, Animation, Comedy"
+Savage,2018,1005,2.8,83,Thriller
+Merata: How Mum Decolonised the Screen,2018,598,3.7,88,Documentary
+The Armadillo’s Prophecy,2018,2011,3.1,99,"Drama, Comedy"
+The Gifted,2018,2139,3.8,598,Drama
+Bulbul Can Sing,2018,963,3.5,95,Drama
+High Society,2018,1655,2.4,119,Drama
+Put Grandma in the Freezer,2018,2505,3.1,104,Comedy
+Sheeple,2018,2882,3.1,120,"Crime, Drama"
+S He,2018,515,3.6,95,"Fantasy, Animation"
+Nina,2018,1151,3.0,130,"Romance, Drama"
+Lawless Lawyer,2018,1653,3.5,960,"Drama, Crime, Epic Heroes"
+27: Gone Too Soon,2018,1961,2.3,70,Documentary
+Speed Kills,2018,1511,1.8,102,"Thriller, Drama, Crime"
+The Best Summer of My Life,2018,2515,3.0,91,"Family, Comedy"
+Putin’s Witnesses,2018,1440,3.6,103,"Documentary, History"
+Boiled Angels: The Trial of Mike Diana,2018,795,3.6,105,Documentary
+The Mermaid: Lake of the Dead,2018,1684,1.9,90,"Horror, Romance, Fantasy"
+All the Gods in the Sky,2018,988,3.2,98,"Horror, Drama"
+A Bluebird in My Heart,2018,1509,3.3,86,Thriller
+Ordinary People,2018,1519,2.9,99,"Mystery, Crime, Thriller"
+Knuckleball,2018,1508,2.9,89,"Horror, Thriller, The Undead And Monster Classics"
+Digimon Adventure tri. Part 6: Future,2018,1879,3.2,98,"Action, Animation, Family"
+Webcast,2018,1051,3.0,95,"Horror, Thriller"
+Mercury 13,2018,1318,3.5,79,Documentary
+The Devil We Know,2018,1063,3.6,88,Documentary
+Ága,2018,1179,3.6,96,Drama
+Fabrizio De André: Principe libero,2018,2085,3.5,188,"Music, History"
+Parmanu: The Story of Pokhran,2018,2434,3.1,129,"Drama, Action, History"
+The Honest Candidate 2,2018,2555,2.7,104,Comedy
+To Dust,2018,1039,3.4,105,"Comedy, Drama"
+GHOUL,2018,1818,3.3,135,"Drama, Mystery, Intense Violence And Sexual Transgression"
+FLCL Alternative,2018,1422,3.1,135,"Science Fiction, Animation, Comedy"
+Swinging Safari,2018,1195,3.0,97,"Drama, Comedy"
+Guy,2018,1852,3.5,101,"Music, Comedy, Drama"
+The Tobacconist,2018,1854,2.9,109,"Drama, History"
+Being Frank,2018,1359,2.9,111,Comedy
+Along Came the Devil,2018,1457,2.0,89,"Drama, Thriller, Horror"
+"Neuilly sa mère, sa mère !",2018,2668,2.7,105,Comedy
+Sauerkrautkoma,2018,2392,3.3,97,"Crime, Comedy"
+What a Crush,2018,2672,2.7,113,Comedy
+South Wind,2018,2219,3.3,125,"Crime, Drama, Thriller"
+LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis,2018,1446,2.7,77,"Family, Animation, Action"
+Belleville Cop,2018,2355,2.3,110,"Crime, Comedy"
+Real Love,2018,852,3.5,98,"Drama, Family, Comedy"
+Rust,2018,1683,3.0,100,Drama
+Love Jacked,2018,1883,2.6,100,"Romance, Comedy"
+Searching for Ingmar Bergman,2018,953,3.4,95,Documentary
+Occupation,2018,1549,2.1,119,"Science Fiction, Drama, Action"
+The Night Sitter,2018,1295,2.7,88,"Horror, Comedy"
+The Panama Papers,2018,1139,3.4,100,"Crime, Documentary"
+The Quietude,2018,1222,3.0,117,"Drama, Thriller"
+The Scorpion King: Book of Souls,2018,1396,2.0,102,"Action, Fantasy, Adventure"
+Suzzanna: Buried Alive,2018,1873,3.0,125,"Drama, Horror"
+Social Animals,2018,1351,2.7,90,"Romance, Comedy"
+Hadi Be Oğlum,2018,2258,3.1,106,Drama
+Summer Survivors,2018,1108,3.7,91,Drama
+BTS: Burn the Stage,2018,1906,4.2,200,Documentary
+Close Enemies,2018,1775,3.1,111,"Thriller, Drama"
+Irumbu Thirai,2018,2516,3.3,160,"Action, Thriller"
+Mom + Mom,2018,369,3.2,77,"Romance, Comedy, Drama"
+Not Cinderella’s Type,2018,1576,2.2,97,"Romance, Moving Relationship Stories, Touching And Sentimental Family Stories"
+Champion,2018,1502,3.1,108,"Drama, Comedy"
+The Endless Film,2018,967,3.2,54,"Fantasy, Documentary"
+An Affair,2018,1729,2.7,92,Drama
+Blackbird,2018,1167,2.2,88,"Action, Romance, Crime"
+Cake,2018,960,3.7,125,"Comedy, Drama, Mystery"
+Tiny Shoulders: Rethinking Barbie,2018,1216,3.3,91,Documentary
+El Potro: Unstoppable,2018,2158,2.8,122,"Drama, Music"
+Umbilical World,2018,465,3.7,79,Animation
+Veere Di Wedding,2018,2040,2.5,135,"Comedy, Drama, Crude Humor And Satire"
+The Black Forest,2018,1122,3.2,98,Horror
+Over Drive,2018,1175,3.0,104,Action
+The Cry,2018,1272,3.7,228,"Drama, Mystery, Moving Relationship Stories"
+You Shall Not Sleep,2018,1325,2.9,106,"Horror, Thriller"
+Miss Granny,2018,1924,3.2,120,"Music, Comedy, Drama"
+Alive,2018,1541,2.5,91,"Thriller, Horror"
+Sophia Antipolis,2018,1065,3.5,98,Drama
+Black Earth Rising,2018,1077,3.7,480,"Crime, Drama, Thrillers And Murder Mysteries"
+The Weekend,2018,892,3.1,86,"Drama, Comedy, Romance"
+Meet Me in St. Gallen,2018,1740,3.1,94,"Romance, Drama"
+Dhadak,2018,2095,2.8,138,"Drama, Romance, Comedy"
+The Awakener,2018,1748,2.7,108,"Crime, Thriller, Drama"
+Evil Bong 777,2018,863,2.2,60,"Horror, Comedy, Fantasy"
+José,2018,934,3.2,85,Drama
+#FriendButMarried,2018,2296,3.2,102,"Comedy, Romance, Drama"
+Christmas at Pemberley Manor,2018,1276,2.5,84,"TV Movie, Romance, Relationship Comedy"
+L. Cohen,2018,535,3.6,48,Documentary
+Los Reyes,2018,1053,3.6,78,Documentary
+The Blackwell Ghost 2,2018,1649,3.0,68,Horror
+Tenacious D in Post-Apocalypto,2018,1164,3.5,66,"Music, Comedy"
+Paper Year,2018,847,2.9,89,"Romance, Drama"
+Bobby Kennedy for President,2018,1388,3.9,240,"Documentary, Drama"
+Freedom Fighters: The Ray,2018,1301,2.8,73,"Fantasy, Animation, Action"
+Thriller,2018,1337,2.0,87,"Horror, Mystery, Underdogs And Coming Of Age"
+Camp Cold Brook,2018,1380,2.2,86,"Horror, The Undead And Monster Classics, Terrifying"
+Capri-Revolution,2018,1437,3.3,117,"Drama, History"
+Detective Chinatown 2,2018,1632,2.9,121,"Mystery, Comedy"
+My Favourite Fabric,2018,1011,3.3,96,Drama
+Seeing Allred,2018,1380,3.6,96,Documentary
+Ever After,2018,1011,2.7,90,"Horror, Fantasy"
+Hurricane,2018,1625,2.8,107,"Drama, Action, War"
+U Turn,2018,2247,3.1,129,"Thriller, Crime, Horror"
+Harajuku,2018,422,3.4,83,Drama
+Alt-Right: Age of Rage,2018,1576,3.2,112,Documentary
+Pop Team Epic,2018,1479,3.7,288,"Animation, Comedy"
+Encounter,2018,1377,3.4,1104,"Drama, Moving Relationship Stories, Passion And Romance"
+You Are the Apple of My Eye,2018,1343,3.2,114,"Drama, Romance"
+A Very Nutty Christmas,2018,1369,2.2,80,"Family, TV Movie"
+King in the Wilderness,2018,947,3.8,111,Documentary
+Mulk,2018,1664,3.4,140,"Drama, Politics And Human Rights, Intense Political And Terrorist Thrillers"
+Living the Light: Robby Müller,2018,769,3.7,86,Documentary
+Nativity Rocks!,2018,1701,2.0,100,"Family, Comedy"
+Conviction,2018,1953,3.4,110,Drama
+The Nobodies,2018,254,3.5,86,"Drama, Comedy, Horror"
+Magical Nights,2018,1631,3.1,120,Comedy
+Are You Human?,2018,1806,3.3,1260,"Mystery, Drama, Moving Relationship Stories"
+Blind Spot,2018,890,3.5,98,Drama
+Christmas Break-In,2018,1606,1.8,87,"Family, Drama"
+Family First,2018,1046,3.4,87,Drama
+Strokes of Genius,2018,1252,4.0,98,"Documentary, History"
+Holy Goalie,2018,2042,2.6,95,Comedy
+“BLESSED”,2018,929,4.0,85,"Documentary, Adventure"
+Punk Samurai Slash Down,2018,489,3.3,130,"Comedy, Action, History"
+Dolphin Reef,2018,1254,3.4,76,"Documentary, Family"
+"Human, Space, Time and Human",2018,1095,3.0,122,Drama
+Ana by Day,2018,1203,3.1,102,Drama
+Zombie Land SAGA,2018,1356,3.7,288,"Comedy, Animation"
+Kids on the Slope,2018,921,3.3,120,"Music, Drama, Romance"
+Don’t. Get. Out!,2018,1985,2.8,105,Thriller
+Drew Michael,2018,561,3.4,60,"TV Movie, Comedy"
+Scary Stories,2018,1367,2.8,85,Documentary
+Mr. SOUL!,2018,565,3.7,90,"Documentary, Comedy, Music"
+Evelyn,2018,1038,3.6,95,Documentary
+PERSONA5 the Animation,2018,1403,3.0,624,"Animation, Comedy, Drama"
+Ted: Show Me Love,2018,1907,3.4,121,"Drama, Music"
+Love Sonia,2018,998,3.5,126,Drama
+The Most Unknown,2018,1539,3.4,92,Documentary
+The Great Mystical Circus,2018,1171,2.4,105,"Romance, Drama, Fantasy"
+The Apparition,2018,1306,3.3,139,Drama
+Island,2018,786,3.7,95,Drama
+Welcome the Stranger,2018,865,2.7,94,"Drama, Thriller, Science Fiction"
+Porn for Newbies,2018,1805,2.7,93,Comedy
+Enes Batur: Imagination or Reality?,2018,2303,2.3,110,Comedy
+Mrs Wilson,2018,1209,3.6,180,"Drama, Moving Relationship Stories, Enduring Stories Of Family And Marital Drama"
+Minuscule 2: Mandibles from Far Away,2018,1361,3.5,92,"Comedy, Animation, Adventure"
+Thaanaa Serndha Koottam,2018,2509,2.8,138,"Crime, Action, Comedy"
+Chris Claremont’s X-Men,2018,1184,3.3,70,Documentary
+"Empathy, Inc.",2018,885,3.3,97,"Drama, Science Fiction, Intense Violence And Sexual Transgression"
+Secret Santa,2018,888,2.8,89,"Thriller, Mystery, Horror"
+O Banquete,2018,1226,3.1,104,"Thriller, Drama"
+The Waldheim Waltz,2018,855,3.7,93,Documentary
+Milford Graves Full Mantis,2018,756,3.8,92,"Music, Documentary"
+Isabelle,2018,1443,1.8,80,Horror
+The Toybox,2018,1392,1.9,81,"Thriller, Horror, The Undead And Monster Classics"
+Fishbowl,2018,540,3.1,88,"Drama, Thriller"
+Laplace’s Witch,2018,804,2.8,115,"Crime, Mystery, Science Fiction"
+Sofia,2018,1091,3.2,80,Drama
+The Basement,2018,1459,2.0,90,"Horror, The Undead And Monster Classics, Twisted Dark Psychological Thriller"
+Unbroken: Path to Redemption,2018,1333,2.7,98,"Drama, Faith And Religion, Religious Faith"
+Ride,2018,1381,2.3,79,"Thriller, Crime"
+The Man Who Surprised Everyone,2018,987,3.4,105,Drama
+Most Likely to Murder,2018,1374,2.7,99,Comedy
+Natsume’s Book of Friends: Ephemeral Bond,2018,1047,3.7,104,"Fantasy, Animation, Drama"
+Crime + Punishment,2018,922,3.6,111,Documentary
+#Female Pleasure,2018,856,3.7,97,Documentary
+Bomb: A Love Story,2018,2266,2.8,120,"War, Drama"
+A.I. Rising,2018,1169,2.5,85,"Drama, Romance, Science Fiction"
+Haunting on Fraternity Row,2018,1300,2.0,93,"Mystery, Thriller, Horror"
+Aurora,2018,1405,2.7,110,"Thriller, Horror"
+Wach,2018,1175,3.4,75,Drama
+A Shoe Addict’s Christmas,2018,1239,2.6,90,"Drama, Fantasy, Romance"
+Frenzy,2018,1245,1.8,85,"TV Movie, Horror, Thriller"
+SSSS.GRIDMAN,2018,1231,3.7,288,Animation
+Mingle All the Way,2018,1290,2.7,90,"Romance, Comedy, TV Movie"
+102 Not Out,2018,1842,3.2,107,"Comedy, Family, Drama"
+Melancholic,2018,728,3.4,114,"Crime, Drama, Comedy"
+Hidden Man,2018,1331,3.1,137,"Action, Drama, Crime"
+The Prayer,2018,1219,3.3,107,Drama
+"Pride, Prejudice and Mistletoe",2018,1077,2.5,83,"TV Movie, Romance"
+21st Century Girl,2018,205,3.4,117,"Drama, Romance"
+Zoo,2018,1199,2.8,95,"Comedy, Horror, Romance"
+Photo de famille,2018,1758,3.1,98,"Comedy, Drama"
+Ryuichi Sakamoto: async at the Park Avenue Armory,2018,694,3.7,65,"Documentary, Music"
+Ice,2018,1805,3.1,118,"Comedy, Romance, Drama"
+Terror Nullius,2018,638,3.7,55,"Adventure, Fantasy, Comedy"
+Kafir: Bersekutu dengan Setan,2018,1632,3.2,97,"Mystery, Drama, Horror"
+People’s Republic of Desire,2018,779,3.4,95,Documentary
+Jonestown: Terror in the Jungle,2018,1009,3.7,168,"Documentary, Crime"
+The Factory,2018,1545,3.3,109,"Thriller, Crime, Drama"
+Blurt!,2018,1775,2.2,46,"Comedy, TV Movie, Family"
+Fireflies,2018,928,3.3,88,Drama
+Kiss that Kills,2018,876,3.6,500,"Drama, Mystery"
+The Christmas Contract,2018,1070,2.9,88,"Romance, TV Movie, Drama"
+My Travel Buddy 2,2018,2138,2.8,116,"Comedy, Family"
+Mutant Blast,2018,751,3.3,84,"Action, Comedy, Science Fiction"
+Exes Baggage,2018,1482,3.1,104,"Drama, Romance"
+Place publique,2018,1447,3.1,98,"Drama, Comedy"
+Homestay,2018,1516,3.3,136,"Thriller, Drama, Fantasy"
+The Chaperone,2018,926,3.1,103,Drama
+Derren Brown: Sacrifice,2018,1597,3.4,49,"Mystery, Documentary"
+Blue Note Records: Beyond the Notes,2018,645,3.6,85,"Documentary, Music"
+Rend Your Heart,2018,1042,3.5,115,Drama
+Through Night and Day,2018,1602,3.0,100,"Drama, Romance"
+Deep Murder,2018,1030,2.8,95,"Comedy, Horror"
+"Remi, Nobody’s Boy",2018,1543,3.3,109,"Family, Adventure, Drama"
+Big Legend,2018,1227,2.5,89,"Horror, Action, Thriller"
+On Her Shoulders,2018,544,3.6,95,Documentary
+A New Girl in Paris!,2018,2097,2.7,102,Comedy
+Las Vegas,2018,1238,3.2,75,"Romance, Comedy"
+The Travelling Cat Chronicles,2018,737,3.5,118,Drama
+Folklore: A Mother’s Love,2018,1280,3.3,48,"Horror, Drama, TV Movie"
+Crisis Jung,2018,514,3.6,70,Animation
+Uno di famiglia,2018,1952,3.5,97,Comedy
+Beast of Burden,2018,1034,2.3,90,"Crime, Thriller, Drama"
+If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,2018,1355,3.6,94,"Documentary, Music"
+The Harvesters,2018,721,3.3,107,Drama
+The Blue Flower of Novalis,2018,1119,3.0,70,"Documentary, Fantasy"
+The Most Assassinated Woman in the World,2018,1157,2.9,102,"Thriller, Mystery"
+Empowered,2018,1788,2.8,87,Comedy
+The Queen of Fear,2018,911,3.4,107,Drama
+Killer Under The Bed,2018,1348,2.1,90,"Horror, Thriller"
+My Perfect Romance,2018,1521,1.8,91,"TV Movie, Romance"
+7 Guardians of the Tomb,2018,1247,2.0,90,"Adventure, Action, Horror"
+Sunset in My Hometown,2018,1023,3.2,123,"Music, Drama"
+The Row,2018,1127,1.8,85,"Thriller, Horror"
+Ciro and Me,2018,977,3.8,107,Documentary
+Brothers’ Nest,2018,884,3.5,98,"Crime, Comedy"
+A Dangerous Son,2018,1194,3.2,90,Documentary
+Buffalo Boys,2018,1114,3.0,103,"Action, Drama"
+General Magic,2018,996,3.5,92,"Documentary, Humanity And The World Around Us, Fascinating"
+Sugar Baby,2018,1430,2.3,94,Drama
+A Translator,2018,1024,3.4,107,Drama
+Mobile Suit Gundam: The Origin VI – Rise of the Red Comet,2018,1357,3.9,84,"Animation, Action, Science Fiction"
+My Christmas Inn,2018,1353,2.4,88,"Romance, TV Movie"
+Slay Belles,2018,984,2.5,77,"Horror, Adventure"
+Yucatán,2018,1626,2.9,129,Comedy
+Monument,2018,1017,3.3,108,"Drama, Mystery"
+Around the World When You Were My Age,2018,830,3.6,110,Documentary
+Norm of the North: Keys to the Kingdom,2018,1281,1.8,91,"Family, Comedy, Animation"
+Omertà,2018,1268,3.3,96,"Action, Drama"
+Pond Life,2018,530,3.4,100,Drama
+Hanalei Bay,2018,650,3.3,97,Drama
+Bruce Lee and the Outlaw,2018,1057,3.8,82,Documentary
+Snake Outta Compton,2018,797,2.5,89,"Horror, Comedy, Science Fiction"
+Ghost Squad,2018,430,3.0,106,"Horror, Fantasy, Action"
+Between Two Waters,2018,818,3.6,135,Drama
+Bent,2018,1266,2.4,96,"Crime, Thriller, Thrillers And Murder Mysteries"
+Who’s Watching Oliver,2018,845,2.8,87,"Horror, TV Movie"
+Goblin Slayer,2018,1683,3.3,288,"Animation, Epic Heroes, Graphic Violence And Brutal Revenge"
+In Her Hands,2018,1544,3.0,105,Comedy
+Half Magic,2018,798,2.8,94,"Comedy, Romance"
+Videoman,2018,1057,3.2,93,"Drama, Thriller, Comedy"
+Samson,2018,1223,2.2,110,"Adventure, Drama, Action"
+Our Struggles,2018,1227,3.4,98,Drama
+Untogether,2018,770,2.8,98,"Drama, Comedy"
+Animas,2018,1244,2.7,88,"Thriller, Horror, Drama"
+State Like Sleep,2018,666,2.8,105,Drama
+Memento Stella,2018,265,3.7,60,No genres available
+Heart of Batman,2018,877,3.7,98,Documentary
+All Love Songs,2018,1100,3.4,92,Romance
+Bobby Robson: More Than a Manager,2018,1532,3.9,104,Documentary
+Furlough,2018,835,2.9,84,Comedy
+Jim Gaffigan: Noble Ape,2018,1406,3.6,67,Comedy
+Air Strike,2018,1012,2.0,97,"War, Drama, Adventure"
+Stupid Young Heart,2018,1134,3.3,102,Drama
+Madeline & Cooper,2018,327,3.3,56,Drama
+Tamizh Padam 2,2018,1822,3.2,145,Comedy
+Merku Thodarchi Malai,2018,973,3.7,122,Drama
+Kaamyaab,2018,1249,3.5,109,"Drama, Comedy, Moving Relationship Stories"
+Chris the Swiss,2018,753,3.4,90,"Animation, Documentary"
+Inland Sea,2018,619,3.7,122,Documentary
+Death of a Nation,2018,1027,2.0,108,"Documentary, History"
+Kaalakaandi,2018,1262,3.2,112,"Drama, Comedy, Thriller"
+Class Reunion 1.0,2018,1784,2.3,127,Comedy
+The Russian Five,2018,1126,3.9,109,Documentary
+Mobile Suit Gundam Narrative,2018,1393,2.9,90,"Science Fiction, Action, Animation"
+The Sonata,2018,984,2.8,88,"Mystery, Thriller, Horror"
+The Trump Prophecy,2018,839,1.9,120,Drama
+Yao,2018,1429,3.2,103,"Comedy, Drama"
+Eva,2018,1118,2.5,102,"Romance, Drama"
+Ariana Grande at the BBC,2018,1458,4.3,59,"Music, TV Movie, Documentary"
+Reason,2018,427,3.8,218,Documentary
+Active Measures,2018,966,3.6,112,"Documentary, Politics And Human Rights, Politics"
+Recovery Boys,2018,964,3.5,90,Documentary
+Sijjin 5,2018,1400,2.5,92,Horror
+Target,2018,1514,2.3,93,"Action, Horror, Comedy"
+Locked on You,2018,1845,2.9,105,Comedy
+Ryan Gosling: Hollywood’s Demigod,2018,709,3.5,52,"TV Movie, Documentary"
+Dark Money,2018,750,3.4,98,Documentary
+Vishwaroopam II,2018,1793,2.8,141,"Thriller, Action"
+Portraits of Andrea Palmer,2018,566,3.0,74,No genres available
+Code Geass: Lelouch of the Rebellion – Glorification,2018,1361,3.7,140,"Science Fiction, Animation, Drama"
+Yarichin Bitch Club,2018,1388,2.4,50,"Animation, Comedy"
+Once Again,2018,894,3.4,101,"Romance, Drama"
+Ex-Shaman,2018,989,3.5,81,Documentary
+Draug,2018,527,3.0,87,"Horror, Fantasy, History"
+Tucked,2018,809,3.4,80,"Comedy, Drama"
+Hillbilly,2018,968,3.4,87,Documentary
+Rudeboy: The Story of Trojan Records,2018,917,3.5,85,"Music, Documentary"
+Harry & Meghan: A Royal Romance,2018,1076,2.5,120,Romance
+LEGO Marvel Super Heroes - Black Panther: Trouble in Wakanda,2018,1232,2.7,0,"Animation, Family"
+Night Shot,2018,769,2.9,92,"Horror, Drama"
+Why Hide?,2018,952,2.3,85,"Comedy, Horror"
+At First Light,2018,1091,2.8,91,"Thriller, Science Fiction, Monsters"
+Seder-Masochism,2018,617,3.5,78,"Music, Animation, Fantasy"
+"Where Are You, João Gilberto?",2018,956,3.2,107,"Music, Documentary"
+Naa Peru Surya - Naa Illu India,2018,1968,2.8,168,Action
+4/20 Massacre,2018,830,2.6,85,"Horror, Action"
+Luciferina,2018,921,2.6,115,"Drama, Horror"
+When Jeff Tried to Save the World,2018,933,3.1,93,"Drama, Comedy"
+The Red Phallus,2018,802,3.3,85,Drama
+Making-of: Babylon Berlin,2018,867,4.0,44,Documentary
+Lake Alice,2018,949,2.1,80,"Horror, The Undead And Monster Classics, Gory"
+My Big Gay Italian Wedding,2018,1079,2.9,90,Comedy
+Mother,2018,724,3.8,992,Drama
+Fausto,2018,585,3.3,70,"Horror, Fantasy"
+Sword Art Online Alternative: Gun Gale Online,2018,1668,3.1,288,Animation
+Maybe a Love Story,2018,1175,3.2,105,"Comedy, Romance"
+Claire Darling,2018,1055,3.0,94,Drama
+Hari Kondabolu: Warn Your Relatives,2018,1172,3.6,67,Comedy
+Kevin Smith: Silent but Deadly,2018,1175,3.5,85,"Comedy, Documentary"
+Between the Seasons,2018,375,3.3,98,"Romance, Drama"
+One Day,2018,846,3.6,99,Drama
+Gintama 2: Rules are Made to Be Broken,2018,1223,3.4,134,"Fantasy, Science Fiction, Comedy"
+Until Rainbow Dawn,2018,253,3.4,63,Romance
+Pimp,2018,702,2.8,86,Drama
+The Cake General,2018,1593,3.4,101,"Comedy, Drama"
+Life on Mars,2018,783,3.8,960,"Comedy, Drama, Crime"
+D-Railed,2018,1066,2.2,80,"Horror, The Undead And Monster Classics, Sci-Fi Horror"
+The Gun,2018,791,3.1,98,Drama
+His Lost Name,2018,298,3.3,113,"Mystery, Drama"
+Pataakha,2018,1134,3.4,134,"Comedy, Drama, Action"
+Call Her Ganda,2018,485,3.6,93,"Documentary, Crime"
+Bartu Ben,2018,1612,3.5,450,Comedy
+I’m Losing It,2018,1610,2.9,102,Comedy
+The Black String,2018,1047,2.9,90,"Mystery, Horror, Thriller"
+Chinese Portrait,2018,363,3.5,79,Documentary
+Kanarie,2018,656,3.7,123,"Music, Drama"
+The Great Pretender,2018,586,3.3,71,"Romance, Drama, Comedy"
+Centipede,2018,2071,2.1,122,Comedy
+Don’t Shoot,2018,1288,3.4,139,"Drama, History"
+Revue Starlight,2018,798,3.8,288,"Drama, Animation"
+Distant Sky,2018,828,4.0,135,"Documentary, Music"
+The Revenge of Robert,2018,1012,2.0,80,"Horror, The Undead And Monster Classics, Terrifying"
+The Suit,2018,1732,2.5,96,"Drama, Comedy, Action"
+The 5th Annual Live ‘On Cinema’ Oscar Special,2018,833,4.0,143,Comedy
+Say Her Name: The Life and Death of Sandra Bland,2018,577,3.6,105,"Documentary, TV Movie"
+X&Y,2018,901,3.3,112,Drama
+White Rabbit,2018,748,3.2,71,"Drama, Comedy"
+The World Before Your Feet,2018,717,3.6,95,Documentary
+Yowis Ben,2018,1730,3.2,99,"Romance, Comedy, Drama"
+"When I Get Home, My Wife Always Pretends to be Dead",2018,880,3.2,115,Comedy
+The Accidental Detective 2: In Action,2018,1306,3.2,116,"Crime, Comedy"
+The Wrath,2018,785,2.9,94,"Mystery, History, Horror"
+Megalobox,2018,1117,3.9,325,"Animation, Action, Drama"
+Ranam,2018,1251,3.2,142,Action
+Code Geass: Lelouch of the Rebellion – Transgression,2018,1276,3.5,132,"Drama, Action, Science Fiction"
+Kevin James: Never Don’t Give Up,2018,1320,3.0,62,"TV Movie, Documentary, Comedy"
+The Invisible Witness,2018,1337,3.3,103,"Thriller, Mystery"
+Bocadillo,2018,1564,1.9,75,Comedy
+The Summer House,2018,913,2.9,123,"Comedy, Drama"
+Remember us,2018,1481,3.3,116,Drama
+Lemonade,2018,824,3.4,85,Drama
+Requiem,2018,796,3.3,360,"Drama, Mystery, Thrillers And Murder Mysteries"
+Let Me Fall,2018,642,3.7,138,Drama
+Corazón,2018,379,3.5,49,Drama
+Everybody in the Place: An Incomplete History of Britain 1984-1992,2018,573,3.7,61,Documentary
+Lottery,2018,1990,1.9,114,"Drama, Thriller, Romance"
+The Legend of the Christmas Witch,2018,1228,2.7,98,"Comedy, Fantasy, Family"
+Call Boy,2018,929,2.9,119,Drama
+Sword of God,2018,621,3.3,104,"History, Horror, Mystery"
+Beyond The Mountain,2018,882,3.3,94,"Drama, Thriller"
+Hot Dog,2018,1508,2.3,100,"Action, Comedy"
+Accidentally In Love,2018,1394,3.3,720,"Drama, Comedy, Family"
+Cruise,2018,860,2.8,90,Romance
+Volcano,2018,809,3.5,104,"Drama, Comedy"
+Open Seas,2018,1064,3.4,102,Drama
+Slave to the Grind,2018,939,3.4,100,"Documentary, Music"
+Black Circle,2018,439,3.1,90,"Mystery, Horror"
+Eaten by Lions,2018,1213,3.1,94,"Comedy, Drama"
+Express Kidnapping,2018,1307,2.6,85,"Crime, Thriller, Drama"
+Take Point,2018,1151,2.8,124,"Action, Thriller"
+Age of Summer,2018,627,3.0,89,"Drama, Comedy, Romance"
+Chi La Sow,2018,1205,3.5,135,"Romance, Comedy"
+Murder Mountain,2018,1030,3.4,300,"Crime, Documentary, Drugs And Gangsters"
+Monster Hunt 2,2018,1097,2.8,110,"Adventure, Fantasy, Comedy"
+Road to Christmas,2018,881,2.9,84,"Romance, Family, TV Movie"
+Riot,2018,517,3.5,105,"TV Movie, Drama"
+Christmas at the Palace,2018,1007,2.6,90,"Romance, TV Movie"
+After Porn Ends 3,2018,1034,2.9,86,Documentary
+Sammohanam,2018,1208,3.5,137,"Romance, Drama"
+The Woman in White,2018,518,3.4,300,"Mystery, Drama"
+Notes for a Heist Film,2018,896,3.4,90,Documentary
+The Marine 6: Close Quarters,2018,937,2.7,85,Action
+The Image You Missed,2018,650,3.5,73,"Documentary, History"
+Desolation Center,2018,677,3.6,93,"Documentary, Music"
+Awaken,2018,482,3.2,74,"Documentary, Music"
+Breaking & Exiting,2018,957,2.6,78,"Comedy, Drama, Romance"
+The Long Song,2018,452,3.6,180,Drama
+Seduction of the Flesh,2018,631,3.3,67,"Drama, Horror"
+A Man in a Hurry,2018,1404,3.1,100,"Drama, Comedy"
+Mamu (and a Mother Too),2018,941,3.5,122,Comedy
+The Snatch Thief,2018,913,3.4,94,Drama
+Gaston Lagaffe,2018,1704,2.6,82,Comedy
+National Theatre Live: King Lear,2018,563,3.8,227,Drama
+Black Hollywood: ‘They’ve Gotta Have Us’,2018,402,3.7,180,Documentary
+M. C. Escher: Journey to Infinity,2018,665,3.4,81,"Documentary, History"
+Wiro Sableng: 212 Warrior,2018,1358,3.1,123,"Action, Adventure, Comedy"
+Angelo,2018,593,3.2,111,"Drama, History"
+Luis and the Aliens,2018,1111,2.6,86,"Family, Animation"
+The Honor List,2018,656,3.0,103,Drama
+The Gospel of Eureka,2018,578,3.4,75,Documentary
+Hinamatsuri,2018,1094,3.8,288,"Animation, Comedy"
+Being Natural,2018,535,3.4,96,"Comedy, Drama"
+The Day After Valentine’s,2018,1201,3.0,115,Romance
+Extracurricular,2018,951,2.7,91,"Thriller, Horror"
+M,2018,639,3.6,105,Documentary
+Grandmother’s Gold,2018,742,3.5,81,"Science Fiction, Comedy"
+Here Come the Teachers,2018,1756,2.6,97,Comedy
+The City of Pirates,2018,550,3.6,80,"Animation, Documentary"
+Commando Ninja,2018,849,3.3,68,"Action, Comedy"
+Agnyaathavaasi,2018,1575,2.5,158,"Drama, Action"
+Whatever Happened to My Revolution,2018,915,3.3,88,"Drama, Comedy"
+Olimpia,2018,683,3.5,75,"Animation, Thriller, Drama"
+The Distances,2018,915,3.4,100,Drama
+Andy Irons: Kissed by God,2018,956,3.8,100,Documentary
+Kadaikutty Singam,2018,1732,3.0,148,"Family, Comedy, Romance"
+Lazarus,2018,382,3.6,110,"Science Fiction, Music"
+Salt Fat Acid Heat,2018,952,3.9,160,Documentary
+Behind the Fallout: The Making of ‘M:I-6’,2018,901,3.6,54,Documentary
+Flight 666,2018,1033,2.3,89,"Science Fiction, Horror, The Undead And Monster Classics"
+Westworld: The Story So Far,2018,924,3.9,60,"Documentary, TV Movie"
+I Am Paul Walker,2018,800,3.5,90,Documentary
+Nae Pasaran,2018,586,3.8,94,Documentary
+The Reports on Sarah and Saleem,2018,699,3.5,127,Drama
+Auto de Resistência,2018,586,3.9,104,Documentary
+National Theatre Live: Antony & Cleopatra,2018,628,3.5,188,Drama
+Return to Christmas Creek,2018,1050,2.4,90,"Romance, Family, TV Movie"
+Dry Martina,2018,963,3.1,95,"Comedy, Drama"
+Unsolved: The Murders of Tupac and The Notorious B.I.G.,2018,1122,3.6,420,"Drama, Crime, Thrillers And Murder Mysteries"
+Little Bitches,2018,591,2.7,95,"Romance, Comedy, Drama"
+Industrial Accident: The Story of Wax Trax! Records,2018,615,3.6,95,"Music, History, Documentary"
+How Long Will I Love U,2018,850,3.2,101,"Comedy, Fantasy, Romance"
+Ghostbox Cowboy,2018,482,3.6,112,Comedy
+Hey Jude,2018,1328,3.2,146,"Romance, Drama"
+Black Pond,2018,455,3.5,43,Documentary
+The Little Witch,2018,1074,3.0,105,"Comedy, Family, Drama"
+Yung,2018,953,2.9,95,Drama
+Mama’s Boy,2018,1488,3.0,104,Comedy
+Measure of a Man,2018,678,3.2,100,"Comedy, Drama"
+Kuntilanak,2018,1053,2.6,105,"Horror, Comedy"
+Girl in the Bunker,2018,1012,2.7,88,"TV Movie, Drama"
+Why Are We Creative?: The Centipede’s Dilemma,2018,845,3.3,84,Documentary
+Wolf,2018,1466,3.1,126,"Drama, Action, History"
+Happy Sugar Life,2018,996,3.1,288,"Crime, Mystery, Drama"
+Cats,2018,951,2.6,105,"Family, Animation, Adventure"
+Achoura,2018,644,2.9,90,"Fantasy, Horror, Thriller"
+Good Girls Get High,2018,575,3.0,80,Comedy
+Signal Rock,2018,691,3.5,130,Drama
+The River,2018,734,3.4,108,Drama
+KASANE –Beauty and Fate–,2018,532,3.3,112,"Fantasy, Mystery"
+Thy Kingdom Come,2018,201,3.4,42,Drama
+Freedom Fields,2018,414,3.5,97,Documentary
+Hot Air,2018,865,2.7,99,Drama
+Taxiwala,2018,1639,3.1,150,"Horror, Comedy, Thriller"
+Spell,2018,747,3.3,87,"Comedy, Thriller, Drama"
+Come and Hug Me,2018,937,3.5,1120,"Mystery, Drama"
+Two for Joy,2018,457,3.4,86,Drama
+Three Husbands,2018,733,3.1,101,Drama
+The Island,2018,880,3.1,134,"Mystery, Comedy, Drama"
+BIOS: Gustavo Cerati,2018,906,3.8,0,Documentary
+Swathanthryam Ardharathriyil,2018,1247,3.4,138,"Action, Thriller"
+Above Majestic,2018,532,2.8,133,Documentary
+Cracked Up,2018,956,3.5,95,Documentary
+Paradox,2018,607,2.6,73,"Western, Music"
+Looking for Teddy,2018,1689,2.8,82,Comedy
+Paul Sanchez Is Back!,2018,758,3.4,110,Thriller
+My Brother’s Name Is Robert and He Is an Idiot,2018,630,3.1,174,Drama
+Her Job,2018,904,3.4,89,Drama
+My Little Pony: Best Gift Ever,2018,954,3.5,44,"Fantasy, Animation, Music"
+Astral,2018,886,2.4,83,"Horror, Drama, Science Fiction"
+Garry Winogrand: All Things Are Photographable,2018,534,3.5,91,Documentary
+Todo el año es Navidad,2018,687,3.6,77,Documentary
+The Waiter,2018,926,3.2,97,Mystery
+The Last Man,2018,652,2.6,101,"Drama, Action, Thriller"
+Sadie,2018,397,3.4,97,Drama
+BLACKPINK HOUSE,2018,1244,4.0,720,Documentary
+Asih,2018,1362,2.9,76,"Horror, Drama"
+Mercury,2018,1116,3.1,109,"Horror, Thriller"
+The Romanoffs,2018,763,3.4,0,"Drama, Politics And Human Rights, Dreamlike"
+42 to 1,2018,1060,3.4,51,Documentary
+Pete Holmes: Dirty Clean,2018,959,3.6,57,Comedy
+Carbon,2018,1179,3.3,146,"Fantasy, Adventure"
+BNK48: Girls Don’t Cry,2018,743,3.4,107,Documentary
+Asher,2018,858,2.9,117,"Drama, Action, Thriller"
+Soorma,2018,1117,3.3,131,Drama
+Killer High,2018,548,2.9,87,"Comedy, Horror, TV Movie"
+Golden Slumber,2018,1021,3.0,108,"Thriller, Action"
+America to Me,2018,315,3.9,550,Documentary
+W. Kamau Bell: Private School Negro,2018,974,3.5,65,Comedy
+The Barge People,2018,738,2.7,78,Horror
+The Soul-Mate,2018,1027,3.0,97,"Drama, Crime, Comedy"
+Unnatural,2018,897,4.0,450,"Drama, Mystery, Crime"
+Distance,2018,574,3.5,100,Drama
+Eva + Candela,2018,433,3.2,89,Drama
+Anthem of a Teenage Prophet,2018,603,2.9,102,Drama
+Beautiful Vampire,2018,639,3.0,72,"Romance, Drama, Fantasy"
+Occult Bolshevism,2018,268,3.3,72,Horror
+Attrition,2018,792,2.5,85,"Action, Epic Heroes, Intense Combat And Martial Arts"
+Samouni Road,2018,345,3.5,129,"Documentary, Animation"
+Black Is Beltza,2018,712,3.2,88,"Thriller, Drama, Animation"
+Karmouz War,2018,1252,2.6,115,"Drama, Action, War"
+Bhonsle,2018,674,3.5,128,Drama
+Chris Fleming: Showpig,2018,630,3.8,65,Comedy
+Russell Brand: Re:Birth,2018,1110,3.2,63,Comedy
+Ya Veremos,2018,1330,2.7,85,"Comedy, Drama"
+Bigger,2018,835,3.0,107,Drama
+Inside the Manson Cult: The Lost Tapes,2018,917,3.2,85,"TV Movie, Documentary"
+Here and Now,2018,659,2.8,90,"Drama, Romance"
+Walking on Water,2018,730,3.4,105,Documentary
+How She Left Me,2018,978,3.4,106,"Drama, Romance"
+Octavio Is Dead!,2018,278,3.2,90,Drama
+Crime Wave,2018,1166,2.8,98,"Crime, Comedy"
+Marlon Wayans: Woke-ish,2018,1122,3.1,68,Comedy
+Sunny: Our Hearts Beat Together,2018,768,3.4,118,"Drama, Comedy"
+The Ringmaster,2018,825,2.7,100,"Mystery, Horror"
+Belmonte,2018,753,3.3,75,Drama
+Live,2018,769,3.8,1314,"Crime, Comedy, Drama"
+Feral,2018,531,3.2,97,"Horror, Documentary"
+All These Small Moments,2018,547,3.1,100,Drama
+Jesus,2018,654,3.4,78,Drama
+Mel Brooks: Unwrapped,2018,810,3.4,69,"Comedy, Documentary"
+The Troubleshooter,2018,1395,3.2,84,"Comedy, Drama"
+Hunt for the Skinwalker,2018,887,2.5,127,Documentary
+Bandstand,2018,584,3.9,140,Music
+Chihayafuru: Part III,2018,739,3.6,127,"Romance, Comedy, Drama"
+Winter’s Night,2018,612,3.3,98,Drama
+Elliot: The Littlest Reindeer,2018,802,2.6,89,"Family, Adventure, Animation"
+Katt Williams: Great America,2018,1042,3.2,60,"Comedy, Documentary, TV Movie"
+Herstory,2018,502,3.6,121,Drama
+Redcon-1,2018,880,2.2,117,"Action, Horror, Science Fiction"
+The Ideal Palace,2018,1026,3.5,105,"Drama, History"
+Edge of Fear,2018,1189,2.4,91,"Thriller, Action, Epic Heroes"
+Lord of the Toys,2018,774,3.5,95,"Documentary, Drama"
+Louis Theroux: Altered States,2018,858,3.7,180,Documentary
+The Convent,2018,830,2.4,86,"Horror, History"
+Malevolence 3: Killer,2018,667,2.7,89,Horror
+The Bra,2018,763,3.3,90,"Drama, Comedy, TV Movie"
+Tholi Prema,2018,1317,3.2,146,"Comedy, Romance"
+Avengers of Justice: Farce Wars,2018,637,2.2,88,"Action, Fantasy, Comedy"
+Devils’ Line,2018,888,3.2,288,"Animation, Crime, Mystery"
+DAKAICHI -I’m being harassed by the sexiest man of the year-,2018,1031,3.1,312,"Drama, Comedy, Animation"
+The Monkey King 3,2018,730,2.9,114,"Fantasy, Action, Family"
+An American in Paris: The Musical,2018,640,3.7,155,"Romance, Music"
+Paranormal Investigation,2018,992,2.3,92,"Horror, Thriller, The Undead And Monster Classics"
+Angel,2018,429,3.3,105,"Drama, Romance"
+Amateurs,2018,773,3.4,102,Comedy
+Obscuro Barroco,2018,443,3.6,60,Documentary
+The Dark Red,2018,728,2.9,101,"Mystery, Horror"
+Kinshasa Makambo,2018,338,3.5,75,Documentary
+Hometown Holiday,2018,807,2.2,84,"TV Movie, Romance"
+Lo más sencillo es complicarlo todo,2018,1066,2.2,93,Comedy
+The Bromley Boys,2018,1053,3.0,97,Comedy
+The Witch Files,2018,735,2.5,87,"Horror, Thriller"
+Air,2018,386,3.1,92,"Drama, Romance"
+ML,2018,846,3.0,90,Thriller
+Doraemon: Nobita’s Treasure Island,2018,1046,3.3,108,"Animation, Family, Comedy"
+5B,2018,408,3.7,93,Documentary
+Tungstênio,2018,667,3.4,79,"Crime, Drama"
+Yara,2018,560,3.4,101,Drama
+Bethany Hamilton: Unstoppable,2018,940,3.4,99,Documentary
+Danur 2: Maddah,2018,1307,2.9,89,Horror
+Nota,2018,1537,2.8,146,Drama
+The Most Beautiful Couple,2018,730,3.5,97,"Drama, TV Movie"
+Stewart Lee: Content Provider,2018,864,4.0,119,Comedy
+Sharkwater Extinction,2018,741,3.6,90,Documentary
+Head Full of Honey,2018,801,2.8,127,"Drama, Moving Relationship Stories, Touching And Sentimental Family Stories"
+This Country - The Aftermath,2018,681,4.0,47,No genres available
+Run to the Beach,2018,1049,3.4,112,"Drama, Family, Adventure"
+The Legend of Halloween Jack,2018,753,2.1,84,Horror
+Ouija House,2018,849,2.1,95,Horror
+Christmas Joy,2018,618,2.9,84,"Family, Romance, TV Movie"
+Kanaa,2018,1414,3.3,145,"Family, Drama"
+I Used to Be Normal: A Boyband Fangirl Story,2018,431,3.6,92,"Music, Documentary"
+Unlovable,2018,453,3.4,80,"Music, Drama, Comedy"
+Moschettieri del Re - La penultima missione,2018,1270,3.0,109,"Comedy, Adventure"
+Back Street Girls -GOKUDOLS-,2018,952,3.5,240,"Animation, Comedy"
+Mob Psycho 100,2018,885,3.6,288,"Mystery, Comedy"
+Surfer: Teen Confronts Fear,2018,338,3.0,98,Drama
+Morning Show Mysteries: Murder on the Menu,2018,1023,3.6,84,"TV Movie, Mystery"
+Divide and Conquer: The Story of Roger Ailes,2018,675,3.4,107,Documentary
+That Time of Year,2018,980,3.3,101,"Comedy, Drama"
+Sara’s Notebook,2018,986,3.0,115,Thriller
+Hope You Die Next Time :-),2018,896,3.3,96,Drama
+White Chamber,2018,820,2.6,89,Science Fiction
+The Invisible Boy: Second Generation,2018,1239,2.8,90,Fantasy
+I Remember the Crows,2018,596,3.4,84,Documentary
+Category III: The Untold Story of Hong Kong Exploitation Cinema,2018,610,3.3,84,Documentary
+The Rest I Make Up,2018,331,3.8,79,Documentary
+Hope Frozen: A Quest To Live Twice,2018,866,3.3,79,Documentary
+Baazaar,2018,1157,3.0,140,"Thriller, Crime, Drama"
+Munafik 2,2018,971,2.8,104,"Mystery, Horror, Thriller"
+Tehran: City of Love,2018,663,3.4,102,Romance
+Tik Tik Tik,2018,1481,2.8,130,"Adventure, Science Fiction, Thriller"
+Arde Madrid,2018,777,3.7,240,"Drama, Comedy"
+Non Non Biyori: Vacation,2018,878,3.8,71,"Comedy, Adventure, Drama"
+Second Life,2018,377,3.4,70,Drama
+Djon Africa,2018,467,3.4,98,"Crime, Drama"
+Fright Fest,2018,827,2.3,90,Horror
+The Stolen Princess,2018,803,2.8,85,"Family, Comedy, Adventure"
+Spy Cat,2018,731,2.6,84,"Family, Animation, Comedy"
+Once Upon a Christmas Miracle,2018,699,2.9,90,"Comedy, TV Movie, Drama"
+James Cameron’s Story of Science Fiction,2018,576,3.7,258,Documentary
+Fuck You All: The Uwe Boll Story,2018,337,3.4,97,Documentary
+The Etruscan Smile,2018,720,3.3,103,Drama
+Marfa Girl 2,2018,467,2.9,75,Drama
+Taking the Horse to Eat Jalebis,2018,415,3.5,122,Drama
+Azougue Nazareth,2018,662,3.5,80,Drama
+Still,2018,743,2.8,88,"Drama, Mystery, Fantasy"
+Perfume,2018,570,3.5,330,"Crime, Intense Violence And Sexual Transgression, Thrillers And Murder Mysteries"
+Gad Elmaleh: American Dream,2018,999,3.4,57,Comedy
+Interactive Introverts,2018,693,3.8,158,"Comedy, Documentary"
+Bios: Charly Garcia,2018,764,3.7,88,"Documentary, Music"
+Bhaagamathie,2018,1256,3.1,142,"Thriller, Horror, Crime"
+ReMastered: Who Killed Jam Master Jay?,2018,889,3.2,58,"Documentary, Music"
+Cheese in the Trap,2018,932,2.7,113,"Romance, Drama"
+My Strange Hero,2018,905,3.2,1120,"Comedy, Mystery, Drama"
+Survival of the Film Freaks,2018,666,3.2,86,Documentary
+Black Pumpkin,2018,625,2.7,91,Horror
+Curtiz,2018,809,3.0,99,"Drama, History"
+Dear Son,2018,609,3.3,100,Drama
+El Chicano,2018,706,2.8,148,Drama
+#Roxy,2018,701,2.2,100,"Romance, Comedy"
+Beyond the Edge,2018,885,2.5,101,"Action, Fantasy, Adventure"
+Tourism,2018,255,3.4,77,Drama
+Anna’s War,2018,567,3.4,75,"War, Drama"
+Mrs. Claus,2018,532,2.5,86,Horror
+Happy Face,2018,310,3.3,100,Drama
+Marilyn,2018,560,3.2,80,Drama
+Ten Years Thailand,2018,382,3.4,92,Drama
+Fiona Has Wings,2018,230,3.6,100,Documentary
+Meeting Jim,2018,669,3.7,75,Documentary
+Stand by Me,2018,389,3.4,91,Drama
+Chez Jolie Coiffure,2018,300,3.6,73,Documentary
+The Pain of Others,2018,251,3.3,71,Documentary
+Kayamkulam Kochunni,2018,1298,3.1,122,"Drama, History, Action"
+Corbin Nash,2018,672,2.5,95,"Horror, Action, Thriller"
+About Time,2018,690,3.1,960,Drama
+A Dog’s Courage,2018,541,3.3,102,"Adventure, Drama, Family"
+Christmas in Evergreen: Letters to Santa,2018,665,3.0,90,"Romance, TV Movie, Family"
+Bayonet,2018,825,3.1,101,Drama
+306 Hollywood,2018,473,3.4,94,Documentary
+Hello Mr. Billionaire,2018,1065,2.8,118,Comedy
+Darc,2018,959,2.8,97,"Action, Thriller, High Speed And Special Ops"
+A Brother,2018,667,3.2,82,"Romance, Drama"
+Clara’s Ghost,2018,409,3.1,80,"Drama, Thriller, Comedy"
+Living Among Us,2018,478,3.0,87,"Science Fiction, Horror, Thriller"
+National Theatre Live: Julie,2018,495,3.5,95,Drama
+All Square,2018,397,3.4,99,"Comedy, Drama"
+The Other Woman,2018,989,2.7,84,"Drama, Comedy, Romance"
+Daddy’s Girl,2018,610,2.7,80,"Thriller, Crime, Horror"
+Forgive Us Our Debts,2018,995,3.1,104,Drama
+Ruben Blades Is Not My Name,2018,298,3.4,84,Documentary
+Under the Eiffel Tower,2018,738,2.7,87,"Romance, Comedy"
+Two Plains + A Fancy,2018,310,3.3,89,"Comedy, Western"
+American Gospel: Christ Alone,2018,734,3.8,140,Documentary
+Pretenders,2018,376,3.0,95,Drama
+Cold Sweat,2018,1186,2.6,88,Drama
+The Longest Summer in America,2018,374,3.6,62,"Documentary, Music"
+Ultra Rêve,2018,291,3.5,84,No genres available
+Io sono Tempesta,2018,1113,3.0,97,Comedy
+Martians vs Mexicans,2018,880,2.7,90,"Animation, Comedy"
+Torre das Donzelas,2018,592,3.7,97,Documentary
+Hurt,2018,395,2.7,93,Horror
+Nakorn-Sawan,2018,384,3.4,77,"Drama, Documentary"
+Where Stars Land,2018,793,3.3,960,Drama
+What Is Democracy?,2018,423,3.4,107,Documentary
+Discarnate,2018,565,2.7,84,"Horror, Thriller"
+Piazzolla: The Years of the Shark,2018,636,3.7,90,Documentary
+A Cool Fish,2018,796,3.3,108,"Crime, Comedy, Thriller"
+Killer Mosquitos,2018,880,2.3,85,"Comedy, Horror"
+In a Stranger’s House,2018,693,2.6,71,"Horror, Thriller"
+Yellow Is Forbidden,2018,266,3.4,94,Documentary
+Island Zero,2018,778,2.7,100,"Horror, The Undead And Monster Classics, Sci-Fi Horror"
+"Fortnite: Battle, Build, Survive!",2018,655,3.6,56,Documentary
+The Axiom,2018,771,2.7,98,"Horror, Fantasy, Mystery"
+The Trial,2018,520,3.4,129,Documentary
+The Russian Bride,2018,682,2.9,91,"Horror, Thriller"
+The 2000s,2018,674,3.7,294,Documentary
+A Woman With No Filter,2018,1039,2.7,95,Comedy
+Dany,2018,1177,3.1,89,Comedy
+All the Devil’s Men,2018,864,2.7,99,"Action, High Speed And Special Ops, Explosive And Action-Packed Heroes Vs. Villains"
+Satyameva Jayate,2018,1217,2.8,142,"Thriller, Action, Epic Heroes"
+Headgame,2018,661,2.4,92,Horror
+DC Super Hero Girls: Legends of Atlantis,2018,460,3.0,75,"Family, Animation"
+Girls Always Happy,2018,320,3.4,117,Drama
+The Beach House,2018,621,3.0,90,"Drama, TV Movie, Romance"
+Kayhan: Revenge at the Reunion,2018,1320,2.3,104,Comedy
+"Mori, The Artist’s Habitat",2018,442,3.5,99,"Comedy, Drama"
+Treat Me Like Fire,2018,555,3.1,107,Drama
+EGG,2018,540,3.0,90,"Comedy, Drama"
+Aiyaary,2018,1108,2.7,157,"Action, Thriller, High Speed And Special Ops"
+Minutes to Midnight,2018,635,2.3,91,"Action, Horror"
+His Master’s Voice,2018,472,3.2,108,"Science Fiction, Drama"
+Familiar Wife,2018,740,3.5,960,"Drama, Moving Relationship Stories, Touching And Sentimental Family Stories"
+Bumping Mics with Jeff Ross & Dave Attell,2018,893,3.6,108,"Comedy, TV Movie"
+The Sower,2018,562,3.7,85,Documentary
+Guang,2018,441,3.5,88,"Drama, Family"
+Locating Silver Lake,2018,387,2.9,110,Drama
+Ang Dalawang Mrs. Reyes,2018,828,3.2,104,Comedy
+The Long Road to War,2018,851,3.5,117,"War, History, Documentary"
+Closing Time,2018,298,3.5,116,Documentary
+Killer Unicorn,2018,398,2.8,74,Horror
+Making Montgomery Clift,2018,443,3.4,88,Documentary
+Wrestle,2018,378,3.7,96,Documentary
+Normandy Nude,2018,936,3.0,105,"Comedy, Drama"
+The Last Warrior,2018,694,3.2,105,"Action, History, Fantasy"
+Call for Dreams,2018,451,3.2,83,"Drama, Crime, Mystery"
+In Search of Ozu,2018,375,3.5,46,Documentary
+National Theatre Live: Julius Caesar,2018,497,3.7,138,Drama
+Aravindante Athidhikal,2018,1082,3.3,122,Drama
+Free Rein: The Twelve Neighs of Christmas,2018,824,2.9,58,"Drama, Comedy, Family"
+My Dad Is a Heel Wrestler,2018,472,3.5,110,"Family, Drama"
+One Last Deal,2018,786,3.5,95,Drama
+Valentina’s Wedding,2018,940,2.7,108,Comedy
+The Matchmaker’s Playbook,2018,681,2.6,90,Romance
+Paskal,2018,813,3.2,114,"History, War, Action"
+Jurassic Galaxy,2018,667,2.2,76,"Action, Science Fiction, Adventure"
+Running for Grace,2018,605,3.0,110,"Romance, Family"
+Mack the Knife - Brecht’s Threepenny Film,2018,833,3.3,130,"Comedy, Drama, Fantasy"
+I’m Not Crazy!,2018,1182,2.8,114,"Comedy, Drama"
+Social Animals,2018,764,3.0,87,Documentary
+Gerçek Kesit: Manyak,2018,834,3.0,73,"Thriller, Drama"
+My Perfect You,2018,853,3.1,110,"Romance, Drama"
+Magical Girl Site,2018,788,3.3,276,"Mystery, Animation, Drama"
+Adanga Maru,2018,1307,3.1,146,"Crime, Thriller, Action"
+Origin Story,2018,554,3.5,106,Documentary
+Scarborough,2018,499,3.2,84,"Drama, Romance"
+Curse of the Nun,2018,805,2.2,80,Horror
+Let the Girls Play,2018,850,3.0,90,Comedy
+Padi Padi Leche Manasu,2018,1053,3.1,160,"Drama, Romance"
+Father & Sons,2018,864,3.2,90,"Comedy, Drama"
+Cocaine Coast,2018,910,3.7,700,Drama
+Blight Of Humanity,2018,311,3.0,76,"Horror, Drama"
+Devadas,2018,1226,3.1,124,"Action, Comedy, Drama"
+The Two Bills,2018,847,3.5,78,Documentary
+The More You Ignore Me,2018,493,3.2,90,Comedy
+The Cold Blue,2018,615,3.5,74,"History, TV Movie, Documentary"
+Solis,2018,668,2.8,92,"Adventure, Action, Science Fiction"
+Duran Duran: There’s Something You Should Know,2018,730,3.3,59,"Music, Documentary"
+Jumpman,2018,507,3.2,88,"Drama, Crime"
+Mad Dog Labine,2018,274,3.5,85,Drama
+Odiyan,2018,1206,2.6,167,"Action, Fantasy, Drama"
+Arada,2018,745,2.8,88,"Drama, Music, Romance"
+Christmas in Love,2018,613,2.8,90,"Romance, Comedy, Family"
+The Founder of Diabolism,2018,738,3.9,800,"Animation, Mystery, Action"
+Central Airport THF,2018,579,3.4,100,Documentary
+L’Amour flou,2018,732,3.3,97,Comedy
+Tempting Devils,2018,464,3.3,98,Drama
+"Joe Lycett: I’m About to Lose Control And I Think Joe Lycett, Live",2018,693,3.7,74,Comedy
+Eye of the Beholder: The Art of Dungeons & Dragons,2018,709,3.3,91,Documentary
+Honey: Rise Up and Dance,2018,602,2.8,100,"Drama, Music"
+70 Big Ones,2018,778,3.2,105,"Action, Crime"
+Kammara Sambhavam,2018,915,3.4,182,Thriller
+Carmine Street Guitars,2018,490,3.4,86,Documentary
+Sultry,2018,536,3.3,94,"Drama, Horror"
+Before the Frost,2018,654,3.5,104,Drama
+Hope Springs Eternal,2018,537,2.6,78,"Drama, Comedy"
+Matriarch,2018,709,2.7,91,"Horror, Thriller, The Undead And Monster Classics"
+The Last Race,2018,379,3.4,75,Documentary
+When the Trees Fall,2018,477,3.2,88,"Drama, Crime, Fantasy"
+Never Tear Us Apart,2018,386,3.3,85,Drama
+Cine Holliúdy 2: A Chibata Sideral,2018,812,3.1,101,Comedy
+Tricky Old Dogs,2018,963,3.1,92,Comedy
+Death Kiss,2018,597,2.7,88,"Thriller, Action, Crime"
+Scorched Earth,2018,595,2.7,93,"Action, Science Fiction, Westerns"
+Two Catalonias,2018,776,3.3,116,Documentary
+Guie’dani’s Navel,2018,495,3.4,119,Drama
+Bad Ben: The Mandela Effect,2018,591,3.0,67,"Comedy, Horror"
+The Ride,2018,718,3.1,98,Drama
+Sonja: The White Swan,2018,565,3.2,114,Drama
+American Dreamer,2018,492,3.2,92,"Crime, Thriller"
+The Rake,2018,567,2.5,78,"Horror, Drama, Thriller"
+Black Mexicans,2018,491,3.3,110,Drama
+Chef Flynn,2018,552,3.3,83,Documentary
+Several Conversations About a Very Tall Girl,2018,514,3.3,70,Drama
+Saamy²,2018,1243,2.4,157,"Romance, Thriller, Action"
+Pickpockets,2018,898,2.8,100,"Drama, Thriller, Crime"
+Saint Judy,2018,645,3.2,106,Drama
+Neat: The Story of Bourbon,2018,749,3.4,75,Documentary
+Induced Labor,2018,1005,3.0,90,Comedy
+Theevandi,2018,1091,3.2,144,"Comedy, Romance"
+Debt,2018,863,3.2,95,Drama
+Surviving Christmas with the Relatives,2018,660,2.6,101,Comedy
+Don’t Be a Dick About It,2018,448,3.6,69,Documentary
+Adam,2018,213,3.3,72,Drama
+Roi Soleil,2018,370,3.3,62,"Drama, Action"
+What Still Remains,2018,678,2.7,92,"Drama, Thriller, Monsters"
+Saving Flora,2018,604,3.0,95,"Family, Drama, Adventure"
+Ayotzinapa: The Turtle’s Pace,2018,657,3.6,80,Documentary
+Red,2018,340,3.7,90,No genres available
+Cola de mono,2018,506,3.0,102,"Drama, Thriller"
+The Feeling of Being Watched,2018,332,3.6,87,Documentary
+Troy: Fall of a City,2018,618,3.1,448,"Drama, Epic History And Literature, Lavish Dramas And Sumptuous Royalty"
+Don’t Look,2018,760,2.4,71,Horror
+Holly Star,2018,570,2.7,90,Comedy
+Malena Pichot: Estupidez compleja,2018,932,3.3,50,Comedy
+Incoming,2018,725,2.3,89,"Action, Thriller, Science Fiction"
+Once Aurora,2018,601,3.8,52,Documentary
+Scott and Sid,2018,314,3.1,100,Drama
+Deadly Runway,2018,562,2.7,88,"TV Movie, Thriller"
+The Pigeon,2018,686,3.3,78,Drama
+Sketch,2018,1211,2.7,135,Action
+The Man from the Sea,2018,575,3.2,107,"Fantasy, Drama"
+I Hate New York,2018,316,3.4,75,Documentary
+In Like Flynn,2018,465,2.9,95,"Comedy, Adventure, Action"
+Going for Gold,2018,868,2.5,89,"Drama, Family"
+Enough with Catcalling,2018,450,3.6,73,Documentary
+Into the Okavango,2018,523,3.6,94,Documentary
+Jack of all Trades,2018,828,2.8,85,Documentary
+A Clever Crook,2018,430,3.2,104,Comedy
+RX 100,2018,1008,3.1,152,"Romance, Action, Drama"
+Suffocation,2018,533,3.3,88,Drama
+Working Woman,2018,515,3.4,93,Drama
+Royal Matchmaker,2018,625,2.9,90,"TV Movie, Romance"
+Kamen Rider Heisei Generations FOREVER,2018,649,3.4,100,"Science Fiction, Fantasy, Drama"
+Reborn,2018,516,2.7,80,Horror
+Esmeralda’s Twilight,2018,489,3.5,100,Drama
+Tsurune,2018,548,3.6,312,"Animation, Drama"
+Hello Guru Prema Kosame,2018,1089,3.1,145,"Family, Romance"
+Ad Vitam,2018,333,3.5,312,Drama
+Redbad,2018,614,2.9,160,"Drama, War, Adventure"
+American Nightmares,2018,429,2.8,90,"Horror, Comedy"
+Lucia’s Grace,2018,703,3.1,104,"Comedy, Drama"
+Sick for Toys,2018,446,2.7,90,Horror
+The Crimes That Bind,2018,686,3.4,119,"Thriller, Mystery, Crime"
+Women of Mafia,2018,1007,2.9,138,"Drama, Action, Crime"
+Somm III,2018,706,3.3,80,Documentary
+Hocus Pocus 25th Anniversary Halloween Bash,2018,580,3.0,90,"Documentary, Family, Music"
+Alice T.,2018,528,3.3,105,Drama
+The Plan,2018,731,3.4,79,"Drama, Comedy"
+The Humorist,2018,723,3.3,100,"Comedy, Drama"
+54 Hours: The Gladbeck Hostage Crisis,2018,660,3.6,180,"Crime, Drama"
+Savarakathi,2018,804,3.4,114,"Drama, Family"
+Batti Gul Meter Chalu,2018,967,2.9,161,"Drama, Comedy, Relationship Comedy"
+Just Believe,2018,1028,3.1,100,Comedy
+The Sentence,2018,448,3.5,87,"Documentary, Crime"
+Cool Cat Kids Superhero,2018,462,2.6,87,Family
+Small Town Christmas,2018,530,3.0,84,"TV Movie, Romance, Drama"
+Welcome to Mercy,2018,553,2.9,103,"Horror, Drama"
+The Natural Sweetness of Skin,2018,204,3.2,97,Drama
+MARS: Inside SpaceX,2018,660,3.5,46,"Documentary, TV Movie, History"
+45 Days Away from You,2018,578,3.1,96,"Comedy, Romance, Drama"
+Alex & the List,2018,510,2.6,112,"Comedy, Romance"
+Seemaraja,2018,1227,2.5,158,"Comedy, Action, Drama"
+Higher Power,2018,567,2.7,95,"Action, Thriller, Science Fiction"
+Mo Amer: The Vagabond,2018,687,3.5,56,Comedy
+Fantastica,2018,849,2.7,114,"Comedy, Fantasy"
+The School,2018,485,2.7,89,"Thriller, Horror, Mystery"
+Disconnected,2018,625,2.9,85,Comedy
+The Cure: Anniversary 1978 - 2018 - (Live In Hyde Park),2018,483,3.8,135,"Music, Documentary"
+Rage,2018,453,3.5,85,Drama
+Break,2018,795,2.8,96,"Comedy, Drama"
+Siren’s Call,2018,655,3.2,93,Comedy
+With A Kiss I Die,2018,287,2.9,73,"Romance, Drama, Fantasy"
+Parque Mayer,2018,380,3.4,134,Drama
+Christmas Around the Corner,2018,545,3.1,90,"Drama, Romance, TV Movie"
+Bad Apples,2018,507,2.4,85,Horror
+The Foundation of Criminal Excellence,2018,557,3.6,126,"Crime, Comedy, Action"
+Louis & Luca: Mission to the Moon,2018,726,3.4,80,"Family, Adventure, Animation"
+Smuggling Hendrix,2018,616,3.3,93,"Comedy, Drama"
+Cucuy: The Boogeyman,2018,659,2.6,85,"Horror, Thriller"
+Paris Pigalle,2018,655,3.0,120,"Drama, Comedy"
+Prosecuting Evil: The Extraordinary World of Ben Ferencz,2018,437,3.6,83,"History, Documentary"
+Confiscation,2018,1178,1.9,108,"Comedy, Drama"
+Genesis 2.0,2018,495,3.5,113,Documentary
+Waco: Madman or Messiah,2018,410,3.5,170,Documentary
+Metal Family,2018,661,3.8,80,"Family, Drama, Animation"
+The Godfathers of Hardcore,2018,673,3.5,95,"Music, Documentary"
+The Princess and the Matchmaker,2018,596,3.0,110,"History, Romance, Comedy"
+Vir Das: Losing It,2018,762,3.5,67,Comedy
+Dear Nathan: Hello Salma,2018,1015,3.1,102,"Romance, Drama"
+M/M,2018,312,3.1,81,"Thriller, Mystery"
+Magnetic,2018,751,3.2,115,Documentary
+Pyaar Prema Kaadhal,2018,996,3.1,144,"Romance, Drama, Comedy"
+Gosnell: The Trial of America’s Biggest Serial Killer,2018,574,3.1,93,"Drama, Crime, Intense Violence And Sexual Transgression"
+Stolen Identity,2018,681,2.9,116,"Crime, Mystery"
+A Boy Called Sailboat,2018,586,3.4,92,"Comedy, Drama, Family"
+Domingo,2018,599,3.2,95,"Drama, Comedy"
+Beyond The Sky,2018,592,2.7,85,"Horror, Mystery, Science Fiction"
+Number 37,2018,401,3.4,111,Thriller
+"From Today, It’s My Turn!!",2018,677,3.7,550,Comedy
+Andy the Talking Hedgehog,2018,326,2.5,76,"Fantasy, Family, Adventure"
+The Dig,2018,408,3.3,97,Thriller
+Oxidan,2018,1148,1.9,90,Comedy
+This One’s for the Ladies,2018,257,3.3,83,Documentary
+A Nice Quiet Life,2018,414,2.6,85,No genres available
+Sand,2018,200,3.6,81,"Drama, Documentary"
+"Too Macabre: The Making of Elvira, Mistress of the Dark",2018,272,3.3,104,Documentary
+Love Addict,2018,1004,2.8,93,"Comedy, Romance"
+Coward Love,2018,627,3.1,92,"Drama, Romance"
+Iblis,2018,691,3.4,120,"Comedy, Drama, Romance"
+Ether,2018,472,3.2,117,"War, Thriller, History"
+LEGO House - Home of the Brick,2018,685,3.3,47,Documentary
+Alcatraz,2018,695,2.8,90,"Action, Crime"
+Nureyev,2018,453,3.5,110,Documentary
+16 Shots,2018,366,3.5,92,Documentary
+El mundo es suyo,2018,813,3.0,92,Comedy
+Red Cow,2018,306,3.4,90,Drama
+Panic: The Untold Story of the 2008 Financial Crisis,2018,557,3.4,96,"History, Documentary"
+Pause,2018,387,3.5,96,Drama
+Amityville: Mt Misery Road,2018,399,2.3,75,"Horror, The Undead And Monster Classics, Terrifying"
+Do You Trust this Computer?,2018,505,3.4,78,Documentary
+Teefa in Trouble,2018,761,3.1,155,"Comedy, Crime, Drama"
+Eiffel… I’m in Love 2,2018,840,3.1,116,"Comedy, Drama"
+Archons,2018,435,3.0,88,"Science Fiction, Thriller, Horror"
+Dance with the Jackals 5,2018,1015,2.6,102,Comedy
+Seven Years of Night,2018,364,3.1,123,"Drama, Thriller, Action"
+What We Started,2018,633,3.4,70,"Documentary, Music"
+The Great Darkened Days,2018,374,3.4,95,"Thriller, Drama, History"
+Core of the World,2018,453,3.4,124,Drama
+Shut Up and Play the Piano,2018,462,3.6,81,"Music, Documentary"
+Icebox,2018,519,3.4,86,Drama
+The Proposal,2018,324,3.4,83,Documentary
+Beyond Words,2018,388,3.3,85,Drama
+A Christmas Switch,2018,568,2.8,86,"Comedy, Drama, Family"
+27: The Cursed Club,2018,686,2.7,80,"Action, Fantasy, Crime"
+When Margaux Meets Margaux,2018,545,3.1,95,"Comedy, Fantasy"
+The Bad Man,2018,314,3.0,106,"Horror, Drama"
+Franco Escamilla: por la anécdota,2018,914,3.5,66,Comedy
+Breslin and Hamill: Deadline Artists,2018,525,3.6,106,Documentary
+Ashore,2018,416,3.5,82,"Documentary, Drama"
+Camarón: The Film,2018,585,3.7,104,Documentary
+Good Game: The Beginning,2018,877,2.5,104,Comedy
+The Day I Lost My Shadow,2018,370,3.3,94,Drama
+Cover Versions,2018,380,3.1,84,"Mystery, Thriller"
+The Little Comrade,2018,607,3.5,100,"Family, Drama"
+Dementia Part II,2018,278,3.2,66,"Comedy, Horror"
+Baby,2018,389,3.2,96,Drama
+The Merger,2018,664,3.3,103,"Drama, Comedy"
+Time for Me to Come Home for Christmas,2018,490,3.0,90,"TV Movie, Drama, Romance"
+"Samantha Hudson: A Story About Faith, Sex and Electro-Queer",2018,541,3.3,60,Documentary
+Blessed Madness,2018,938,3.0,109,"Comedy, Family"
+Dark Was the Night,2018,407,3.1,80,Drama
+Chacrinha: O Velho Guerreiro,2018,728,3.1,113,"Comedy, Drama"
+The Cabin,2018,569,2.5,87,"Thriller, Horror"
+Student A,2018,480,3.3,114,Drama
+Grandpa’s Great Escape,2018,778,2.9,64,"Adventure, Drama, Family"
+América,2018,383,3.6,75,Documentary
+Caravaggio: The Soul and the Blood,2018,452,3.3,90,Documentary
+Death and Nightingales,2018,270,3.3,180,Drama
+A First Farewell,2018,398,3.5,87,"Family, Drama"
+Hex,2018,585,2.4,85,"Thriller, Horror"
+Citizen Jake,2018,446,3.2,137,Drama
+Christmas at Graceland,2018,467,2.8,90,"TV Movie, Romance, Family"
+Abrahaminte Santhathikal,2018,934,3.0,131,"Crime, Thriller"
+Death to Metal,2018,336,3.1,85,"Comedy, Horror"
+Seethakathi,2018,802,3.2,173,"Comedy, Drama"
+Stargate Origins,2018,618,2.7,0,"Monsters, Aliens, Sci-Fi And The Apocalypse"
+The Pillar of Salt,2018,279,3.2,70,Drama
+LEGO DC Super Hero Girls: Super-Villain High,2018,369,3.0,78,"Animation, Family, Action"
+Female Human Animal,2018,403,3.3,74,"Thriller, Romance, Mystery"
+Christmas Perfection,2018,528,2.7,90,"TV Movie, Comedy"
+At the End of the Day,2018,506,3.0,108,"Drama, Comedy"
+Life,2018,460,3.4,960,Drama
+#SquadGoals,2018,485,2.5,90,"Thriller, Drama"
+The Fourth Estate,2018,364,3.6,360,Documentary
+Utopía,2018,841,2.4,115,No genres available
+Honey,2018,536,3.0,105,"Drama, Romance"
+The Woman Who Loves Giraffes,2018,285,3.5,81,Documentary
+Goliath,2018,611,3.4,88,Drama
+App War,2018,764,3.2,130,"Romance, Drama, Comedy"
+Siblings of the Cape,2018,366,3.5,89,Drama
+Spivak,2018,505,3.1,91,Comedy
+Bitter Melon,2018,304,3.3,110,"Comedy, Crime"
+The House on Mansfield Street,2018,532,2.6,74,Horror
+River Runs Red,2018,552,2.6,94,"Thriller, Crime, Drugs And Gangsters"
+Wayne,2018,339,3.6,97,Documentary
+The Forest of Wool and Steel,2018,275,3.3,134,"Drama, Romance"
+The Lies She Loved,2018,479,3.2,118,"Drama, Mystery"
+Winter Flies,2018,455,3.4,85,"Drama, Comedy"
+The Black Book,2018,237,3.1,103,"History, Romance, Drama"
+Hasta que la boda nos separe,2018,708,3.0,91,Comedy
+Nothing to Lose,2018,678,2.3,130,"Drama, History"
+2050,2018,467,2.6,104,"Science Fiction, Drama, Comedy"
+Iravukku Aayiram Kangal,2018,839,3.3,121,"Thriller, Action, Crime"
+The Honeymoon Stand-Up Special,2018,590,3.5,95,Comedy
+The Tree,2018,258,3.4,104,Drama
+Soledad,2018,452,3.2,103,"Thriller, Romance, Drama"
+7 Emotions,2018,742,3.3,116,"Comedy, Drama"
+"I, Dolours",2018,399,3.4,82,Documentary
+Little Forest: Four Seasons,2018,250,3.7,137,Drama
+Görevimiz Tatil,2018,851,2.8,110,"Comedy, Family"
+G Affairs,2018,452,3.3,105,"Drama, Mystery, Crime"
+A Simple Wedding,2018,433,2.9,88,"Romance, Comedy"
+Radio Romance,2018,698,3.1,960,Drama
+Youngju,2018,329,3.4,100,Drama
+Through Black Spruce,2018,334,3.3,111,"Drama, Mystery"
+Perfect Skin,2018,444,2.9,110,"Horror, Thriller"
+A Veteran’s Christmas,2018,469,2.9,90,"Family, TV Movie, Drama"
+"My Teacher, My Love",2018,591,3.1,105,"Romance, Comedy"
+The Gold-Laden Sheep and The Sacred Mountain,2018,379,3.3,97,Mystery
+Gogol. Viy,2018,663,3.0,99,"Adventure, Mystery, Drama"
+Rainbow’s Sunset,2018,512,3.2,110,Drama
+Up Among the Stars,2018,534,3.3,86,Drama
+Porndemic,2018,454,3.3,92,Documentary
+Ghost Light,2018,414,3.0,102,"Comedy, Horror"
+Asphaltgorillas,2018,668,3.1,103,"Comedy, Drama, Crime"
+Aunty Donna: New Show,2018,501,3.9,58,Comedy
+Henchmen,2018,298,2.9,89,"Comedy, Animation, Adventure"
+Poinsettias for Christmas,2018,430,3.0,87,"Romance, TV Movie"
+Right Here Right Now,2018,572,3.0,89,Drama
+What a Man Wants,2018,597,3.0,100,Comedy
+Jingle Around the Clock,2018,451,3.0,90,"Comedy, TV Movie, Romance"
+In the Quarry,2018,538,3.2,82,"Thriller, Crime"
+Dad Friend,2018,813,2.8,100,Comedy
+Miss Hammurabi,2018,451,3.4,1072,"Comedy, Drama"
+Nude: Chitraa,2018,363,3.5,112,Drama
+Transformer,2018,431,3.5,80,Documentary
+Mylove Lost,2018,760,2.9,103,"Romance, Comedy"
+Meteorites,2018,467,3.3,85,"Romance, Drama"
+Krampus Origins,2018,358,2.4,86,Horror
+The Redeemed and the Dominant: Fittest on Earth,2018,686,3.5,119,Documentary
+PAW Patrol: Mighty Pups,2018,563,2.8,44,"Animation, Action, Family"
+The Pact,2018,565,2.8,90,"Thriller, Drama, Horror"
+The Oslo Diaries,2018,257,3.5,94,Documentary
+Elections,2018,488,3.6,100,Documentary
+Carnivores,2018,631,3.0,98,"Thriller, Drama"
+A Young Man With High Potential,2018,420,3.1,85,"Crime, Thriller"
+American Dream/American Knightmare,2018,379,3.3,85,"Documentary, Music"
+Life in the Doghouse,2018,515,3.7,84,Documentary
+Tattoo of Revenge,2018,294,3.1,150,"Thriller, Comedy, Romance"
+Cynthia,2018,244,3.0,89,"Horror, Comedy"
+The Gilded Age,2018,388,3.5,113,Documentary
+Drug Stories! Narcotic Nightmares and Hallucinogenic Hellrides,2018,281,3.3,80,"Comedy, Documentary, Crime"
+Two Times You,2018,375,2.8,95,"Drama, Fantasy"
+Paglisan,2018,262,3.6,105,"Music, Animation"
+Manos Returns,2018,260,2.7,67,Horror
+5 Star Christmas,2018,588,2.4,92,Comedy
+A Godwink Christmas,2018,430,3.0,90,"TV Movie, Romance, Family"
+Triassic World,2018,412,2.5,90,"Science Fiction, Action, Horror"
+Hibiki,2018,401,3.3,106,"Action, Comedy"
+The Simone Biles Story: Courage to Soar,2018,465,3.1,76,"TV Movie, Drama"
+Miriam Lies,2018,318,3.4,90,Drama
+The Hatred,2018,273,3.2,59,"Thriller, Western, Horror"
+IRODUKU: The World in Colors,2018,422,3.6,312,"Drama, Animation"
+The White Orchid,2018,396,3.0,82,"Drama, Thriller"
+A Rough Draft,2018,635,2.6,116,"Action, Science Fiction, Fantasy"
+Pet Names,2018,216,3.4,75,"Drama, Comedy"
+Kiri,2018,493,3.4,180,"Drama, Crime"
+The Insufferable Groo,2018,362,3.4,98,Documentary
+Ending Love in 3 Episodes,2018,724,3.5,0,Drama
+Golden Job,2018,526,3.0,100,"Adventure, Action, Crime"
+Falls Around Her,2018,228,3.3,100,"Drama, Music"
+Morning Changes Everything,2018,450,3.9,975,Drama
+Songwriter,2018,552,3.6,84,Documentary
+Eternal Winter,2018,483,3.5,110,"Romance, Drama, History"
+The Border Fence,2018,455,3.5,112,Documentary
+Perfect World,2018,442,3.2,102,Romance
+Conrad & Michelle: If Words Could Kill,2018,425,2.7,90,"Drama, TV Movie"
+Classic Albums: Amy Winehouse - Back to Black,2018,390,3.7,58,"Music, Documentary"
+Bikeman,2018,746,3.1,106,Comedy
+Ente Ummante Peru,2018,794,3.1,128,"Comedy, Drama"
+Búék,2018,702,3.2,102,"Comedy, Drama"
+"It’s Christmas, Eve",2018,427,3.0,90,"Music, Drama, TV Movie"
+Aura,2018,588,2.4,82,Horror
+Father to Son,2018,517,3.4,115,Drama
+The Hidden City,2018,336,3.4,80,Documentary
+Beyond White Space,2018,480,2.7,93,"Thriller, Science Fiction, Monsters"
+A Christmas in Tennessee,2018,472,3.0,90,"TV Movie, Family, Romance"
+Captain Tsubasa,2018,681,3.6,1248,"Animation, Comedy, Drama"
+Taking a Little Time to Feel Sorry for Myself,2018,341,3.4,74,"Comedy, Drama"
+Ghost Walk,2018,273,3.2,90,"Mystery, Fantasy, Drama"
+Joel,2018,422,3.4,100,Drama
+Soul to Keep,2018,555,2.6,94,"Thriller, Horror, The Undead And Monster Classics"
+Pornographer,2018,571,3.2,0,No genres available
+Krishnarjuna Yudham,2018,969,2.9,158,"Romance, Thriller, Action"
+Message Man,2018,622,2.9,91,"Action, Crime, Thriller"
+The Dead Queen,2018,520,3.2,120,"History, Romance, Drama"
+Damascus Time,2018,920,2.1,115,"Action, Drama, War"
+Survivor’s Guide to Prison,2018,495,3.3,102,"Crime, Documentary"
+Kiss Me Not,2018,508,3.1,88,"Documentary, Comedy"
+Void,2018,522,3.5,97,"Romance, Comedy, Drama"
+Gypsy’s Revenge,2018,462,3.4,85,"Documentary, TV Movie"
+Puffs: Filmed Live Off Broadway,2018,487,3.6,118,"Fantasy, Comedy"
+Land of Hope,2018,546,3.2,108,"Drama, Romance, History"
+A Girl’s Band,2018,328,3.5,83,Documentary
+Frozen in Love,2018,466,3.0,90,"Romance, TV Movie"
+Make Me Up,2018,211,3.2,84,Science Fiction
+Christmas on Honeysuckle Lane,2018,367,3.0,90,"TV Movie, Romance"
+The Gentle Indifference of the World,2018,312,3.4,100,Drama
+The Bray Road Beast,2018,413,3.0,70,"Horror, Documentary"
+REDMARE,2018,397,3.9,124,"Documentary, Music"
+Mulheres Alteradas,2018,605,3.0,87,Comedy
+Elves,2018,298,2.4,80,Horror
+Turn Right Barcelona,2018,766,3.1,106,"Drama, Romance, Comedy"
+"Ron White: If You Quit Listening, I’ll Shut Up",2018,584,3.3,63,Comedy
+Congo,2018,604,3.3,128,"History, Crime, Drama"
+A Reindeer’s Journey,2018,434,3.4,75,"Family, Adventure, Documentary"
+Amazon Hot Box,2018,345,2.8,85,"Horror, Action, Drama"
+FP2: Beats of Rage,2018,365,3.2,89,"Comedy, Action"
+Northern Lights of Christmas,2018,383,3.0,84,"TV Movie, Romance, Drama"
+Ku’damm 59,2018,618,3.6,0,"Family, History"
+All Light Will End,2018,523,2.5,85,"Horror, Thriller"
+Junga,2018,941,2.7,157,"Comedy, Action"
+The Last Resort,2018,372,3.4,70,Documentary
+We the Coyotes,2018,274,3.3,87,Drama
+¡Asu Mare! 3,2018,831,2.2,100,Comedy
+Christmas at Grand Valley,2018,431,2.9,84,"Romance, Family, TV Movie"
+Survive the Hollow Shoals,2018,390,2.9,78,Horror
+Adolescence,2018,264,3.1,99,"Romance, Drama"
+Three Words to Forever,2018,585,3.0,106,"Family, Drama"
+303 Squadron,2018,745,2.9,95,"Drama, War, History"
+When Lambs Become Lions,2018,222,3.6,80,Documentary
+The Real Fauda,2018,513,3.6,47,Documentary
+Tokyo Living Dead Idol,2018,258,3.2,81,"Horror, Comedy"
+National Theatre Live: Cat on a Hot Tin Roof,2018,350,3.5,157,Drama
+Delirium,2018,426,2.5,86,"Horror, Thriller"
+Fractured,2018,476,3.1,80,Thriller
+Songbird,2018,389,2.7,95,Drama
+Pretty Little Stalker,2018,523,2.4,83,"Mystery, TV Movie, Thriller"
+Watch If You Dare,2018,470,2.5,71,Horror
+Under the Wire,2018,324,3.6,95,"Documentary, Politics And Human Rights, Military Combat And Heroic Soldiers"
+Sirius the Jaeger,2018,579,3.2,276,"Mystery, Animation"
+Young and Alive,2018,415,3.6,94,Documentary
+Dark Suns,2018,289,3.6,152,Documentary
+Michael Palin in North Korea,2018,472,3.6,86,Documentary
+The Haunted,2018,498,2.6,75,"Thriller, Horror, Mystery"
+Os Jovens Baumann,2018,406,3.0,70,"Comedy, Drama, Horror"
+Death Toilet,2018,309,2.7,54,"Horror, War, Comedy"
+Welcome to Christmas,2018,394,2.9,90,"Drama, Romance, TV Movie"
+The Chrysanthemum and the Guillotine,2018,242,3.4,189,"History, Drama"
+Watergate,2018,220,3.6,270,"History, Documentary"
+Nigerian Prince,2018,460,3.2,104,"Drama, Thriller"
+Night Shift,2018,504,2.8,81,Horror
+Don’t Go,2018,430,2.9,94,Mystery
+Forever Young,2018,512,3.1,138,"Drama, Romance, War"
+Reunion Z,2018,735,2.8,96,"Horror, Comedy"
+No One Will Ever Know,2018,332,3.4,102,Drama
+Love on Safari,2018,512,2.9,84,"TV Movie, Romance, Drama"
+Spitfire,2018,485,3.5,99,"History, War, Documentary"
+Our New President,2018,366,3.3,77,Documentary
+Phoenix,2018,259,3.3,85,Drama
+Love Express. The Disappearance of Walerian Borowczyk,2018,212,3.3,72,Documentary
+Lovefucked,2018,357,3.3,105,"Drama, Romance"
+Those Who Work,2018,631,3.4,102,Drama
+Proud,2018,216,3.4,0,Drama
+The Girl in the Bathtub,2018,469,3.0,86,"Thriller, TV Movie, Drama"
+Yours in Sisterhood,2018,241,3.5,101,"Documentary, History"
+The Vice of Hope,2018,454,3.4,96,Drama
+Aadhi,2018,828,3.0,158,"Action, Thriller"
+Crossroads: One Two Jaga,2018,500,3.5,85,"Action, Crime, Drama"
+Foster,2018,367,3.6,113,Documentary
+Long Lost,2018,367,3.1,94,"Mystery, Drama, Thriller"
+Write When You Get Work,2018,225,3.0,99,"Comedy, Drama, Romance"
+Once Upon a Prince,2018,478,2.9,85,"TV Movie, Romance"
+The Miracle,2018,344,3.6,480,"Mystery, Drama"
+Black Hole Apocalypse,2018,491,3.5,112,Documentary
+Recreo,2018,553,3.1,96,"Drama, Comedy"
+Nathicharami,2018,424,3.4,116,Drama
+Tracey,2018,429,3.3,114,Drama
+John McCain: For Whom the Bell Tolls,2018,478,3.5,104,Documentary
+Aragne: Sign of Vermillion,2018,237,3.0,75,"Fantasy, Mystery, Animation"
+Not the End,2018,405,3.4,96,"Drama, Science Fiction, Fantasy"
+One Winter Weekend,2018,470,3.0,84,"TV Movie, Romance"
+Christmas Pen Pals,2018,406,3.1,90,"Romance, TV Movie"
+Christmas Bells Are Ringing,2018,409,2.9,90,"Family, TV Movie, Romance"
+Untamed Romania,2018,505,3.5,93,Documentary
+Kalakalappu 2,2018,894,2.9,154,"Comedy, Action"
+El testigo: Caín y Abel,2018,524,3.6,76,Documentary
+Magnificent Times,2018,516,3.3,111,"Drama, Comedy"
+Crô em Família,2018,754,2.3,110,Comedy
+Dukun,2018,388,3.2,108,"Thriller, Crime, Horror"
+A Wedding for Christmas,2018,465,2.6,90,"TV Movie, Romance"
+Killer Kate!,2018,394,2.7,80,"Comedy, Horror, Thriller"
+The Last Fiction,2018,341,3.2,101,"Drama, Fantasy, Animation"
+Ghost of Camp Blood,2018,245,2.6,73,Horror
+Cameron Esposito: Rape Jokes,2018,306,3.7,61,Comedy
+A Gingerbread Romance,2018,351,2.8,90,"TV Movie, Romance"
+The Interrogation of Tony Martin,2018,572,3.1,48,"TV Movie, Thriller, Drama"
+Mister Rogers: It’s You I Like,2018,373,3.6,60,Documentary
+Crystal Sky of Yesterday,2018,304,3.2,82,"Romance, Animation"
+Suits,2018,386,3.5,960,"Drama, Comedy"
+Kate Nash: Underestimate the Girl,2018,368,3.5,88,Documentary
+Mr. 365,2018,375,2.8,90,"TV Movie, Romance"
+Waiting For Spring,2018,468,3.1,109,Romance
+Savage,2018,400,3.2,112,"Crime, Action, Thriller"
+The Guest,2018,513,3.3,94,"Drama, Comedy"
+Jonestown: The Women Behind the Massacre,2018,281,3.3,120,Documentary
+Ten Years Japan,2018,226,3.3,98,Drama
+Black Site,2018,346,2.8,87,"Science Fiction, Horror, Action"
+The Ice King,2018,304,3.4,88,Documentary
+Ali & Cavett: The Tale of the Tapes,2018,395,3.4,95,Documentary
+Elon Musk: The Real Life Iron Man,2018,475,2.8,71,Documentary
+The Nanny,2018,484,2.6,80,"Science Fiction, Mystery, Thriller"
+A Wild Stream,2018,302,3.4,72,Documentary
+A Clear Felling,2018,297,3.4,97,Thriller
+Rajma Chawal,2018,471,3.0,129,"Comedy, Drama, Family"
+A Meowy Halloween,2018,226,3.0,48,Comedy
+Oz Land,2018,431,3.3,105,Adventure
+Wok of Love,2018,509,3.3,1330,"Comedy, Drama"
+Texas,2018,839,1.5,88,"Action, Adventure, Comedy"
+Maradona,2018,693,3.2,148,"Thriller, Comedy, Action"
+"31 Days in Marshall, North Carolina",2018,203,3.5,81,No genres available
+The Interpreter,2018,368,3.3,113,"Comedy, Drama"
+Bauhaus Spirit: 100 Years of Bauhaus,2018,308,3.3,95,Documentary
+Three Letters: Curse,2018,587,2.9,90,Horror
+Kaiser: The Greatest Footballer Never to Play Football,2018,377,3.4,98,Documentary
+The Appearance,2018,436,2.9,111,"Thriller, Horror"
+Peripheral,2018,274,3.0,89,"Thriller, Horror"
+Dublin Oldschool,2018,475,3.2,95,Drama
+"Rich Man, Poor Woman",2018,567,3.0,1040,Comedy
+Atlas,2018,440,3.5,99,Drama
+Marmalade Boy,2018,491,2.8,127,"Romance, Comedy, Drama"
+Strange Nature,2018,304,2.9,100,"Thriller, Fantasy, Horror"
+Savage Youth,2018,302,3.1,100,"Drama, Crime"
+Kamen Rider Build The Movie: Be The One,2018,483,3.4,65,"Adventure, Science Fiction, Action"
+Dying to Tell,2018,463,3.6,87,Documentary
+Baaram,2018,420,3.5,91,Drama
+Hell Trip,2018,527,2.4,86,"Thriller, Horror"
+A Tale of Two Coreys,2018,372,2.8,87,Drama
+Satan & Adam,2018,400,3.5,78,Documentary
+That Girl’s Captives of Love,2018,490,2.9,99,"Comedy, Romance"
+Hopelessly Devout,2018,518,3.2,87,Comedy
+Concrete Kids,2018,344,3.3,82,Adventure
+O Homem Perfeito,2018,569,2.7,115,"Comedy, Romance"
+De film van Dylan Haegens,2018,722,2.6,81,"Adventure, Comedy, Science Fiction"
+The Day,2018,507,3.7,540,"Crime, Drama"
+Barbara Rubin and the Exploding NY Underground,2018,287,3.4,78,Documentary
+With the Wind,2018,283,3.2,88,Drama
+Dead Horse Nebula,2018,439,3.0,73,Drama
+Amici come prima,2018,777,2.7,75,Comedy
+Jonathan Agassi Saved My Life,2018,358,3.4,106,Documentary
+Hope at Christmas,2018,363,2.9,90,"Romance, Family, TV Movie"
+My Last Year as a Loser,2018,260,3.5,90,Comedy
+Float Like a Butterfly,2018,246,3.3,101,"Drama, Moving Relationship Stories, Heartbreaking And Moving Family Drama"
+The Coach,2018,703,3.1,138,Drama
+Magic Medicine,2018,385,3.4,79,Documentary
+Poisonous Roses,2018,330,3.2,70,Drama
+No One Would Tell,2018,372,2.9,90,"Thriller, Mystery, TV Movie"
+Is That You?,2018,249,3.1,107,Horror
+Mad Mom,2018,748,2.9,85,"Comedy, Family"
+Savyasachi,2018,815,2.8,151,"Action, Thriller"
+Last Scene Alive: An Aurora Teagarden Mystery,2018,440,3.1,85,"TV Movie, Crime, Mystery"
+Reunited at Christmas,2018,348,2.9,84,"Family, TV Movie"
+The Competition,2018,385,2.6,105,"Romance, Comedy"
+Alas Pati,2018,632,2.6,88,"Adventure, Horror"
+Adrenochrome,2018,256,2.8,85,"War, Action, Horror"
+Four Cornered Triangle,2018,405,3.3,88,Drama
+Golden Dawn Girls,2018,424,3.5,95,Documentary
+La Bolduc,2018,570,3.3,103,Drama
+One Must Fall,2018,333,2.9,96,"Comedy, Horror, The Undead And Monster Classics"
+Chal Mohan Ranga,2018,741,3.1,148,"Family, Romance, Comedy"
+The Devil’s Well,2018,339,2.9,88,Horror
+Spirou & Fantasio’s Big Adventures,2018,704,2.6,89,"Adventure, Comedy"
+Generation Iron 3,2018,606,3.1,75,Documentary
+Vlad the Impaler,2018,657,2.7,121,"History, Drama, War"
+Murer - Anatomy of a Trial,2018,461,3.5,138,Drama
+Les bonnes conditions,2018,415,3.6,86,Documentary
+Germany. A Winter’s Tale,2018,309,3.2,125,Drama
+The Times of Bill Cunningham,2018,248,3.4,71,Documentary
+Fanney Khan,2018,540,2.8,129,"Drama, Music, Comedy"
+Charm City,2018,230,3.6,106,Documentary
+Bellingcat: Truth in a Post-Truth World,2018,402,3.4,88,Documentary
+La obra de mi vida,2018,480,3.6,100,Comedy
+1/1,2018,351,3.2,85,Drama
+Chicken Girls: The Movie,2018,429,2.7,70,"Comedy, Drama, Family"
+Nisekoi: False Love,2018,473,3.0,117,"Romance, Comedy"
+Bad Ben 5: The Crescent Moon Clown,2018,377,2.7,87,"Horror, Comedy"
+Playmaker,2018,608,3.1,99,"Drama, Crime"
+Hitler’s Circle of Evil,2018,504,3.6,520,"Documentary, War And Historical Adventure, Nazis And World War II"
+Gogol. A Terrible Vengeance,2018,507,3.2,106,"Adventure, Thriller, Mystery"
+Iceman: The Time Traveler,2018,410,2.6,95,"Action, History, Comedy"
+A Very Wicked Halloween: Celebrating 15 Years on Broadway,2018,367,3.6,42,Music
+Tough Guy: The Bob Probert Story,2018,506,3.5,94,Documentary
+Ainhoa: That’s Not Me,2018,322,3.6,98,"Drama, Documentary"
+Memories of a Dead End,2018,219,3.3,89,"Drama, Romance"
+The Stolen Caravaggio,2018,525,3.0,110,Drama
+The Scoundrels,2018,472,3.3,105,"Crime, Action"
+Pimped,2018,360,3.0,80,Thriller
+Mr. Know-It-All,2018,602,3.3,99,"Drama, Comedy"
+"Sergio Leone, une Amérique de légende",2018,406,3.5,53,Documentary
+Rainbow Days,2018,373,3.3,109,"Comedy, Drama"
+Our Youth In Taiwan,2018,424,3.6,118,Documentary
+Planet Single 2,2018,719,3.1,113,"Comedy, Romance"
+The Creepy Line,2018,273,3.2,80,Documentary
+Eeda,2018,494,3.3,152,"Drama, Romance"
+A Midnight Kiss,2018,330,2.9,90,"Romance, TV Movie"
+The Pagan King,2018,471,2.9,110,"Adventure, History, Action"
+A Snow White Christmas,2018,361,2.7,83,"Comedy, TV Movie, Romance"
+The Rope Curse,2018,442,2.9,106,Horror
+The Man Who Bought The Moon,2018,499,3.4,105,Comedy
+The Last Days of Knight,2018,497,3.5,103,Documentary
+We Are Thr3e,2018,248,3.3,89,"Drama, Romance"
+Nightmare Shark,2018,226,2.8,120,"Horror, Fantasy, Action"
+Ultraman Geed the Movie: Connect! The Wishes!!,2018,318,3.3,73,"Science Fiction, Action"
+Deadly Still,2018,518,2.5,90,"Thriller, Horror"
+D.P.A. - O Filme 2: O Mistério Italiano,2018,648,2.9,129,"Family, Fantasy, Adventure"
+Stuntman,2018,393,3.3,84,Documentary
+For the Broken Hearted,2018,512,3.1,92,Drama
+Killing for the Prosecution,2018,455,3.2,124,"Thriller, Crime, Mystery"
+Temporada,2018,310,3.5,79,Documentary
+Ramekin,2018,280,3.1,70,"Horror, Comedy"
+Gunshot,2018,619,3.2,96,"Crime, Drama"
+Supercon,2018,296,2.7,100,Comedy
+History Lessons,2018,314,3.2,105,Drama
+Vielmachglas,2018,663,2.9,95,"Drama, Comedy"
+Padayottam,2018,627,3.2,135,"Comedy, Thriller, Action"
+Woman Coming Out of the Sea,2018,210,3.2,85,"Romance, Drama"
+Ravers,2018,309,2.9,91,"Comedy, Horror"
+Marrying Father Christmas,2018,315,2.9,90,"Romance, TV Movie, Drama"
+Garbage,2018,282,3.1,105,"Thriller, Drama"
+Meow Wolf: Origin Story,2018,267,3.4,88,Documentary
+The King and I,2018,322,3.6,159,"Drama, Music"
+Death on the Tyne,2018,529,3.0,90,"Crime, Drama, Comedy"
+Chalo,2018,756,3.2,145,"Romance, Action, Comedy"
+"Les Municipaux, ces héros",2018,705,2.8,88,Comedy
+Keep Going,2018,393,3.2,84,Drama
+Take It or Leave It,2018,366,3.4,102,Drama
+The Snarling,2018,285,2.9,83,"Comedy, Horror"
+An Acceptable Loss,2018,354,2.9,102,"Drama, Thriller"
+The Cotton Wool War,2018,408,2.9,84,Drama
+Avengers Grimm: Time Wars,2018,288,2.6,88,"Adventure, Fantasy, Action"
+Say Yes,2018,323,2.9,94,Drama
+My Secret Valentine,2018,404,3.1,84,"TV Movie, Romance"
+Sleep No More,2018,329,2.8,91,Horror
+Neon Heart,2018,294,3.1,86,Drama
+Klimt & Schiele: Eros and Psyche,2018,342,3.2,0,"Documentary, History"
+Pulang,2018,463,3.4,120,"Adventure, Romance, Drama"
+LEGO Jurassic World: The Secret Exhibit,2018,438,3.1,44,"Family, Animation"
+Lower House,2018,371,3.4,152,Documentary
+Viper Club,2018,203,3.2,109,"Drama, Thriller"
+Savage Raghda,2018,708,2.5,90,"Comedy, Family"
+Kiss Me First,2018,432,3.3,282,"Mystery, Drama, Moving Relationship Stories"
+The Secret Life of the Cruise,2018,435,3.3,66,"TV Movie, Documentary"
+Dare to Stop Us,2018,264,3.4,119,Drama
+Young Solitude,2018,232,3.4,100,Documentary
+My Brother’s Keeper,2018,631,2.8,100,"Drama, Music"
+Under the Autumn Moon,2018,392,3.0,84,"TV Movie, Romance"
+Kaatrin Mozhi,2018,725,3.2,122,"Comedy, Drama"
+Aydede,2018,475,3.3,97,Drama
+Killer Weekend,2018,390,2.9,85,"Horror, Comedy"
+Nightshooters,2018,257,3.3,101,"Thriller, Action, Comedy"
+Muse: Drones World Tour,2018,476,3.7,90,Music
+Player,2018,430,3.6,840,"Crime, Drama"
+B Tech,2018,712,3.1,146,"Comedy, Romance"
+Sarkari. Hi. Pra. Shale Kasaragodu,2018,387,3.6,147,Drama
+Eden,2018,484,3.2,97,Drama
+I Am Vengeance,2018,421,2.8,95,Action
+Bille,2018,473,3.4,100,"Family, Drama"
+The Midnight Gang,2018,586,3.0,63,"Comedy, Family, TV Movie"
+Entertaining Christmas,2018,340,2.9,84,"Family, Romance, TV Movie"
+Meet Me After School,2018,389,3.4,616,Drama
+Khargiush,2018,739,2.6,90,Comedy
+Everything’s Gone Wrong!,2018,432,2.9,102,Comedy
+Killer Grandma,2018,416,2.7,0,"Thriller, TV Movie"
+The Padre,2018,402,3.1,98,Drama
+The Lost Strait,2018,745,2.8,93,War
+Threesomething,2018,208,3.0,71,Comedy
+Sam Morril: Positive Influence,2018,423,3.5,56,"Comedy, TV Movie"
+Love+Sling,2018,445,3.0,110,"Comedy, Romance"
+Daughters of the Sexual Revolution: The Untold Story of the Dallas Cowboys Cheerleaders,2018,217,3.4,86,Documentary
+Falling for You,2018,360,3.1,84,"Romance, TV Movie, Comedy"
+Soldier Millions,2018,436,3.2,85,"War, Drama"
+King of Boys,2018,237,3.4,169,Drama
+Swiped: Hooking Up in the Digital Age,2018,391,3.1,82,Documentary
+Graves Without a Name,2018,215,3.4,115,Documentary
+Debi,2018,612,3.3,107,"Mystery, Drama"
+Hattrick,2018,717,2.6,92,"Thriller, Drama"
+Aurora Teagarden Mysteries: The Disappearing Game,2018,410,3.1,83,"TV Movie, Crime, Drama"
+Victory Day,2018,358,3.3,94,Documentary
+Reap What You Sew: An Aurora Teagarden Mystery,2018,402,3.1,84,"Mystery, Drama, Crime"
+Before Someone Gets Hurt,2018,435,2.5,86,Horror
+The Hoard,2018,292,3.1,99,"Horror, Comedy"
+Babysitter’s Nightmare,2018,456,2.6,90,"TV Movie, Thriller"
+Todd Glass: Act Happy,2018,422,3.3,62,Comedy
+Scotch: A Golden Dream,2018,427,3.4,87,Documentary
+Intrigo: Death of an Author,2018,430,3.0,106,"Thriller, Drama, Mystery"
+Funny Girl,2018,234,3.5,142,Music
+Sultan Agung,2018,483,3.3,148,History
+Design Canada,2018,247,3.6,74,Documentary
+Detective K: Secret of the Living Dead,2018,483,3.0,120,"Comedy, Mystery, Crime"
+The Chalet,2018,473,3.4,312,"Crime, Mystery, Drama"
+Ballet Now,2018,332,3.4,74,Documentary
+Naal,2018,327,3.5,117,Drama
+Poomaram,2018,572,3.1,152,Music
+Maya the Bee: The Honey Games,2018,409,3.0,85,"Comedy, Adventure, Animation"
+Harmony,2018,375,3.0,97,"Romance, Science Fiction, Thriller"
+Until Porn Do Us Part,2018,295,3.6,90,Documentary
+Queen,2018,683,3.0,160,Drama
+The Night of Hana and Sorour,2018,690,2.6,99,Comedy
+Playing Hard,2018,510,3.2,91,Documentary
+Sune vs Sune,2018,615,3.2,89,"Comedy, Fantasy, Family"
+Elsewhere - Alone in Africa,2018,527,3.4,103,Documentary
+Oru Nalla Naal Paathu Solren,2018,714,2.8,148,"Action, Comedy, Adventure"
+The Parachute Murder Plot,2018,484,2.9,46,Documentary
+Battle Drone,2018,414,2.7,93,"Science Fiction, High Speed And Special Ops, Explosive And Action-Packed Heroes Vs. Villains"
+Blinded by the Lights,2018,495,3.7,440,"Drama, Crime"
+Rent a Friend,2018,201,3.3,79,"Drama, Romance"
+Christmas on Holly Lane,2018,371,3.0,90,"Drama, Romance, TV Movie"
+Ragged Life of Juice Leskinen,2018,570,3.3,105,"Music, Drama"
+Homegrown Christmas,2018,301,2.9,90,"TV Movie, Drama, Romance"
+Walk Like a Panther,2018,359,2.9,108,Comedy
+Dokgo Rewind,2018,346,3.3,200,"Crime, Drama"
+My Step Dad: The Hippie,2018,665,2.7,99,Comedy
+Brothers in Arms,2018,338,3.5,100,Documentary
+Love on the Slopes,2018,415,2.9,84,"TV Movie, Comedy, Romance"
+Tomb Invader,2018,329,2.5,83,"Adventure, Action, TV Movie"
+A Boy. A Girl. A Dream,2018,224,3.0,89,Romance
+Naachiyaar,2018,604,3.1,100,"Thriller, Crime"
+Azali,2018,294,3.1,92,Drama
+In Search of Greatness,2018,313,3.4,80,Documentary
+Echoes of Fear,2018,408,2.9,90,Horror
+The Last Empress,2018,472,3.5,1820,"Drama, Mystery"
+King Petar the First,2018,401,3.4,125,"History, Drama, War"
+The Full House,2018,632,2.8,105,Comedy
+Jalebi,2018,528,3.0,112,"Drama, Romance"
+Flaming,2018,729,3.0,97,Drama
+The Satanic Nun,2018,336,2.6,91,"Thriller, Horror"
+To. Jenny,2018,283,3.5,120,Comedy
+Encounter,2018,401,2.7,82,"Science Fiction, Drama, Monsters"
+Fly By Night,2018,335,3.4,101,"Mystery, Action, Thriller"
+Micin Generation vs Kevin,2018,674,2.9,88,"Drama, Comedy"
+Puppy Star Christmas,2018,315,2.7,90,"Music, Family, Comedy"
+Mob Psycho 100,2018,355,3.8,170,"Comedy, Action"
+Crayon Shin-chan: Burst Serving! Kung Fu Boys ~Ramen Rebellion~,2018,411,3.3,104,"Animation, Comedy, Adventure"
+Manu,2018,370,3.4,182,"Mystery, Romance, Thriller"
+Sandakozhi 2,2018,729,2.8,149,"Family, Action, Romance"
+Royally Ever After,2018,350,2.9,84,"Comedy, TV Movie, Romance"
+Les Déguns,2018,634,2.6,92,Comedy
+Alien Crystal Palace,2018,200,2.7,97,Music
+Night of Knots,2018,626,2.8,100,Comedy
+Go Brother!,2018,437,3.2,113,"Drama, Comedy"
+Hard-Core,2018,273,3.2,124,"Comedy, Drama"
+We Need Your Vote,2018,549,3.0,93,Comedy
+President Evil,2018,259,2.7,81,Horror
+Fly By Night,2018,335,3.4,101,"Mystery, Crime, Action"
+Micin Generation vs Kevin,2018,676,2.9,88,"Drama, Comedy"
+Puppy Star Christmas,2018,316,2.7,90,"Music, Family, Comedy"
+Mob Psycho 100,2018,356,3.8,170,"Comedy, Action"
+Crayon Shin-chan: Burst Serving! Kung Fu Boys ~Ramen Rebellion~,2018,412,3.3,104,"Animation, Comedy, Adventure"
+Manu,2018,371,3.4,182,"Mystery, Romance, Thriller"
+Sandakozhi 2,2018,730,2.8,149,"Family, Action, Romance"
+Les Déguns,2018,637,2.6,92,Comedy
+Royally Ever After,2018,350,2.9,84,"TV Movie, Romance, Drama"
+Alien Crystal Palace,2018,202,2.7,97,Music
+Night of Knots,2018,628,2.8,100,Comedy
+Go Brother!,2018,439,3.2,113,"Drama, Comedy"
+Hard-Core,2018,272,3.2,124,"Comedy, Drama"
+We Need Your Vote,2018,552,3.0,93,Comedy
+President Evil,2018,261,2.7,81,Horror
+Playing Hard,2018,478,3.2,88,Drama
+"Sincerely Yours, Dhaka",2018,322,3.3,134,Drama
+The Wedding,2018,395,2.9,115,"Drama, Romance"
+Skull-face Bookseller Honda-san,2018,305,3.5,144,"Comedy, Animation"
+Reza,2018,510,3.1,94,"Comedy, Romance, Drama"
+Stray,2018,222,3.3,104,Drama
+Antariksham 9000 KMPH,2018,620,3.0,140,"Science Fiction, Thriller"
+A Christmas for the Books,2018,254,2.9,90,"Romance, TV Movie"
+Rock Steady Row,2018,225,3.2,78,Drama
+Blonde Animals,2018,239,3.3,100,"Crime, Comedy, Drama"
+Lola and Her Brothers,2018,472,3.3,105,Comedy
+Affairs of State,2018,276,2.8,98,"Drama, Romance, Thriller"
+Nazi Overlord,2018,260,2.5,88,"Mystery, Action, Horror"
+The Mayo Clinic,2018,254,3.5,115,Documentary
+The Truth About Killer Robots,2018,344,3.1,85,Documentary
+The Whispering,2018,259,2.9,91,"Mystery, Horror"
+Teddy Pendergrass: If You Don’t Know Me,2018,314,3.5,0,"Documentary, Music"
+Don’t Cry for Me England,2018,336,3.1,103,"History, Comedy"
+Paper Flags,2018,235,3.5,102,Drama
+Deadsight,2018,319,2.8,89,Horror
+Anonymous 616,2018,302,2.9,80,"Horror, Thriller"
+IMPOSSIBILITY DEFENSE,2018,307,3.1,106,"Mystery, Fantasy, Crime"
+Lock-On Love,2018,312,3.1,95,"Comedy, Romance"
+Buttons,2018,222,2.8,87,"Family, Drama, Music"
+VS.,2018,404,3.2,100,"Drama, Music"
+Letter from Masanjia,2018,258,3.6,76,Documentary
+Made in Italy,2018,511,3.0,100,"Comedy, Romance"
+Twinsanity,2018,370,2.6,85,"Thriller, Horror, TV Movie"
+Rise of the Superheroes,2018,388,3.3,117,Documentary
+Lonesome Collectors,2018,291,3.2,78,"Drama, Romance"
+Helicopter Eela,2018,505,3.0,131,Drama
+Feng Shui,2018,442,3.1,126,"Drama, History"
+Buddy,2018,227,3.5,86,Documentary
+The Patient,2018,402,3.1,100,"History, Drama"
+Love and Fortune,2018,389,3.1,288,Drama
+"You, I Love",2018,367,2.7,100,"Drama, Romance, Comedy"
+Don’t Be Embarassed,2018,718,2.0,89,"Comedy, Drama"
+Devil’s Path,2018,247,2.9,88,"Horror, Thriller, Drama"
+The Gardener,2018,267,3.4,85,Documentary
+Eat Me,2018,232,3.1,95,"Thriller, Drama"
+The Real Estate,2018,337,3.1,88,Drama
+The Wrong Teacher,2018,260,2.8,85,"TV Movie, Drama"
+Srinivasa Kalyanam,2018,632,2.8,140,"Family, Drama"
+700 Sharks,2018,331,3.4,92,Documentary
+Let Me Introduce You To Sofia,2018,591,3.0,98,Comedy
+Mr. & Mrs. Cruz,2018,443,3.1,116,"Drama, Romance"
+DRAGON PILOT: Hisone and Masotan,2018,318,3.5,288,"Drama, Animation"
+Captain,2018,568,3.2,144,Drama
+KSI: Can’t Lose,2018,484,3.1,65,Documentary
+Mary Poppins Returns: Behind the Magic,2018,349,3.4,43,Documentary
+Reconstructing Utøya,2018,306,3.5,91,Documentary
+Demi-sœurs,2018,512,3.0,100,Comedy
+The Last Witness,2018,305,3.0,97,"History, Thriller"
+A Man Called Ahok,2018,456,3.2,102,"History, Drama, Faith And Religion"
+An Actor Prepares,2018,287,3.0,97,"Drama, Comedy"
+Undertow,2018,267,3.2,90,"Drama, Thriller"
+Xiao Mei,2018,350,3.3,95,"Mystery, Drama"
+Cronofobia,2018,233,3.4,94,Drama
+Bikes,2018,246,2.6,92,"Animation, Family, Adventure"
+"Love, of Course",2018,260,3.1,84,"Romance, TV Movie, Drama"
+Glorious,2018,422,2.9,107,"Drama, Romance"
+Marrying Mr. Darcy,2018,310,2.8,90,"TV Movie, Comedy, Romance"
+Water Lilies by Monet,2018,234,3.4,94,Documentary
+Bayou Caviar,2018,296,2.7,111,"Crime, Thriller"
+Salvador Dalí: In Search of Immortality,2018,234,3.5,110,Documentary
+God Bless the Broken Road,2018,328,2.8,111,"Drama, Family, Romance"
+Growing Up,2018,464,2.7,96,"Romance, Comedy"
+5th Passenger,2018,314,2.7,89,"TV Movie, Science Fiction, Monsters"
+The Executioners,2018,325,2.6,92,"Horror, Thriller"
+Jam,2018,242,3.4,104,"Thriller, Comedy, Crime"
+Kemper on Kemper: Inside the Mind of a Serial Killer,2018,295,3.4,120,"Crime, Documentary"
+Sakawa,2018,267,3.5,81,Documentary
+Dressage,2018,524,2.5,88,Drama
+50 First Kisses,2018,370,3.2,114,Romance
+Eugenio,2018,440,3.4,93,Documentary
+Jack White: Kneeling At The Anthem D.C.,2018,364,3.5,52,"Documentary, Music"
+Menocchio the Heretic,2018,282,3.3,103,"Drama, History"
+ReLIFE: Kanketsu-hen,2018,463,3.6,96,Animation
+Folklore: Pob,2018,277,3.3,59,"TV Movie, Horror"
+Sara,2018,318,3.8,320,Comedy
+Crazy About Work,2018,519,2.5,92,Comedy
+Skeletons in the Closet,2018,288,2.9,82,Horror
+The Clinton Affair,2018,304,3.6,270,Documentary
+This Is Not a Coup,2018,301,3.5,120,Documentary
+West of Hell,2018,237,2.7,80,"Western, Fantasy, Horror"
+Who Will Write Our History?,2018,208,3.5,95,"History, War, Drama"
+Pumpkins,2018,276,2.5,80,Horror
+Diary of My Mind,2018,245,3.4,70,"Drama, Crime"
+Tada Never Falls in Love,2018,329,3.4,312,"Drama, Comedy, Animation"
+Jirga,2018,221,3.3,78,"Drama, War"
+"My Secret, Terrius",2018,393,3.4,960,"Comedy, Mystery"
+Jamilia,2018,215,3.5,84,Documentary
+Love at Sea,2018,306,2.9,80,"TV Movie, Romance"
+You Are Here: A Come From Away Story,2018,241,3.7,84,"Documentary, Music"
+Kill Ben Lyk,2018,318,2.9,80,"Comedy, Thriller, Crime"
+Snake,2018,217,3.0,80,"Horror, Adventure"
+Mojin: The Worm Valley,2018,265,2.9,110,"Adventure, Fantasy, Action"
+What Men Talk About 3,2018,579,3.1,99,Comedy
+Si Doel the Movie,2018,522,3.2,85,"Drama, Comedy, Romance"
+Vespiary,2018,644,1.7,90,"Family, Comedy"
+Pretham 2,2018,587,2.7,132,"Comedy, Horror"
+The Aspern Papers,2018,231,2.8,90,Drama
+Game Changers,2018,255,3.4,96,Documentary
+A Wizard’s Tale,2018,319,2.7,97,"Fantasy, Comedy, Animation"
+Comic Sans,2018,342,3.4,103,"Drama, Comedy, Family"
+The Perfect Husband,2018,597,2.9,108,"Romance, Drama"
+National Theatre Live: Barber Shop Chronicles,2018,306,3.7,120,"Comedy, Drama"
+Qismat,2018,406,3.4,140,"Drama, Comedy, Romance"
+The Night She Moves,2018,312,3.4,85,No genres available
+Cobain,2018,210,3.3,94,Drama
+In Family We Trust,2018,431,3.6,1080,"Mystery, Drama"
+Misty,2018,278,3.6,1890,"Drama, Crime, Mystery"
+Club de Cuervos Presents: The Ballad of Hugo Sánchez,2018,498,3.4,180,Comedy
+Psycho Prom Queen,2018,302,2.9,85,"TV Movie, Thriller"
+Three Heroes: The Heiress to the Throne,2018,519,3.1,90,"Family, Animation"
+Woodpecker,2018,617,2.3,90,Drama
+Iron Cowboy: The Story of the 50.50.50 Triathlon,2018,437,3.2,76,Documentary
+Rush Hour,2018,274,3.3,90,Documentary
+Todo lo que sería Lucas Lauriente,2018,444,3.5,78,Comedy
+My Friend “A”,2018,207,3.3,129,"Drama, Thriller, Crime"
+Needi Naadi Oke Katha,2018,425,3.4,122,"Family, Drama"
+Dead Man’s Line,2018,253,3.5,108,Documentary
+In the Game,2018,595,3.0,85,Comedy
+When We Were Young,2018,345,3.6,1080,"Comedy, Drama"
+Se son rose…,2018,580,2.9,86,Comedy
+Last Vermont Christmas,2018,258,3.0,90,"Romance, Drama, TV Movie"
+Jefe,2018,446,2.9,89,Comedy
+All Mixed Up,2018,663,2.6,96,Comedy
+The Lake Vampire,2018,235,3.3,102,"Horror, Crime, Mystery"
+A City Called Macau,2018,227,3.1,127,"Drama, Romance"
+Seau,2018,382,3.5,90,Documentary
+Bon Bini Holland 2,2018,510,3.0,88,Comedy
+Story of Yanxi Palace,2018,345,3.6,3150,Drama
+Les Unwanted de Europa,2018,223,3.3,111,"History, Drama"
+The Footballest,2018,501,2.8,104,Comedy
+Saf,2018,332,3.3,102,Drama
+Loud Krazy Love,2018,242,3.5,87,"Music, Documentary"
+Memory Games,2018,365,3.4,85,Documentary
+Fabiana,2018,222,3.4,89,Documentary
+The Fight,2018,210,3.3,91,"Comedy, Drama"
+Voodoo Apocalypse,2018,250,3.1,95,"Horror, Comedy, Fantasy"
+The Pluto Moment,2018,232,3.3,110,Drama
+The Flood,2018,280,3.5,88,"Documentary, TV Movie"
+Beautiful Days,2018,226,3.2,104,Drama
+Pearl in Paradise,2018,291,3.2,80,"Romance, TV Movie"
+Anne,2018,299,3.2,80,Horror
+Old Lord Savanna,2018,355,3.6,96,Documentary
+Missing,2018,432,3.0,120,"Thriller, Mystery"
+Swimming,2018,222,3.2,101,Drama
+Runaway Romance,2018,367,2.8,90,"TV Movie, Romance"
+Bully,2018,372,2.9,83,Comedy
+What a Wonderful Family! 3,2018,281,3.5,123,"Drama, Comedy"
+Pledges,2018,205,2.6,77,"Horror, Comedy"
+Kuya Wes,2018,317,3.3,90,"Comedy, Drama"
+A.I.C.O. -Incarnation-,2018,382,3.2,300,Animation
+The Parting Glass,2018,210,3.3,95,Drama
+All Inclusive,2018,397,3.1,88,"Romance, Comedy"
+Parkland: Inside Building 12,2018,325,3.3,119,Documentary
+Wildwitch,2018,360,3.0,97,"Fantasy, Family"
+The Heart,2018,334,3.4,100,Drama
+The House Where the Mermaid Sleeps,2018,256,3.3,120,Drama
+Carga,2018,342,3.0,113,Drama
+Death Zone: Cleaning Mount Everest,2018,264,3.5,101,Documentary
+The Ponds,2018,354,3.4,76,Documentary
+"Yes, I Do",2018,273,2.9,90,"Romance, TV Movie"
+What Have We Done to Deserve This?,2018,423,3.0,90,Comedy
+Kiss & Tell,2018,447,3.1,88,"Drama, Comedy"
+The City and the City,2018,219,3.3,240,"Drama, Crime"
+Carlos Ballarta: furia ñera,2018,480,3.4,62,Comedy
+Alex & Me,2018,354,2.9,76,Family
+For the Birds,2018,229,3.5,92,Documentary
+Top Management,2018,276,3.1,480,Drama
+Lost,2018,398,2.8,90,"Horror, Thriller"
+The Fall of Sparta,2018,360,3.0,93,"Drama, Comedy"
+Intimate Strangers,2018,348,3.1,110,Drama
+Cooking with Love,2018,264,3.1,84,"Comedy, Romance, TV Movie"
+The Rejected,2018,260,2.7,63,Horror
+Moromete Family: On the Edge of Time,2018,359,3.4,110,Drama
+Laugh or Die,2018,400,3.4,103,"War, History, Drama"
+All of My Heart: The Wedding,2018,267,3.2,84,"TV Movie, Romance"
+The Butler,2018,453,3.2,142,"Romance, History, Drama"
+Thomas & Friends: Big World! Big Adventures! The Movie,2018,357,2.7,80,"Animation, Family, Adventure"
+Pup Star: World Tour,2018,299,2.8,87,"Music, Family, Comedy"
+Pitbull. Last Dog,2018,510,3.2,124,"Action, Crime"
+Kittie: Origins/Evolutions,2018,295,3.4,94,Documentary
+Fary Is the New Black,2018,453,3.3,74,Comedy
+This Mountain Life,2018,315,3.5,77,Documentary
+Amar Akbar Anthony,2018,580,2.6,153,"Drama, Action"
+Still Recording,2018,232,3.6,116,Documentary
+Jodi Arias: An American Murder Mystery,2018,286,3.3,126,Crime
+Turtle Odyssey,2018,282,3.4,45,Documentary
+Ploey: You Never Fly Alone,2018,325,2.9,83,"Animation, Family"
+The Blessed,2018,227,3.5,103,"Animation, Horror, Drama"
+Unbridled,2018,396,3.0,96,Thriller
+Notes from the Field,2018,204,3.7,90,"Drama, TV Movie"
+Heavily in Love!,2018,464,2.9,82,"Romance, Comedy"
+Whore and Beloved,2018,221,3.3,62,Comedy
+Doing Money,2018,210,3.3,90,"TV Movie, Crime, Drama"
+Diana,2018,236,3.0,101,"Drama, Mystery"
+Amin,2018,229,3.3,91,Drama
+You Die,2018,295,2.8,94,"Horror, Thriller, Drama"
+Quietness,2018,292,3.2,98,Drama
+Starving Generation,2018,313,2.8,95,Comedy
+Memoirs of a Man in Pajamas,2018,268,3.0,72,"Comedy, Animation"
+The Sweetest Heart,2018,302,3.0,90,"Romance, TV Movie"
+Memories of Christmas,2018,204,2.9,84,"Drama, TV Movie, Romance"
+It’s a Hard Truth Ain’t It,2018,202,3.5,75,"Documentary, Animation"
+Slam,2018,239,3.3,116,Drama
+Hornet,2018,200,2.7,85,"Action, Adventure, Science Fiction"
+Finding Farideh,2018,261,3.5,86,"Documentary, Drama"
+Blood Brother,2018,329,2.8,90,"Action, Drama, Crime"
+Gatao 2: Rise of the King,2018,403,3.2,127,"Crime, Drama, Action"
+Strangeways Here We Come,2018,363,2.9,86,"Crime, Comedy"
+Spiele mit Bart: The Movie ft. Night Trap,2018,415,3.7,147,"Comedy, Mystery"
+The Mover,2018,269,3.4,87,"Drama, History"
+Royal Hearts,2018,290,2.9,84,"Romance, TV Movie"
+Alpha: The Right to Kill,2018,335,3.2,94,Crime
+Missions of Love,2018,292,2.9,96,"Romance, Comedy"
+"Kokkoku, Moment by Moment",2018,275,3.4,288,"Drama, Mystery, Animation"
+Another Version of You,2018,299,3.1,96,"Romance, Fantasy, Adventure"
+Não se Aceitam Devoluções,2018,473,2.9,99,Comedy
+First Love,2018,362,3.0,122,"Drama, Romance"
+Aliens Ate My Homework,2018,266,2.6,90,"Comedy, Family, Adventure"
+Suicide Club,2018,299,2.6,90,Thriller
+Kamen Rider Amazons The Movie: The Final Judgment,2018,248,3.2,101,"Action, Horror, Mystery"
+A Christmas in Royal Fashion,2018,249,2.7,90,"TV Movie, Romance, Drama"
+RSC Live: Macbeth,2018,246,3.3,123,Drama
+Bipolar Rock ’N Roller,2018,319,3.5,70,"Documentary, TV Movie"
+The Third Charm,2018,291,3.2,1440,Drama
+The Outsiders,2018,314,3.2,119,"Romance, Drama"
+Adelaide,2018,326,2.8,102,"Crime, Mystery, Drama"
+Indivisible,2018,230,3.1,119,"Drama, War"
+Il vegetale,2018,546,2.8,84,Comedy
+Titixe,2018,200,3.5,62,Documentary
+"I, Potro",2018,434,3.2,50,"TV Movie, Comedy"
+"Help, I Shrunk My Parents",2018,468,2.7,90,"Family, Adventure, Comedy"
+Dirt,2018,374,3.1,102,"Drama, Action"
+Dark Buildings (A Crack in the Wall),2018,398,3.1,94,"Thriller, Mystery, Drama"
+Dantza,2018,238,3.5,90,"Drama, Music"
+The Snow Queen: Mirror Lands,2018,283,3.0,87,"Animation, Adventure, Fantasy"
+Oru Kuprasidha Payyan,2018,474,3.1,145,"Mystery, Thriller"
+To Catch a Serial Killer with Trevor McDonald,2018,344,3.1,46,"Documentary, Crime"
+"Kilian Jornet, Path to Everest",2018,329,3.5,84,Documentary
+Blood Clots,2018,231,3.0,72,Horror
+Mulshi Pattern,2018,330,3.5,155,No genres available
+"Happier Times, Grump",2018,376,3.4,118,"Drama, Comedy"
+The Nursery,2018,328,2.6,88,"Horror, Thriller"
+Hantu Kak Limah,2018,346,3.1,111,"Comedy, Horror"
+Iruttu Araiyil Murattu Kuthu,2018,480,2.6,118,"Horror, Comedy"
+The Innocent,2018,230,3.3,114,Drama
+Stay With Me,2018,441,2.8,105,"Romance, Drama"
+National Theatre Live: The Madness of George III,2018,297,3.6,132,"Drama, History"
+Beached Tuna,2018,511,2.8,89,Comedy
+Alien Predator,2018,245,2.5,87,"Horror, Science Fiction, Action"
+X - The eXploited,2018,361,3.2,111,"Crime, Thriller"
+The Donkey King,2018,283,2.9,85,"Family, Animation, Comedy"
+Does the Flower Bloom?,2018,232,3.1,88,"Romance, Drama"
+Sly,2018,564,1.7,90,"Drama, Comedy"
+The Terrible Two,2018,255,2.5,84,Horror
+Invisible Essence: The Little Prince,2018,209,3.5,90,Documentary
+Alpha Wolf,2018,218,2.8,90,"Thriller, Horror"
+Home by Spring,2018,258,2.9,90,"Drama, TV Movie, Romance"
+Wild Honey Pie!,2018,201,3.0,88,"Drama, Comedy"
+Real Girl,2018,284,3.1,114,Romance
+M.,2018,223,3.5,52,Documentary
+Love in Design,2018,294,3.0,90,"Romance, TV Movie, Comedy"
+I Am Maris: Portrait of a Young Yogi,2018,229,3.4,52,Documentary
+Twiceland,2018,228,3.8,109,"Documentary, Music"
+The Guard of Auschwitz,2018,317,2.7,87,"Drama, War, Thriller"
+A Better Tomorrow,2018,232,2.9,114,Action
+Obey,2018,233,3.3,96,Drama
+Bill Maher: Live From Oklahoma,2018,294,3.2,65,Comedy
+A Banana? At This Time of Night?,2018,238,3.3,120,Comedy
+A Poem A Day,2018,258,3.4,960,"Comedy, Drama"
+Packing Heavy,2018,228,3.3,65,Drama
+How to Train Your Husband,2018,256,2.7,85,"Romance, Comedy, TV Movie"
+The Truth About Christmas,2018,231,3.1,120,"Comedy, Drama, TV Movie"
+Catskill Park,2018,215,2.7,93,"Science Fiction, Horror"
+Njan Marykutty,2018,378,3.2,126,Drama
+Haikara-san: Here Comes Miss Modern Part 2,2018,240,3.2,105,"Animation, Comedy, Romance"
+Breathe,2018,435,3.5,316,"Drama, Crime, Thrillers And Murder Mysteries"
+The Harvesting,2018,294,2.6,91,"Thriller, Horror"
+What the Future Holds,2018,273,3.6,300,Drama
+There Will Come Soft Rains,2018,214,3.2,81,No genres available
+Out,2018,274,3.4,63,Documentary
+In Between,2018,309,3.4,65,"Comedy, Drama"
+Always Amazing,2018,300,3.4,75,Documentary
+The Saint Bernard Syndicate,2018,239,3.3,95,Comedy
+Something In Between,2018,481,3.1,100,"Drama, Romance"
+Uma,2018,449,3.3,149,No genres available
+Best Intentions,2018,341,3.1,100,"Drama, Comedy"
+Brillantissime,2018,407,2.8,95,Comedy
+Stieg Larsson: The Man Who Played with Fire,2018,230,3.5,95,Documentary
+Adoniran - Meu Nome é João Rubinato,2018,262,3.5,92,Documentary
+The Grand Ball,2018,233,3.5,95,Documentary
+Ghajinikanth,2018,558,2.9,147,"Family, Romance, Comedy"
+The Green Lie,2018,303,3.3,97,Documentary
+A Majestic Christmas,2018,202,3.0,90,"Drama, Comedy, Romance"
+The Wrong Son,2018,308,2.9,85,"Thriller, TV Movie"
+Gulaebaghavali,2018,550,2.9,129,"Romance, Comedy"
+American Kamasutra,2018,261,2.5,88,"Drama, Romance"
+Another Time,2018,243,2.7,89,"Drama, Science Fiction, Comedy"
+End of the World,2018,246,2.6,88,"Action, Science Fiction, Adventure"
+Rock Band,2018,300,3.3,94,"Drama, Adventure, Comedy"
+The Chaotic Life of Nada Kadic,2018,216,3.3,85,Drama
+Air,2018,239,3.4,72,Drama
+So Connected,2018,359,3.0,111,Romance
+Cinderella and the Secret Prince,2018,209,2.7,90,"Fantasy, Family, Animation"
+That’s Life,2018,420,2.7,95,"Drama, Comedy"
+Rootwood,2018,224,2.6,83,"Thriller, Mystery, Horror"
+Diya,2018,417,2.9,160,"Horror, Thriller, Romance"
+The Last Six Degrees of Celebration,2018,447,2.8,96,Comedy
+Heartbound,2018,206,3.5,90,Documentary
+Love Blooms,2018,201,3.1,85,"Drama, Romance"
+Homo Novus,2018,350,3.4,122,"Comedy, Romance"
+Guardian,2018,233,3.6,1800,"Crime, Mystery"
+Emma Peeters,2018,279,3.3,90,Comedy
+Shailaja Reddy Alludu,2018,541,2.7,148,"Comedy, Drama"
+"Truth and Lies: Jonestown, Paradise Lost",2018,248,3.4,82,"Crime, Documentary, History"
+Partikelir,2018,455,2.9,97,"Action, Comedy"
+F.R.E.D.I.,2018,274,2.8,89,"Family, Science Fiction, Adventure"
+Ek Je Chhilo Raja,2018,432,3.3,147,"Mystery, Thriller"
+Love at First Dance,2018,272,3.0,84,"Romance, TV Movie"
+Off the Menu,2018,296,2.9,96,"Comedy, Romance"
+Khun Pan 2,2018,391,3.2,130,"Action, Fantasy"
+10 Seconds to Win,2018,352,3.3,122,"Drama, History"
+Strike,2018,202,3.4,95,"Animation, Comedy, Family"
+Good Doctor,2018,286,3.6,500,"Drama, Family"
+Don’t Call Me Spinster,2018,401,2.9,111,Comedy
+Phantom Owl Forest,2018,313,3.4,90,Family
+Kwon Ji Yong (권지용) Act III: Motte,2018,228,3.7,86,"Documentary, Music"
+Ditte & Louise,2018,365,3.4,90,Comedy
+Fate/Extra Last Encore,2018,346,3.2,250,Animation
+Loveyatri,2018,419,2.8,140,"Music, Drama, Comedy"
+Asylum of Fear,2018,260,2.6,79,"Thriller, Horror, Mystery"
+Late Life: The Chien-Ming Wang Story,2018,308,3.5,97,Documentary
+Men on the Dragon,2018,325,3.3,97,"Comedy, Drama"
+Wackersdorf,2018,381,3.4,120,"Drama, History"
+You Drive Me Crazy,2018,260,3.4,140,"Comedy, Drama"
+Virgins,2018,200,3.3,90,Drama
+What Happened to the Bees?,2018,234,3.5,70,Documentary
+Maelstrom: The Odyssey of Waterworld,2018,204,3.4,102,Documentary
+The Bit Player,2018,221,3.5,85,Documentary
+The Vertical Line,2018,253,3.6,200,Drama
+Wuff,2018,372,2.8,114,Comedy
+I Wanted to Find You,2018,365,2.8,98,"Romance, Comedy"
+Aa Karaala Ratri,2018,332,3.4,105,Thriller
+The Legend of Muay Thai: 9 Satra,2018,358,3.3,110,"Adventure, Animation, Action"
+Bécassine !,2018,349,3.1,102,Comedy
+Hotel Gagarin,2018,360,3.1,94,Comedy
+Europe Raiders,2018,235,2.8,101,"Action, Thriller, Adventure"
+Jan Palach,2018,291,3.3,124,Drama
+Dead in the Water,2018,234,2.9,85,"TV Movie, Thriller"
+Lakshmi,2018,468,3.0,130,"Comedy, Drama, Family"
+Zabardast,2018,275,3.7,54,Documentary
+Santa’s Boots,2018,211,2.9,80,"Romance, TV Movie, Family"
+Warning Shot,2018,216,2.9,90,"Thriller, Drama"
+Tankers,2018,320,3.1,90,"War, Drama, History"
+Is This Love?,2018,386,2.6,103,"Romance, Drama, Comedy"
+Jailangkung 2,2018,392,2.7,83,Horror
+Instakiller,2018,244,2.7,89,"Thriller, TV Movie"
+"Com a Palavra, Arnaldo Antunes",2018,316,3.6,80,Documentary
+Boarding School Juliet,2018,284,3.3,288,"Comedy, Drama, Animation"
+H. H. Holmes: Original Evil,2018,271,2.5,65,Documentary
+The Tolstoy Defence,2018,330,3.3,112,Drama
+New Order: Decades,2018,262,3.4,88,"Music, Documentary"
+Nailed,2018,228,3.3,96,"Comedy, Crime"
+Sofía Niño de Rivera: Natural Selection,2018,371,3.2,61,Comedy
+A Twist of Christmas,2018,202,3.0,87,"Family, TV Movie, Romance"
+Entrusted,2018,362,2.7,145,"Thriller, Drama"
+A Polar Year,2018,284,3.3,94,"Adventure, Drama"
+El club de los buenos infieles,2018,377,3.0,90,Comedy
+Sprinter,2018,228,3.3,114,Drama
+Kung Fu League,2018,238,2.9,102,"Action, Comedy"
+Kulenkampffs Schuhe,2018,262,3.7,92,Documentary
+Hushaaru,2018,436,3.2,140,Comedy
+My Name Is Thomas,2018,341,2.8,100,Drama
+1921,2018,256,2.7,144,"Thriller, Horror"
+Running for Good: The Fiona Oakes Documentary,2018,273,3.5,74,Documentary
+Carpool Karaoke: When Corden Met McCartney Live From Liverpool,2018,305,3.6,43,"Documentary, Music"
+Jaga Pocong,2018,262,3.0,83,Horror
+Wild Amsterdam,2018,315,3.3,85,Documentary
+The Wild Fields,2018,284,3.3,120,"Comedy, Drama, Adventure"
+Skjold & Isabel,2018,285,3.6,66,Documentary
+Scandal: The Trial of Mary Astor,2018,259,3.3,62,Documentary
+The Way to Mandalay,2018,375,3.3,109,Drama
+Chief Daddy,2018,254,3.1,98,"Drama, Comedy"
+Aleksi,2018,250,3.2,90,Drama
+The Young Fan,2018,297,3.4,90,No genres available
+Alien Invasion,2018,210,2.6,82,"Comedy, Science Fiction, Horror"
+Komola Rocket,2018,314,3.4,95,Drama
+D.L. Hughley: Contrarian,2018,291,3.3,58,"Documentary, Comedy, TV Movie"
+Leal,2018,343,2.9,107,"Drama, Action, Crime"
+My Little Big Man,2018,384,2.6,98,Comedy
+Il tuttofare,2018,385,3.2,96,Comedy
+Tutte le mie notti,2018,297,2.9,81,"Thriller, Drama"
+"Arif V 216: They Made It, But How?",2018,374,3.3,106,Documentary
+Rafinha Bastos: Ultimatum,2018,403,3.2,62,Comedy
+Path of Blood,2018,214,3.5,92,Documentary
+The Eugenics Crusade,2018,230,3.5,114,Documentary
+Mission to the Sun,2018,244,3.2,44,Documentary
+Katheyondu Shuruvagide,2018,264,3.3,145,"Romance, Comedy"
+Kikoriki. Deja Vu,2018,338,3.3,85,"Comedy, Family, Animation"
+Beck 35 - Your Own Blood,2018,369,3.2,90,"Mystery, Crime, Drama"
+"Very, Very, Valentine",2018,242,3.1,84,"TV Movie, Romance"
+"Truly, Madly, Sweetly",2018,238,3.0,85,"Romance, TV Movie"
+Weed the People,2018,240,3.3,98,Documentary
+Kevin Bridges: The Brand New Tour - Live,2018,321,3.6,85,Comedy
+The Dark Room,2018,404,2.4,90,Drama
+As Needed,2018,308,3.2,92,Comedy
+Odds Are,2018,291,2.7,102,Thriller
+Tagaru,2018,335,3.4,129,Action
+Breath of Life,2018,237,3.3,93,Drama
+Brampton’s Own,2018,307,2.8,89,Drama
+Wheely,2018,208,2.7,90,"Adventure, Comedy, Animation"
+Offering,2018,357,2.6,92,"Mystery, Horror"
+Starbucks Unfiltered,2018,361,3.4,94,Documentary
+Open,2018,381,3.2,98,Comedy
+The Red Collar,2018,298,3.2,83,Drama
+House of Deadly Secrets,2018,268,2.8,86,"Thriller, TV Movie"
+Chivas: The Movie,2018,299,3.6,111,Documentary
+My Mother Is Crazy,2018,288,2.9,95,Comedy
+Vanjagar Ulagam,2018,288,3.2,161,"Action, Thriller, Crime"
+Pearl,2018,244,3.2,82,Drama
+Alles Isy,2018,270,3.2,89,"Drama, TV Movie"
+Beck 36 - The Thin Ice,2018,361,3.2,90,"Crime, Thriller, Drama"
+Unbanned: The Legend of AJ1,2018,203,3.4,90,Documentary
+Every Other Holiday,2018,204,3.2,89,"Romance, TV Movie, Drama"
+All You Need Is Love,2018,302,3.0,112,"Comedy, Romance"
+Unli Life,2018,295,3.0,95,"Comedy, Fantasy, Adventure"
+Better Start Running,2018,200,3.0,93,"Drama, Comedy"
+The Man Who Stole Banksy,2018,225,3.3,90,Documentary
+Winter of The Braves,2018,260,3.1,110,"War, History, Drama"
+Planet of the Birds,2018,224,3.3,44,Documentary
+Operation Ragnarok,2018,238,2.7,99,"Drama, Action, Horror"
+Chacun pour tous,2018,354,3.2,94,Comedy
+Ride,2018,265,3.3,90,Drama
+4N1K 2,2018,359,2.7,100,"Comedy, Romance"
+Lajko: Gypsy in Space,2018,326,3.2,90,Comedy
+Finding Big Country,2018,232,3.6,44,Documentary
+Vermin,2018,344,3.7,0,No genres available
+Doris,2018,326,3.2,89,"Drama, Comedy"
+Yamla Pagla Deewana: Phir Se,2018,420,2.6,147,"Drama, Comedy"
+Coureur,2018,312,3.3,96,Drama
+Polis Evo 2,2018,372,3.3,125,"Action, Thriller, Crime"
+Silukkuvarupatti Singam,2018,465,2.9,134,"Comedy, Action"
+Bioscopewala,2018,235,3.4,95,Drama
+The Diesel,2018,419,2.5,105,"Crime, Thriller, Action"
+Half Brother,2018,201,3.2,98,Drama
+Happy Ending,2018,238,3.3,96,Comedy
+Shikkari Shambhu,2018,456,2.9,140,"Comedy, Adventure"
+Darrell Hammond: Mayhem Explained,2018,294,3.6,58,Comedy
+Latyan,2018,418,2.1,90,"Family, Drama"
+Student Athlete,2018,216,3.4,92,Documentary
+Living Space,2018,208,2.7,80,Horror
+The Escape of Prisoner 614,2018,201,3.0,97,"Adventure, Comedy, Western"
+Making Babies,2018,232,3.0,86,"Comedy, Drama"
+Ananta,2018,380,3.2,91,"Drama, Romance"
+Beck 38 - The Devil’s Advocate,2018,339,3.1,90,"Drama, Thriller, Mystery"
+Lethal Admirer,2018,259,2.8,74,"TV Movie, Thriller"
+Orange Days,2018,298,2.9,102,Drama
+Life Is a Bitch,2018,204,3.3,107,Comedy
+Car Crash: Who’s Lying?,2018,302,3.2,51,Documentary
+The Kleptocrats,2018,219,3.4,84,Documentary
+Metal Heart,2018,221,3.2,90,"Drama, Comedy"
+A Bigger Game,2018,460,2.2,100,"Drama, Mystery"
+Humble Politician Nograj,2018,320,3.3,144,"Drama, Comedy"
+Bucket List,2018,209,3.1,130,"Comedy, Drama"
+The Amaranth,2018,284,3.0,88,"Drama, Thriller, Mystery"
+Katie,2018,268,3.5,89,Documentary
+The Many Faces of Ito: The Movie,2018,220,3.1,126,"Romance, Drama, Mystery"
+Volontaire,2018,272,3.1,101,Drama
+Midnight Runner,2018,247,3.1,92,Drama
+Veneno,2018,211,3.4,97,"Action, Drama"
+100 Days of Loneliness,2018,241,3.4,93,"Documentary, Drama"
+Freddy Eddy,2018,212,3.2,94,Thriller
+Robin Hood: The Rebellion,2018,237,2.6,92,"Action, History, Adventure"
+Folklore: Toyol,2018,212,3.2,51,"TV Movie, Thriller, Horror"
+Broken Star,2018,222,2.8,90,Thriller
+Contromano,2018,400,3.0,102,Comedy
+Season for Love,2018,220,3.1,90,"Drama, Comedy, Romance"
+Beside Me,2018,265,3.1,84,"Romance, Drama"
+Generation Aami,2018,332,3.4,122,Drama
+JoJo’s Bizarre Adventure: Golden Wind,2018,353,3.8,0,Animation
+Racetime,2018,249,3.1,90,"Family, Animation, Adventure"
+The Orphanage,2018,315,3.1,96,"TV Movie, History, Drama"
+Each and Every Moment,2018,211,3.4,105,Documentary
+Beck 37 - Without Intent,2018,321,3.2,90,"Mystery, Drama, Crime"
+Gaby Estrella: O Filme,2018,310,2.9,94,"Family, Comedy"
+Uncle,2018,404,2.9,145,"Thriller, Drama"
+Ani… Dr. Kashinath Ghanekar,2018,245,3.5,159,Drama
+Danger One,2018,234,3.1,101,"Comedy, Action"
+Coldplay: Live In São Paulo,2018,248,3.8,121,No genres available
+The Trial of Ratko Mladic,2018,226,3.5,99,"History, Documentary"
+Kirrak Party,2018,411,3.1,153,"Comedy, Romance, Drama"
+"Rona, Azim’s Mother",2018,233,3.1,89,Drama
+1968,2018,257,3.4,93,"Documentary, History"
+Happy Phirr Bhag Jayegi,2018,340,2.8,136,"Comedy, Romance, Drama"
+La Casa Rosada,2018,204,3.4,102,No genres available
+Sextape,2018,217,3.0,98,Comedy
+Touch Chesi Chudu,2018,401,2.7,147,Action
+La prima pietra,2018,307,3.1,77,"Comedy, Drama"
+The Bikes of Wrath,2018,216,3.5,102,Documentary
+Likemeback,2018,217,2.9,80,Drama
+Plan V,2018,308,2.6,93,"Romance, Comedy"
+Rompis,2018,340,3.1,99,"Romance, Drama"
+Folklore: Mongdal,2018,202,3.2,49,"Horror, TV Movie"
+El Día de la Unión,2018,280,2.9,110,Drama
+The Unorthodox,2018,200,3.5,92,"History, Drama, Comedy"
+Thimiru Pudichavan,2018,410,2.9,156,"Action, Drama"
+The Guardian Angel,2018,216,3.0,102,"Drama, Thriller"
+Silam,2018,293,2.8,80,Horror
+My Dear Prime Minister,2018,208,3.4,104,Drama
+RIDE,2018,316,3.0,102,"Action, Thriller"
+Find Me,2018,230,3.2,104,Drama
+Son of Adam,2018,364,2.7,109,"Drama, Thriller, Mystery"
+Julius,2018,346,3.2,97,Comedy
+L Storm,2018,268,3.0,97,"Thriller, Crime, Action"
+Penalty Kick,2018,306,2.6,89,Comedy
+Viking Destiny,2018,221,2.7,91,"Fantasy, Action, Adventure"
+An Inspector Calls,2018,256,2.7,0,"Drama, Mystery"
+Rasuk,2018,268,2.7,89,"Drama, Horror"
+Neevevaro,2018,342,3.2,130,"Romance, Thriller"
+Haami,2018,314,3.4,133,Drama
+Winter Ridge,2018,206,2.8,90,"Thriller, Thrillers And Murder Mysteries, Suspenseful Crime Thrillers"
+Nimir,2018,362,3.1,130,"Comedy, Thriller"
+Bizim Köyün Şarkısı,2018,360,2.8,104,"Family, Comedy"
+Stars in the Sky: A Hunting Story,2018,252,3.5,69,Documentary
+The Famous Five and the Valley of Dinosaurs,2018,302,2.9,102,"Family, Adventure"
+Zakir Khan: Kaksha Gyarvi,2018,304,3.5,75,Comedy
+I’m Leaving Now,2018,201,3.3,74,Documentary
+Sangre blanca,2018,213,3.2,97,Drama
+Code Blue: The Movie,2018,238,3.3,127,"Action, Drama, Adventure"
+Youth,2018,219,3.5,1170,"Drama, Comedy"
+Bhaskar Oru Rascal,2018,396,2.7,150,"Comedy, Romance, Action"
+Ruth,2018,201,3.2,120,Drama
+Jacqueline Sauvage: It Was Him or Me,2018,270,3.4,0,"Drama, Crime"
+Forever Chape,2018,267,3.4,73,Documentary
+Vultures,2018,247,3.1,95,"Drama, Crime, Thriller"
+Reckless,2018,232,3.1,98,"Action, Comedy"
+Aapla Manus,2018,261,3.2,0,"Thriller, Mystery, Drama"
+"Love, Once and Always",2018,205,3.0,90,"TV Movie, Drama"
+The Trip 5,2018,356,2.8,86,Comedy
+A Summer to Remember,2018,204,3.1,84,"Romance, Comedy, TV Movie"
+Kuchh Bheege Alfaaz,2018,212,3.4,116,"Romance, Drama"
+A Kind of America 3,2018,316,2.8,103,"Comedy, Music, Crime"
+A Documentary on The Shadow Play,2018,241,3.7,97,Documentary
+DTC –Yukemuri Junjo Hen– from HiGH&LOW,2018,205,3.3,102,Comedy
+Ice Princess Lily,2018,213,2.9,90,"Family, Animation"
+El rey,2018,203,3.4,82,"History, Drama"
+Hoax,2018,244,3.4,83,Drama
+"R: King, Queen & Secrets",2018,358,2.8,97,"Drama, Romance"
+Dancing in the Rain,2018,315,3.2,101,"Romance, Family, Drama"
+V.I.P. Cop. New Year’s Eve Mayhem,2018,337,3.0,95,"Comedy, Crime"
+Papa est devenu un lutin,2018,225,2.4,74,"Comedy, Fantasy"
+It’s All About Love,2018,349,3.1,113,"Romance, Comedy"
+Kuttanpillayude Sivarathri,2018,323,3.2,120,"Comedy, Drama, Family"
+Change in the Air,2018,207,2.8,94,Drama
+Koki-Koki Cilik,2018,296,3.3,91,"Drama, Family"
+Namaste England,2018,291,2.6,141,"Romance, Comedy"
+Hate Story IV,2018,263,2.6,131,"Drama, Thriller, Crime"
+Mitron,2018,292,3.2,116,"Romance, Comedy, Family"
+Dead Sound,2018,219,2.8,82,"Thriller, Action"
+"Last Winter, We Parted",2018,225,3.4,119,Mystery
+Al Waseya,2018,313,3.4,1080,Comedy
+Elephants Can Play Football,2018,209,3.3,105,"Romance, Drama"
+Snatch Up,2018,212,3.2,101,"Crime, Action, Comedy"
+Leo Da Vinci: Mission Mona Lisa,2018,204,2.9,85,"Animation, Family, Adventure"
+Bill Bailey: Limboland,2018,235,3.5,74,Comedy
+Columbus,2018,244,2.2,82,"Drama, Comedy"
+16 Sunrises,2018,215,3.4,110,Documentary
+School Is Over,2018,309,2.9,87,Comedy
+Gultoo,2018,226,3.3,147,"Crime, Drama"
+Jai Simha,2018,364,2.7,165,"Comedy, Action, Family"
+The Girl in the Orange Dress,2018,212,3.0,100,Romance
+A Woman’s Name,2018,213,3.1,98,Drama
+Cops,2018,227,3.3,92,Drama
+Alien Expedition,2018,208,2.6,93,"Science Fiction, Adventure, Action"
+Paradise 89,2018,243,3.3,90,"Drama, Family"
+Agent Mr Chan,2018,255,2.9,100,"Comedy, Romance, Action"
+Vodka Diaries,2018,244,3.0,112,"Mystery, Thriller"
+Everything Is Beautiful with You,2018,283,2.6,108,"Comedy, Romance"
+Silencer,2018,206,2.7,88,Action
+Te juro que yo no fui,2018,273,2.4,84,Comedy
+Hide and Seek,2018,292,3.0,95,Comedy
+Crazy Wedding,2018,302,2.9,90,Comedy
+Ten Seconds Before Sunrise,2018,218,3.1,82,Drama
+Woodland,2018,220,3.0,87,Thriller
+The Violin Player,2018,212,3.3,125,"Romance, Drama"
+Tale of the Sea,2018,303,2.7,97,Drama
+Manuel,2018,207,3.4,95,Drama
+Afganistanbul,2018,233,3.0,0,Documentary
+Fit In With The App,2018,319,2.8,89,Comedy
+Benidorm: 10 Years on Holiday,2018,230,3.5,46,Documentary
+Caiga quien caiga,2018,257,2.8,98,Thriller
+Young Times,2018,211,3.8,94,Comedy
+Onde a Moeda Cai em Pé: A História do São Paulo Futebol Clube,2018,202,3.8,108,Documentary
+Hollywood on the river Scheldt,2018,234,3.4,119,Documentary
+Nieraali,2018,348,2.6,128,Thriller
+Christ(Off),2018,284,2.9,91,Comedy
+Sealed Lips,2018,220,3.3,100,"Drama, History"
+Separated at Birth,2018,240,3.1,0,"TV Movie, Thriller"
+Gulabjaam,2018,203,3.5,120,"Drama, Comedy"
+Nela Ticket,2018,351,2.7,120,"Action, Drama"
+Panchavarnathatha,2018,348,2.9,147,"Drama, Comedy"
+I Want to,2018,362,2.2,95,Comedy
+Kill Mobile,2018,217,3.0,96,"Comedy, Drama"
+Una festa esagerata,2018,324,2.9,93,Comedy
+Más sabe el Diablo por Viejo,2018,218,2.9,90,Comedy
+Agustín Aristarán: Soy Rada,2018,262,3.4,60,Comedy
+Guptodhoner Sondhane,2018,305,3.3,133,"Thriller, History, Adventure"
+The Insiders,2018,225,3.1,115,Drama
+Qué León,2018,252,2.9,90,"Comedy, Romance"
+Passagier 23,2018,292,3.0,120,"TV Movie, Thriller"
+Big in Japan,2018,234,3.3,95,Documentary
+We Belong Together,2018,205,2.7,82,"Drama, Thriller"
+If Life Gives You Lemons,2018,201,3.3,88,Drama
+Hamburger Gitter,2018,212,3.6,76,Documentary
+"Mme Mills, une voisine si parfaite",2018,248,2.8,88,Comedy
+Last Night,2018,224,2.7,70,Comedy
+Bad Investigate,2018,215,3.1,120,"Crime, Comedy, Thriller"
+Prescription for Danger,2018,228,2.9,94,"Thriller, TV Movie"
+Soldier’s Lullaby,2018,209,3.3,120,War
+The Music Box,2018,203,2.6,83,Thriller
+Lyrro - Ut & invandrarna,2018,295,3.0,88,Comedy
+Lovers,2018,275,2.8,98,No genres available
+Foreign Knot,2018,295,2.7,110,Drama
+To Die For,2018,258,2.8,109,"Drama, War"
+Call DiCaprio!,2018,221,3.5,405,"Comedy, Drama"
+Unforgiven,2018,236,3.1,110,"History, Drama"
+Serial Killer with Piers Morgan,2018,238,3.0,59,Documentary
+Kavacham,2018,312,2.8,143,"Thriller, Action"
+Pistorius,2018,212,3.5,225,Documentary
+Fight Girl,2018,203,3.2,84,Drama
+Kuttanadan Marpappa,2018,316,2.7,140,Comedy
+Mohanlal,2018,326,2.6,165,"Drama, Comedy"
+Johny Johny Yes Appa,2018,320,2.8,143,"Drama, Comedy"
+Ricardo O’Farrill - Live From Pachuca,2018,231,3.7,0,Comedy
+JerryMaja’s Detective Agency - The First Mystery,2018,220,3.1,89,"Family, Adventure, Mystery"
+Benyamin the Troublemaker,2018,266,2.7,93,"Action, Comedy, Music"
+Temporary Difficulties,2018,293,2.7,83,Drama
+Death March to the Parallel World Rhapsody,2018,210,3.0,300,"Comedy, Animation"
+Genius,2018,279,2.8,164,"Thriller, Action"
+Torvill & Dean,2018,200,3.2,90,"TV Movie, Drama"
+Saakshyam,2018,310,2.7,166,"Romance, Action, Fantasy"
+Katyusha,2018,353,1.9,90,Comedy
+The Human Part,2018,230,3.4,90,"Comedy, Drama"
+Kaali,2018,300,2.8,113,"Action, Drama"
+Exterminator: Ready To Roll,2018,260,3.3,113,"Comedy, Music"
+Insatiable,2018,212,3.2,0,Animation
+Plan B,2018,205,3.2,88,"Comedy, Romance"
+The Bachelor 3,2018,237,2.8,107,Action
+Street Lights,2018,266,2.9,129,"Thriller, Crime"
+Crazy in Love 2,2018,242,2.7,104,Music
+Back to the Good Times,2018,244,3.0,119,"Comedy, Drama"
+Jack Em Popoy: The Puliscredibles,2018,204,2.9,115,"Comedy, Action"
+Ali Baba,2018,257,2.6,110,Comedy
+What Men Want,2018,230,3.0,95,Comedy
+Babamın Ceketi,2018,256,2.9,101,"Family, Comedy"
+The Colleagues 2.0,2018,249,2.7,94,"Drama, Comedy"
+Taxing Love,2018,232,3.1,101,"Romance, Comedy"
+Hubert und Staller – Eine schöne Bescherung,2018,238,3.3,90,"Crime, Comedy"
+Bad Luck Good Love,2018,244,2.7,82,"Comedy, Romance"
+Trezor,2018,222,3.3,75,"Thriller, Crime, History"
+Without Me,2018,214,3.2,97,"Romance, Thriller, Drama"
+Nannu Dochukunduvate,2018,241,3.2,145,Romance
+London Love Story 3,2018,263,3.0,89,"Drama, Romance"
+Sleeper,2018,219,2.7,90,"Thriller, TV Movie"
+Nonsense,2018,205,3.1,87,"Drama, Family, Comedy"
+Step Outside,2018,241,2.8,93,Comedy
+We Like You Miss Yaya,2018,311,2.1,80,"Drama, Comedy, Fantasy"
+Wind,2018,226,2.8,94,"Romance, Comedy, Family"
+Drama,2018,275,2.7,146,Comedy
+Annanukku Jey,2018,220,3.2,111,"Drama, Comedy"
+"Verpiss Dich, Schneewittchen",2018,214,2.6,88,Comedy
+Byomkesh Gotro,2018,206,3.2,136,"Thriller, Mystery"
+My Story,2018,223,2.6,139,Romance
+Carry on Jatta 2,2018,214,3.1,149,"Comedy, Romance"
+Inttelligent,2018,257,2.6,130,"Action, Drama, Comedy"
+House Arrest,2018,238,3.5,840,Comedy
+Parole,2018,233,2.7,150,"Action, Family"
+The Magic Quill,2018,202,3.1,99,"Fantasy, Family"
+Friday Market,2018,224,3.0,99,"Comedy, Drama"
+"Les Bleus 2018, The Russian Epic",2018,203,3.5,64,Documentary
+Oru Kuttanadan Blog,2018,243,2.6,137,"Drama, Comedy"
+Thi Baan The Series 2.1,2018,203,3.4,125,"Drama, Comedy"
+Los Angeles/Tehran,2018,244,2.0,90,Comedy
+Oru Pazhaya Bomb Kadha,2018,242,2.8,147,"Romance, Comedy"
+Astigmatism,2018,230,2.5,85,Drama
+Thattumpurath Achuthan,2018,223,2.7,142,Comedy
+Manchi Lakshanalunna Abbayi,2018,238,2.8,129,"Drama, Action"
+The Villain,2018,209,2.8,175,"Action, Crime"
+Ira,2018,203,3.0,138,Thriller
+Bridge of Sleep,2018,209,2.6,90,"Drama, Crime"
+Aanakallan,2018,203,2.8,155,"Comedy, Drama"
+Khaltoor,2018,211,2.1,90,"Comedy, Crime"

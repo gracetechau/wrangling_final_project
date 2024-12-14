@@ -20,7 +20,7 @@ This project combines box office revenue data from the Kaggle dataset [_'Movies 
 
 ## What did I learn?
 
-This project developed my overall understanding and use of the Python langauge. Specifically, the use of the Selenium package when scraping data from the Letterboxd website. This project required a lot of patience and troublshooting while scraping and analyzing data. This was extremely useful in my development of using Python.
+This project developed my overall understanding and use of the Python langauge. Specifically, the use of the Selenium package when scraping data from the Letterboxd website. This project required a lot of patience and troublshooting while scraping and analyzing the film data. This significantly enhanced my understanding and use of Python.
 
 ## Installation Instructions
 
@@ -30,7 +30,7 @@ This project developed my overall understanding and use of the Python langauge. 
 
 ### Change Log
 
-- 11/06/2024 - raw box office revenue data file from Keagle imported
+- 11/06/2024 - raw box office revenue data file from Kaggle imported
 - 11/07/2024 - created notebook for box office revenue data set cleaning
 - 11/07/2024 - clean box office revenue data file imported
 - 11/12/2024 - created notebooks for Letterboxd movie data scraping

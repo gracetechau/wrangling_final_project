@@ -11,9 +11,9 @@ The files prefixed with 01 to 06 contain code dealing with cleaning, merging, ED
 Python Jupyter notebooks (.ipynb).
 Files are prefixed with the order they should run.
 
-- 00_letterboxd.2017.ipynb
-- 00_letterboxd.2018.ipynb
-- 00_letterboxd.2019.ipynb
+- 00_letterboxd.2017.scrape.ipynb
+- 00_letterboxd.2018.scrape.ipynb
+- 00_letterboxd.2019.scrape.ipynb
 - 01_boxoffice.revenue.ipynb
 - 02_letterboxd.2017.clean.ipynb
 - 03_letterboxd.2018.clean.ipynb
